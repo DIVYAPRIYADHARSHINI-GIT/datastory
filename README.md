@@ -2,6 +2,8 @@
 
 > **Turn any spreadsheet into a story.**
 
+**Live:** <https://datastory.vercel.app> · **Repo:** <https://github.com/DIVYAPRIYADHARSHINI-GIT/datastory>
+
 A professional data-to-dashboard web app. Upload a CSV or Excel file and DataStory cleans
 it, detects what each column actually is, and generates KPI cards, charts and written
 insights — a raw spreadsheet becomes a shareable dashboard in under a minute.
@@ -23,7 +25,8 @@ DataStory wants a file.
 | Check | Result |
 | --- | --- |
 | Unit tests (`npm test`) | **253 passing** |
-| Browser e2e checks (`npm run probe`) | **50 passing** in headless Chrome against the production build |
+| Browser e2e checks (`npm run probe`) | **63 passing** in headless Chrome against the production build |
+| Live-site checks (`npm run probe:live`) | **22 passing** against <https://datastory.vercel.app> |
 | `svelte-check` | **0 errors, 0 warnings** |
 | Console errors across the full journey | **0** |
 | Horizontal overflow at 390 px, every page | **0 px** |
@@ -39,6 +42,7 @@ npm run build      # static site -> build/
 npm run preview    # serve the production build
 npm test           # unit tests
 npm run probe      # headless-Chrome end-to-end checks (builds first)
+npm run probe:live # same, but against the deployed site
 npm run check      # svelte-check
 ```
 
@@ -53,6 +57,21 @@ node scripts/make-samples.mjs
 `@sveltejs/adapter-static` with `prerender` + `ssr: false` emits a plain static site in
 `build/`. Drop it on GitHub Pages, Vercel, Netlify or any static host — no runtime, no env
 vars, no serverless functions. There are **no server routes at all**.
+
+Live on Vercel at <https://datastory.vercel.app>, auto-deployed from `main`.
+[`vercel.json`](vercel.json) sets the Vite preset, `npm run build`, `outputDirectory: build`,
+and rewrites every unmatched path to the SPA fallback so refreshing a deep link cannot 404.
+Vercel matches real files before applying rewrites, so `/_app/*` and `/samples/*.csv` are
+still served as files; hashed assets get a one-year immutable cache.
+
+**On the SPA fallback:** it is `200.html`, not `index.html`. Pointing adapter-static's
+`fallback` at `index.html` makes it *overwrite* the prerendered landing page with a bare
+JS-only shell, which loses the real description and the landing route's own module
+preloads. Keeping them separate means the root URL serves the real page and every other
+path falls back cleanly.
+
+On a host without rewrite support, point the fallback at `200.html` (Surge, Netlify's
+`_redirects`) or copy it to `404.html` (GitHub Pages).
 
 ---
 
@@ -235,14 +254,24 @@ Includes a full-pipeline integration test that runs **the real bundled sample CS
 parse → type → quality → clean → suggest → aggregate → KPI → insight and asserts that no
 suggested chart comes back empty and no insight contains `NaN`/`undefined`.
 
-**Browser e2e (50)** — `npm run probe`. Drives the **production build** in headless Chrome
+**Browser e2e (63)** — `npm run probe`. Drives the **production build** in headless Chrome
 over one continuous journey: load a sample, search, sort, clean, build a dashboard,
 cross-filter by clicking a bar, change chart type, hide and restore a card, read the Story,
 copy insights, build a custom chart, save, reopen, duplicate, delete, download a real CSV /
 PDF / PNG and assert their magic bytes and size, switch theme and palette, change currency
 and number format, use the keyboard shortcuts, build a dashboard for every sample dataset,
 check each upload error message, verify zero horizontal overflow at 390 px — and finally
-assert the whole journey produced **zero console errors**.
+assert the whole journey produced **zero console errors**. The static server in the harness
+mirrors Vercel's routing exactly (real file first, then `200.html`, 404 for unknown asset
+extensions) so deploy-shape bugs cannot hide behind a friendlier local server.
+
+**Live site (22)** — `npm run probe:live`, or `DATASTORY_URL=…` for any other environment.
+Runs against the deployed URL: HTTPS, the hero, every CSS/JS asset resolving, a refresh on
+all eight routes returning 200, an unknown deep link booting through the fallback with no
+failed asset requests, the sample dataset loading over the network and building a dashboard,
+cross-filtering by clicking a bar, insights with real numbers, a genuine CSV upload through
+the file chooser, the unsupported-file error, dark mode persisting across a hard reload, and
+zero overflow at 390 px.
 
 ### Bugs the tests caught
 

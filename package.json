@@ -14,7 +14,8 @@
 		"check": "svelte-kit sync && svelte-check --tsconfig ./tsconfig.json",
 		"test": "vitest run",
 		"test:watch": "vitest",
-		"probe": "vitest run --config probes/vitest.probe.config.ts"
+		"probe": "vitest run --config probes/vitest.probe.config.ts probes/e2e.probe.ts",
+		"probe:live": "vitest run --config probes/vitest.probe.config.ts probes/live.probe.ts"
 	},
 	"devDependencies": {
 		"@sveltejs/adapter-static": "4.0.0",
