@@ -1,0 +1,621 @@
+Student ID,Student Name,Class,Section,Stream,Gender,Attendance %,Study Hours Per Day,Private Tuition,Internet At Home,Parent Education,Mathematics,Science,English,Social Studies,Total Marks,Percentage,Grade,Result
+STU2001,Reyansh Gill,9,A,Arts,Male,82.3,1,No,Yes,High School,58,53,78,61,250,62.5,C,Pass
+STU2002,Navya Elango,12,D,Computer Science,Female,85.8,2.5,Yes,Yes,Masters,91,67,79,75,312,78,B,Pass
+STU2003,Kiara Gill,9,A,Computer Science,Male,82.5,3.6,No,Yes,High School,79,57,74,74,284,71,B,Pass
+STU2004,Saanvi Elango,10,D,Science,Male,81.7,1.8,Yes,Yes,Bachelors,78,75,66,83,302,75.5,B,Pass
+STU2005,Kiara Dutta,11,A,Science,Female,76.8,2.1,No,No,None,59,81,73,58,271,67.8,C,Pass
+STU2006,Advait Mishra,11,C,Science,Male,69,1.5,No,No,Masters,50,61,54,50,215,53.8,D,Pass
+STU2007,Yash Jain,11,D,Science,Male,91.8,3,No,No,None,67,75,60,81,283,70.8,B,Pass
+STU2008,Kabir Agarwal,12,D,Commerce,Female,69.8,1.5,No,No,Masters,61,68,64,69,262,65.5,C,Pass
+STU2009,Kabir Mishra,9,D,Science,Male,88.3,3,No,Yes,High School,100,74,69,65,308,77,B,Pass
+STU2010,Kiara Gill,12,A,Science,Male,100,4.2,Yes,Yes,High School,97,98,100,95,390,97.5,A+,Pass
+STU2011,Kabir Elango,11,B,Computer Science,Male,,3.1,No,Yes,High School,86,85,88,81,340,85,A,Pass
+STU2012,Reyansh Lal,9,A,Arts,Male,75.1,4.1,No,Yes,None,75,65,66,65,271,67.8,C,Pass
+STU2013,Ayaan Fernandes,10,C,Arts,Male,80.3,2.5,Yes,Yes,None,66,56,64,82,268,67,C,Pass
+STU2014,Avni Dutta,9,A,Arts,Female,81.2,1.2,No,Yes,High School,62,68,63,53,246,61.5,C,Pass
+STU2015,Avni Agarwal,9,C,Science,Male,100,3.8,Yes,Yes,Bachelors,100,100,82,84,366,91.5,A+,Pass
+STU2016,Avni Fernandes,10,C,Arts,Female,87.8,4,Yes,Yes,None,66,82,72,84,304,76,B,Pass
+STU2017,Aarohi Elango,9,D,Computer Science,Male,78.7,2.9,Yes,Yes,High School,76,85,70,76,307,76.8,B,Pass
+STU2018,Ishaan Mishra,10,C,Science,Female,93.2,0.7,No,No,Masters,72,74,78,59,283,70.8,B,Pass
+STU2019,Vihaan Chandra,9,B,Science,Female,96.1,1.2,No,No,None,79,64,54,61,258,64.5,C,Pass
+STU2020,Kabir Dutta,10,D,Arts,Male,,3.6,No,Yes,Masters,87,81,86,93,347,86.8,A,Pass
+STU2021,Vihaan Agarwal,12,C,Science,Male,81.4,3.8,No,Yes,Bachelors,90,72,85,62,309,77.3,B,Pass
+STU2022,Ayaan Gill,12,B,Arts,Male,67.8,0.7,No,Yes,High School,64,53,68,46,231,57.8,D,Pass
+STU2023,Aarohi Kapoor,11,D,Commerce,Male,80.2,0.7,No,Yes,Masters,86,47,73,66,272,68,C,Pass
+STU2024,Myra Dutta,10,D,Arts,Male,90,1.4,Yes,Yes,None,75,61,73,68,277,69.3,C,Pass
+STU2025,Prisha Jain,9,D,Commerce,Female,67,2.2,No,Yes,Masters,60,50,40,59,209,52.3,D,Pass
+STU2026,Tara Jain,10,A,Commerce,Male,65.6,0.9,No,No,Bachelors,29,47,49,41,166,41.5,F,Fail
+STU2027,Myra Chandra,10,A,Arts,Female,96.8,2,Yes,No,High School,89,80,83,76,328,82,A,Pass
+STU2028,Rudra Mishra,12,A,Commerce,Male,81.9,2.7,Yes,Yes,High School,79,66,68,82,295,73.8,B,Pass
+STU2029,Dhruv Chandra,12,C,Computer Science,Male,80.7,3.4,No,Yes,High School,86,59,65,88,298,74.5,B,Pass
+STU2030,Aarohi Bhatt,11,D,Science,Male,90.9,2.8,Yes,Yes,Bachelors,81,94,65,82,322,80.5,A,Pass
+STU2031,Tara Dutta,10,B,Science,Male,86.6,4,No,Yes,None,78,78,80,87,323,80.8,A,Pass
+STU2032,Avni Gill,10,B,Science,Male,87.2,5.6,No,Yes,None,69,100,83,71,323,80.8,A,Pass
+STU2033,Anika Gill,10,A,Arts,Female,90.2,4.4,No,Yes,None,77,81,81,76,315,78.8,B,Pass
+STU2034,Kabir Kapoor,10,B,Science,Female,54.9,1.6,No,Yes,None,44,65,61,37,207,51.8,D,Pass
+STU2035,Anika Fernandes,9,D,Science,Female,65.5,2.4,No,Yes,High School,54,77,51,50,232,58,D,Pass
+STU2036,Prisha Elango,9,C,Commerce,Male,76.4,1.2,No,Yes,None,56,50,52,76,234,58.5,D,Pass
+STU2037,Rudra Gill,12,B,Commerce,Female,97.6,1.9,Yes,Yes,Masters,76,79,91,87,333,83.3,A,Pass
+STU2038,Avni Jain,9,B,Computer Science,Male,87.6,1.8,Yes,Yes,High School,70,77,75,95,317,79.3,B,Pass
+STU2039,Ayaan Fernandes,10,D,Computer Science,Male,69.1,3.4,No,Yes,Bachelors,52,71,64,72,259,64.8,C,Pass
+STU2040,Advait Hegde,11,B,Computer Science,Male,72,2.6,Yes,Yes,Bachelors,51,71,62,91,275,68.8,C,Pass
+STU2041,Saanvi Jain,11,B,Commerce,Female,73.9,1.9,Yes,Yes,Bachelors,63,65,60,76,264,66,C,Pass
+STU2042,Yash Hegde,11,D,Computer Science,Male,70.1,3.7,No,Yes,None,58,61,68,79,266,66.5,C,Pass
+STU2043,Kabir Chandra,11,C,Computer Science,Female,77.3,1.3,No,No,High School,57,41,63,59,220,55,D,Pass
+STU2044,Prisha Lal,12,D,Science,Female,91.7,1.9,No,Yes,Bachelors,77,80,75,66,298,74.5,B,Pass
+STU2045,Kabir Gill,11,D,Arts,Female,94.2,4.3,No,Yes,None,78,79,,78,322,80.5,A,Pass
+STU2046,Dhruv Kapoor,11,C,Commerce,Male,92.9,3.1,No,No,High School,71,67,69,87,294,73.5,B,Pass
+STU2047,Avni Fernandes,12,D,Commerce,Male,86.6,2.4,Yes,Yes,Masters,71,76,77,63,287,71.8,B,Pass
+STU2048,Rudra Bhatt,11,A,Computer Science,Female,91.2,1.7,No,Yes,None,89,55,75,51,270,67.5,C,Pass
+STU2049,Tara Agarwal,12,B,Commerce,Male,71.8,2.7,Yes,Yes,Bachelors,59,54,65,65,243,60.8,C,Pass
+STU2050,Kabir Lal,11,A,Commerce,Male,100,4.5,Yes,No,None,97,78,88,70,333,83.3,A,Pass
+STU2051,Rudra Chandra,10,C,Computer Science,Female,85.3,3.5,No,Yes,None,57,78,66,72,273,68.3,C,Pass
+STU2052,Navya Dutta,11,D,Science,Male,60.8,1.2,No,Yes,High School,55,75,68,49,247,61.8,C,Pass
+STU2053,Myra Hegde,10,D,Computer Science,Female,63.4,2.5,No,Yes,None,60,53,48,63,224,56,D,Pass
+STU2054,Dhruv Jain,10,A,Science,Male,81.9,2.8,No,Yes,Bachelors,86,67,73,82,308,77,B,Pass
+STU2055,Aarohi Elango,11,D,Computer Science,Male,79.5,2.4,Yes,Yes,Masters,69,71,81,80,301,75.3,B,Pass
+STU2056,Yash Fernandes,9,B,Commerce,Female,82.7,3.5,No,Yes,None,73,61,68,64,266,66.5,C,Pass
+STU2057,Vihaan Jain,9,A,Arts,Female,100,4,Yes,Yes,None,73,82,97,77,329,82.3,A,Pass
+STU2058,Advait Lal,11,B,Computer Science,Female,96.1,3,No,Yes,High School,75,67,55,75,272,68,C,Pass
+STU2059,Kiara Gill,12,A,Science,Female,,2.8,No,Yes,Bachelors,82,66,84,80,312,78,B,Pass
+STU2060,Anika Dutta,12,A,Commerce,Female,93.6,2.7,Yes,Yes,High School,67,76,96,85,324,81,A,Pass
+STU2061,Aarohi Bhatt,12,B,Computer Science,Male,79.7,3.8,No,Yes,Bachelors,87,69,84,68,308,77,B,Pass
+STU2062,Tara Bhatt,10,B,Arts,Female,86.5,4.4,No,Yes,Bachelors,85,81,100,84,350,87.5,A,Pass
+STU2063,Kiara Bhatt,9,B,Commerce,Female,72.6,0.4,Yes,Yes,Bachelors,54,77,66,77,274,68.5,C,Pass
+STU2064,Rudra Elango,12,C,Arts,Female,69,3,Yes,No,High School,35,59,69,43,206,51.5,D,Pass
+STU2065,Vihaan Jain,9,B,Commerce,Female,87.1,2.4,No,Yes,Bachelors,65,88,69,66,288,72,B,Pass
+STU2066,Ishaan Bhatt,9,B,Science,Male,66.8,1.7,Yes,No,Bachelors,56,65,50,44,215,53.8,D,Pass
+STU2067,Rudra Kapoor,9,D,Science,Male,81.6,1,Yes,Yes,Masters,59,58,74,83,274,68.5,C,Pass
+STU2068,Advait Jain,11,B,Computer Science,Male,100,2.7,Yes,Yes,Bachelors,86,78,88,100,352,88,A,Pass
+STU2069,Vihaan Gill,10,D,Arts,Female,82.3,3.5,No,Yes,High School,54,64,86,70,274,68.5,C,Pass
+STU2070,Rudra Kapoor,10,D,Commerce,Female,79,4.2,Yes,Yes,Bachelors,91,73,85,83,332,83,A,Pass
+STU2071,Avni Jain,10,C,Commerce,Female,,3.6,No,Yes,Bachelors,69,68,81,50,268,67,C,Pass
+STU2072,Tara Lal,10,D,Computer Science,Male,91.1,4.4,No,Yes,None,86,63,90,80,319,79.8,B,Pass
+STU2073,Dhruv Elango,12,B,Arts,Female,85.9,3.5,No,Yes,High School,67,74,69,73,283,70.8,B,Pass
+STU2074,Yash Fernandes,11,D,Arts,Female,79.6,2.7,No,Yes,Bachelors,64,52,80,57,253,63.3,C,Pass
+STU2075,Vihaan Kapoor,12,A,Computer Science,Male,71.9,1.9,No,Yes,Bachelors,99,42,59,60,260,65,C,Pass
+STU2076,Avni Mishra,11,C,Computer Science,Male,82.1,2.4,No,No,Bachelors,59,68,75,73,275,68.8,C,Pass
+STU2077,Myra Fernandes,10,C,Arts,Female,99.2,1.7,No,Yes,Bachelors,60,74,79,81,294,73.5,B,Pass
+STU2078,Tara Lal,10,C,Computer Science,Male,100,2.2,No,Yes,Masters,77,90,86,72,325,81.3,A,Pass
+STU2079,Tara Mishra,10,C,Science,Male,74.3,2.4,Yes,Yes,Masters,72,85,64,58,279,69.8,C,Pass
+STU2080,Vihaan Elango,12,A,Computer Science,Male,97.1,2,Yes,Yes,Masters,100,77,100,85,362,90.5,A+,Pass
+STU2081,Avni Fernandes,9,B,Commerce,Male,77.7,3.6,No,Yes,High School,69,74,86,78,307,76.8,B,Pass
+STU2082,Dhruv Elango,10,A,Arts,Male,84.2,2.3,Yes,No,Masters,63,85,80,56,284,71,B,Pass
+STU2083,Advait Bhatt,11,B,Commerce,Male,76.9,0.9,No,Yes,Bachelors,43,54,59,63,219,54.8,D,Pass
+STU2084,Prisha Hegde,10,D,Computer Science,Male,82.4,3.7,No,Yes,None,80,69,57,100,306,76.5,B,Pass
+STU2085,Vihaan Lal,12,C,Commerce,Male,88.2,3.9,No,Yes,Masters,83,76,65,97,321,80.3,A,Pass
+STU2086,Aarohi Gill,11,A,Commerce,Male,66.4,3.2,No,No,Masters,61,79,54,60,254,63.5,C,Pass
+STU2087,Ayaan Mishra,12,B,Arts,Female,79.9,3.7,No,Yes,None,67,62,75,51,255,63.8,C,Pass
+STU2088,Rudra Gill,11,C,Science,Male,77.9,0,No,Yes,High School,63,58,43,48,212,53,D,Pass
+STU2089,Tara Elango,12,A,Arts,Male,81.8,3.5,Yes,No,None,66,86,99,84,335,83.8,A,Pass
+STU2090,Saanvi Fernandes,11,B,Commerce,Male,75.6,3.7,Yes,Yes,Bachelors,71,94,79,63,307,76.8,B,Pass
+STU2091,Yash Chandra,9,B,Arts,Female,84.4,2.9,Yes,Yes,None,66,75,72,78,291,72.8,B,Pass
+STU2092,Vihaan Bhatt,10,A,Arts,Male,85.4,1.6,No,Yes,High School,57,67,65,74,263,65.8,C,Pass
+STU2093,Prisha Fernandes,12,D,Commerce,Female,68.6,1.8,Yes,Yes,Bachelors,56,76,53,56,241,60.3,C,Pass
+STU2094,Ayaan Lal,9,A,Arts,Male,86.4,2,No,Yes,High School,84,61,61,68,274,68.5,C,Pass
+STU2095,Avni Fernandes,10,B,Commerce,Female,83.3,0.9,No,Yes,Masters,66,59,73,79,277,69.3,C,Pass
+STU2096,Advait Lal,10,B,Arts,Female,89.4,3.8,No,Yes,Bachelors,82,76,93,87,338,84.5,A,Pass
+STU2097,Aarohi Chandra,9,D,Computer Science,Male,90.3,2.6,Yes,Yes,Masters,100,90,65,90,345,86.3,A,Pass
+STU2098,Tara Hegde,12,B,Arts,Male,,2.7,Yes,Yes,Bachelors,82,76,81,92,331,82.8,A,Pass
+STU2099,Reyansh Chandra,12,B,Commerce,Male,92.9,2.1,Yes,Yes,Masters,67,89,76,66,298,74.5,B,Pass
+STU2100,Tara Dutta,10,D,Computer Science,Male,100,3,Yes,Yes,None,90,79,86,75,330,82.5,A,Pass
+STU2101,Vihaan Jain,12,A,Commerce,Male,,1.6,Yes,Yes,High School,81,81,73,68,303,75.8,B,Pass
+STU2102,Tara Jain,12,B,Commerce,Male,64,3.4,Yes,Yes,Bachelors,75,81,,87,301,75.3,B,Pass
+STU2103,Navya Lal,11,D,Commerce,Female,77.8,3.4,Yes,Yes,High School,79,66,79,88,312,78,B,Pass
+STU2104,Kiara Dutta,9,A,Arts,Male,93.4,5,No,Yes,Bachelors,81,72,91,79,323,80.8,A,Pass
+STU2105,Kabir Lal,10,D,Arts,Male,82.2,1.3,No,Yes,None,43,60,81,60,244,61,C,Pass
+STU2106,Dhruv Chandra,10,D,Commerce,Female,89.2,4.5,No,Yes,Masters,84,76,77,83,320,80,A,Pass
+STU2107,Anika Bhatt,12,C,Computer Science,Male,72.6,2.7,No,Yes,None,76,74,69,61,280,70,B,Pass
+STU2108,Rudra Chandra,11,C,Commerce,Female,78.2,2.4,Yes,Yes,None,87,79,75,66,307,76.8,B,Pass
+STU2109,Saanvi Jain,9,C,Computer Science,Female,91.5,1.7,No,No,High School,55,61,66,55,237,59.3,D,Pass
+STU2110,Rudra Agarwal,12,C,Commerce,Male,91.2,1.6,No,Yes,None,56,72,63,97,288,72,B,Pass
+STU2111,Avni Kapoor,12,C,Arts,Female,71.4,2.5,No,Yes,Bachelors,100,75,87,67,329,82.3,A,Pass
+STU2112,Navya Hegde,12,C,Arts,Male,89.8,2.4,No,Yes,None,92,67,72,71,302,75.5,B,Pass
+STU2113,Vihaan Jain,11,D,Science,Male,83.1,1.7,No,Yes,High School,64,66,66,71,267,66.8,C,Pass
+STU2114,Advait Chandra,11,C,Commerce,Male,99.3,3.1,No,No,Masters,74,73,98,74,319,79.8,B,Pass
+STU2115,Yash Dutta,10,D,Arts,Female,83.9,0.9,Yes,Yes,None,45,55,63,70,233,58.3,D,Pass
+STU2116,Reyansh Lal,12,B,Arts,Male,75.5,0.6,No,Yes,Masters,60,55,82,59,256,64,C,Pass
+STU2117,Ayaan Chandra,9,A,Science,Male,,2.8,Yes,Yes,High School,100,97,80,74,351,87.8,A,Pass
+STU2118,Avni Elango,10,C,Commerce,Male,68.3,1.9,No,Yes,Bachelors,61,59,61,71,252,63,C,Pass
+STU2119,Ishaan Hegde,11,B,Commerce,Male,86.3,2.9,Yes,No,High School,76,72,80,85,313,78.3,B,Pass
+STU2120,Kiara Jain,10,D,Arts,Male,,1.6,No,No,Bachelors,62,36,77,47,222,55.5,D,Pass
+STU2121,Rudra Fernandes,11,C,Computer Science,Male,84,3.3,No,Yes,Masters,88,75,83,77,323,80.8,A,Pass
+STU2122,Avni Chandra,10,C,Computer Science,Male,86.1,1.3,Yes,Yes,Bachelors,71,68,73,74,286,71.5,B,Pass
+STU2123,Kiara Dutta,11,A,Computer Science,Female,90.4,2.3,Yes,Yes,None,81,69,67,91,308,77,B,Pass
+STU2124,Kabir Lal,9,A,Computer Science,Male,100,5.6,No,Yes,Masters,98,90,78,88,354,88.5,A,Pass
+STU2125,Rudra Gill,11,C,Science,Male,72.4,2.5,No,Yes,High School,57,63,67,60,247,61.8,C,Pass
+STU2126,Tara Agarwal,9,B,Commerce,Male,80.6,1.7,Yes,Yes,Bachelors,75,91,68,80,314,78.5,B,Pass
+STU2127,Saanvi Agarwal,11,D,Science,Female,72.1,3.9,No,Yes,High School,76,75,59,45,255,63.8,C,Pass
+STU2128,Anika Bhatt,12,D,Science,Female,72.3,0.8,Yes,No,Masters,63,65,61,70,259,64.8,C,Pass
+STU2129,Myra Kapoor,10,B,Commerce,Male,100,2.5,No,Yes,High School,67,76,83,69,295,73.8,B,Pass
+STU2130,Ayaan Hegde,10,D,Computer Science,Male,96.5,3.3,No,Yes,High School,97,63,81,85,326,81.5,A,Pass
+STU2131,Navya Dutta,12,C,Arts,Female,86,2.4,Yes,No,None,67,58,65,55,245,61.3,C,Pass
+STU2132,Tara Mishra,9,D,Arts,Male,79.7,2.1,Yes,Yes,Bachelors,72,70,82,61,285,71.3,B,Pass
+STU2133,Kabir Jain,9,A,Commerce,Male,77,3,No,Yes,Masters,74,99,57,66,296,74,B,Pass
+STU2134,Tara Bhatt,12,A,Arts,Male,100,1.6,No,Yes,High School,57,79,82,87,305,76.3,B,Pass
+STU2135,Advait Chandra,12,A,Computer Science,Female,69.9,3.4,Yes,Yes,Bachelors,67,71,80,68,286,71.5,B,Pass
+STU2136,Advait Bhatt,10,B,Computer Science,Male,100,1.2,No,Yes,Masters,81,65,88,77,311,77.8,B,Pass
+STU2137,Rudra Jain,11,D,Science,Female,81.8,1.2,Yes,Yes,High School,62,67,69,66,264,66,C,Pass
+STU2138,Kabir Mishra,12,D,Science,Male,72.7,4.9,No,Yes,Bachelors,87,74,93,77,331,82.8,A,Pass
+STU2139,Kabir Hegde,10,D,Arts,Female,97.8,2.8,No,Yes,High School,85,70,94,78,327,81.8,A,Pass
+STU2140,Tara Lal,11,D,Arts,Male,81.2,2.1,Yes,Yes,High School,61,89,77,77,304,76,B,Pass
+STU2141,Reyansh Elango,12,A,Computer Science,Female,89.4,1.3,No,Yes,Bachelors,81,57,71,79,288,72,B,Pass
+STU2142,Navya Kapoor,10,D,Commerce,Female,85.9,0.5,Yes,Yes,High School,71,53,73,52,249,62.3,C,Pass
+STU2143,Reyansh Lal,9,A,Commerce,Female,83.7,2.9,No,Yes,None,86,53,77,78,294,73.5,B,Pass
+STU2144,Tara Jain,11,C,Arts,Male,70.9,2.9,Yes,Yes,Masters,83,70,76,73,302,75.5,B,Pass
+STU2145,Myra Gill,10,A,Computer Science,Male,97.6,0.3,No,Yes,Bachelors,53,66,71,81,271,67.8,C,Pass
+STU2146,Anika Kapoor,12,D,Commerce,Female,88.6,2.7,Yes,Yes,None,64,86,64,83,297,74.3,B,Pass
+STU2147,Saanvi Kapoor,10,C,Commerce,Male,75.9,1.3,Yes,Yes,Masters,85,62,71,75,293,73.3,B,Pass
+STU2148,Kabir Hegde,10,C,Arts,Male,82.5,1.4,No,Yes,High School,49,62,80,64,255,63.8,C,Pass
+STU2149,Aarohi Mishra,11,A,Science,Male,96.8,3.8,Yes,Yes,Bachelors,100,94,82,77,353,88.3,A,Pass
+STU2150,Kiara Jain,9,A,Commerce,Male,74.6,1.7,No,Yes,Masters,53,69,74,74,270,67.5,C,Pass
+STU2151,Ishaan Gill,10,B,Science,Female,89.6,1.3,No,Yes,High School,83,78,59,83,303,75.8,B,Pass
+STU2152,Tara Mishra,12,B,Science,Male,66,2.4,No,No,Bachelors,51,70,56,36,213,53.3,D,Pass
+STU2153,Kiara Lal,12,A,Commerce,Male,86.1,0.1,Yes,Yes,Masters,70,55,59,54,238,59.5,D,Pass
+STU2154,Ayaan Mishra,10,C,Computer Science,Male,76.3,2.2,Yes,Yes,None,62,53,61,77,253,63.3,C,Pass
+STU2155,Rudra Fernandes,11,C,Arts,Male,79.4,2.4,No,No,None,59,42,58,68,227,56.8,D,Pass
+STU2156,Navya Elango,9,C,Science,Female,70.2,5.9,Yes,Yes,High School,81,88,100,70,339,84.8,A,Pass
+STU2157,Vihaan Elango,9,B,Computer Science,Male,74.2,1,Yes,Yes,Masters,68,57,70,82,277,69.3,C,Pass
+STU2158,Myra Lal,11,B,Commerce,Male,100,3.7,No,Yes,None,59,65,89,93,306,76.5,B,Pass
+STU2159,Prisha Dutta,9,B,Commerce,Female,69.6,0.2,Yes,No,Bachelors,44,47,44,60,195,48.8,F,Pass
+STU2160,Myra Jain,10,D,Commerce,Female,85.3,2,No,No,Masters,56,63,64,75,258,64.5,C,Pass
+STU2161,Reyansh Agarwal,12,B,Arts,Female,80.2,3.1,No,Yes,High School,80,66,91,68,305,76.3,B,Pass
+STU2162,Saanvi Agarwal,11,D,Computer Science,Female,89.8,1.2,Yes,Yes,Masters,86,78,71,65,300,75,B,Pass
+STU2163,Myra Jain,12,B,Commerce,Male,95.1,3.7,No,Yes,High School,94,79,86,76,335,83.8,A,Pass
+STU2164,Advait Mishra,9,D,Computer Science,Female,82.9,1.5,Yes,Yes,Bachelors,76,67,73,74,290,72.5,B,Pass
+STU2165,Anika Fernandes,11,D,Science,Female,63.5,2.5,Yes,Yes,High School,64,69,63,66,262,65.5,C,Pass
+STU2166,Prisha Dutta,10,B,Computer Science,Male,87.1,4.9,Yes,Yes,Bachelors,94,100,90,98,382,95.5,A+,Pass
+STU2167,Navya Bhatt,9,A,Science,Male,80.4,3.2,No,Yes,None,63,78,85,62,288,72,B,Pass
+STU2168,Vihaan Agarwal,9,D,Computer Science,Male,96.5,2.1,No,Yes,Masters,83,71,81,83,318,79.5,B,Pass
+STU2169,Dhruv Mishra,10,A,Arts,Male,92.7,2.8,Yes,Yes,None,68,84,90,83,325,81.3,A,Pass
+STU2170,Rudra Chandra,11,C,Computer Science,Female,80.3,0,No,Yes,None,59,37,50,54,200,50,D,Pass
+STU2171,Rudra Gill,12,D,Computer Science,Male,83.8,2.6,Yes,Yes,None,78,70,69,79,296,74,B,Pass
+STU2172,Ayaan Mishra,11,B,Commerce,Female,87.8,4.5,No,Yes,Bachelors,83,60,65,69,277,69.3,C,Pass
+STU2173,Saanvi Lal,10,B,Computer Science,Male,80.1,0.2,No,No,None,55,31,49,59,194,48.5,F,Fail
+STU2174,Navya Chandra,9,A,Commerce,Female,78.9,2.5,No,Yes,Masters,73,65,70,79,287,71.8,B,Pass
+STU2175,Reyansh Elango,10,B,Computer Science,Male,76.6,1.2,Yes,Yes,None,72,44,63,74,253,63.3,C,Pass
+STU2176,Tara Jain,12,D,Commerce,Male,85,0.5,No,Yes,High School,84,44,70,72,270,67.5,C,Pass
+STU2177,Advait Hegde,9,D,Commerce,Male,99.6,2.6,No,Yes,Masters,86,74,77,80,317,79.3,B,Pass
+STU2178,Reyansh Agarwal,10,B,Science,Female,84.9,3.2,No,Yes,High School,62,71,66,73,272,68,C,Pass
+STU2179,Rudra Lal,11,D,Science,Female,88.2,2,No,Yes,Bachelors,86,87,76,79,328,82,A,Pass
+STU2180,Dhruv Agarwal,12,A,Commerce,Male,81.6,3.6,No,Yes,High School,60,74,85,72,291,72.8,B,Pass
+STU2181,Kabir Bhatt,9,B,Computer Science,Female,98.2,4.1,Yes,Yes,Masters,100,97,88,89,374,93.5,A+,Pass
+STU2182,Reyansh Kapoor,12,B,Commerce,Female,77.4,2.4,Yes,Yes,Bachelors,68,61,73,85,287,71.8,B,Pass
+STU2183,Prisha Gill,12,C,Science,Female,96.2,2,No,No,High School,54,69,78,75,276,69,C,Pass
+STU2184,Tara Mishra,9,A,Computer Science,Male,,1.2,No,Yes,High School,85,64,65,80,294,73.5,B,Pass
+STU2185,Myra Fernandes,12,D,Commerce,Female,85.3,2.3,Yes,Yes,Masters,72,66,73,94,305,76.3,B,Pass
+STU2186,Dhruv Fernandes,10,D,Arts,Male,67.1,3.6,No,Yes,High School,59,74,86,56,275,68.8,C,Pass
+STU2187,Navya Jain,11,B,Science,Female,74.8,2.7,No,Yes,Masters,74,63,64,76,277,69.3,C,Pass
+STU2188,Navya Hegde,11,C,Computer Science,Female,83.9,2.5,Yes,Yes,Masters,75,79,79,84,317,79.3,B,Pass
+STU2189,Reyansh Gill,10,B,Computer Science,Male,84.9,3.2,Yes,No,Masters,73,77,67,69,286,71.5,B,Pass
+STU2190,Ayaan Jain,11,A,Commerce,Female,,1.6,No,Yes,Bachelors,71,67,69,54,261,65.3,C,Pass
+STU2191,Myra Fernandes,11,C,Commerce,Female,63.7,1.4,Yes,Yes,Masters,62,50,62,70,244,61,C,Pass
+STU2192,Navya Kapoor,12,C,Science,Female,79.9,2.5,Yes,No,Masters,75,63,76,81,295,73.8,B,Pass
+STU2193,Saanvi Jain,12,D,Commerce,Male,83.4,1.9,No,Yes,None,55,48,,72,232,58,D,Pass
+STU2194,Rudra Lal,9,A,Science,Male,77.8,2,No,Yes,Bachelors,64,68,53,51,236,59,D,Pass
+STU2195,Ishaan Elango,11,C,Computer Science,Male,83.4,3.7,No,No,Bachelors,86,67,66,59,278,69.5,C,Pass
+STU2196,Saanvi Jain,12,A,Arts,Male,86.5,3.5,Yes,No,Masters,64,84,91,90,329,82.3,A,Pass
+STU2197,Kiara Elango,9,D,Computer Science,Male,,4.7,No,Yes,Bachelors,97,93,86,86,362,90.5,A+,Pass
+STU2198,Anika Hegde,10,A,Science,Female,82.8,3.4,Yes,Yes,None,76,80,83,81,320,80,A,Pass
+STU2199,Anika Jain,11,D,Science,Male,79.7,3.4,Yes,Yes,None,94,71,82,88,335,83.8,A,Pass
+STU2200,Anika Agarwal,12,A,Computer Science,Male,98.6,4,Yes,Yes,None,84,92,75,78,329,82.3,A,Pass
+STU2201,Saanvi Dutta,9,A,Arts,Female,100,2.4,Yes,Yes,Bachelors,70,86,88,72,316,79,B,Pass
+STU2202,Tara Mishra,10,D,Computer Science,Female,94.8,4,Yes,Yes,High School,93,77,98,75,343,85.8,A,Pass
+STU2203,Yash Elango,11,B,Computer Science,Male,73.7,1.2,No,Yes,None,67,58,64,74,263,65.8,C,Pass
+STU2204,Yash Dutta,11,D,Science,Male,76.4,2.5,Yes,Yes,Bachelors,61,79,92,92,324,81,A,Pass
+STU2205,Anika Gill,12,A,Science,Male,65.7,4.4,No,Yes,Masters,74,60,72,77,283,70.8,B,Pass
+STU2206,Vihaan Lal,11,B,Computer Science,Female,58.2,0,No,Yes,Bachelors,42,44,47,40,173,43.3,F,Pass
+STU2207,Vihaan Gill,9,C,Commerce,Female,73.7,2.1,Yes,Yes,Bachelors,51,66,73,68,258,64.5,C,Pass
+STU2208,Kiara Lal,10,A,Arts,Female,72.2,1.7,Yes,Yes,Masters,69,75,66,74,284,71,B,Pass
+STU2209,Avni Kapoor,12,C,Arts,Male,87.6,4.9,Yes,Yes,None,79,84,85,82,330,82.5,A,Pass
+STU2210,Ishaan Elango,12,C,Arts,Male,94.5,4.8,No,Yes,High School,88,83,91,83,345,86.3,A,Pass
+STU2211,Anika Bhatt,12,C,Computer Science,Male,77.9,0.4,No,Yes,High School,70,46,61,70,247,61.8,C,Pass
+STU2212,Navya Elango,9,A,Computer Science,Male,90.2,5.3,No,Yes,None,84,86,100,70,340,85,A,Pass
+STU2213,Kiara Elango,10,B,Science,Male,82.2,2.4,No,Yes,Masters,86,66,98,73,323,80.8,A,Pass
+STU2214,Anika Fernandes,9,B,Computer Science,Male,86.3,1.5,No,Yes,Masters,78,83,58,74,293,73.3,B,Pass
+STU2215,Dhruv Mishra,11,A,Commerce,Male,81.7,2,Yes,Yes,Bachelors,78,80,62,86,306,76.5,B,Pass
+STU2216,Advait Kapoor,12,B,Computer Science,Male,98.1,4.9,No,Yes,High School,87,92,99,88,366,91.5,A+,Pass
+STU2217,Aarohi Hegde,10,D,Computer Science,Female,70.7,1,Yes,Yes,None,61,54,54,45,214,53.5,D,Pass
+STU2218,Anika Hegde,9,C,Science,Male,96.3,4.2,No,Yes,High School,94,73,82,78,327,81.8,A,Pass
+STU2219,Vihaan Jain,12,C,Arts,Male,91.3,3.7,No,Yes,None,77,57,81,63,278,69.5,C,Pass
+STU2220,Navya Lal,12,B,Science,Male,100,3.3,Yes,No,None,77,82,72,75,306,76.5,B,Pass
+STU2221,Avni Mishra,11,D,Arts,Male,,3.1,Yes,Yes,Masters,94,66,69,80,309,77.3,B,Pass
+STU2222,Prisha Hegde,11,B,Computer Science,Male,83.6,1.9,No,Yes,None,74,86,61,79,300,75,B,Pass
+STU2223,Advait Mishra,9,A,Computer Science,Male,77.7,1.5,Yes,Yes,None,83,59,77,80,299,74.8,B,Pass
+STU2224,Saanvi Kapoor,12,D,Science,Male,79.6,1.6,No,Yes,Masters,85,70,63,67,285,71.3,B,Pass
+STU2225,Advait Mishra,12,A,Science,Female,87.9,3.1,No,Yes,Masters,64,80,78,86,308,77,B,Pass
+STU2226,Saanvi Jain,11,D,Arts,Male,93.5,2.8,Yes,No,High School,67,56,94,69,286,71.5,B,Pass
+STU2227,Reyansh Bhatt,12,D,Arts,Female,90.2,3.3,No,Yes,High School,73,70,80,65,288,72,B,Pass
+STU2228,Rudra Mishra,12,A,Arts,Male,67.4,2,No,Yes,None,44,57,50,46,197,49.3,F,Pass
+STU2229,Dhruv Lal,10,D,Science,Male,84.7,1.6,No,Yes,None,58,66,83,61,268,67,C,Pass
+STU2230,Aarohi Elango,12,A,Commerce,Male,,2.1,No,Yes,High School,51,67,70,78,266,66.5,C,Pass
+STU2231,Ayaan Agarwal,12,B,Commerce,Male,74.7,3,Yes,Yes,Masters,82,48,82,83,295,73.8,B,Pass
+STU2232,Dhruv Kapoor,11,A,Science,Female,79.3,1,No,Yes,High School,86,63,57,45,251,62.8,C,Pass
+STU2233,Ishaan Mishra,11,B,Science,Male,82.5,4,Yes,No,None,73,61,73,60,267,66.8,C,Pass
+STU2234,Advait Lal,9,B,Computer Science,Female,78.7,2.1,No,Yes,Masters,84,54,74,71,283,70.8,B,Pass
+STU2235,Yash Kapoor,10,C,Computer Science,Female,86.9,1.3,Yes,Yes,Bachelors,81,53,59,88,281,70.3,B,Pass
+STU2236,Anika Mishra,12,D,Commerce,Female,74,1.8,Yes,Yes,Bachelors,53,62,81,75,271,67.8,C,Pass
+STU2237,Anika Dutta,10,D,Arts,Female,89.1,3.9,No,Yes,Masters,85,92,85,87,349,87.3,A,Pass
+STU2238,Ishaan Hegde,9,C,Commerce,Female,98.4,3.9,No,Yes,Masters,95,72,,100,347,86.8,A,Pass
+STU2239,Dhruv Elango,11,C,Computer Science,Male,96.5,3.8,No,Yes,High School,72,83,73,83,311,77.8,B,Pass
+STU2240,Reyansh Dutta,9,C,Arts,Male,90.6,3,No,Yes,High School,94,63,83,69,309,77.3,B,Pass
+STU2241,Vihaan Bhatt,9,D,Computer Science,Male,63.1,2.9,Yes,No,Bachelors,82,65,44,75,266,66.5,C,Pass
+STU2242,Aarohi Lal,10,D,Science,Female,66.9,1.6,No,Yes,Bachelors,67,44,64,42,217,54.3,D,Pass
+STU2243,Saanvi Jain,10,A,Computer Science,Female,65.4,1.3,No,Yes,Masters,55,49,65,65,234,58.5,D,Pass
+STU2244,Ayaan Agarwal,9,C,Commerce,Female,84,4,No,Yes,Bachelors,60,86,60,70,276,69,C,Pass
+STU2245,Navya Elango,12,B,Commerce,Male,69.7,0,No,Yes,Bachelors,35,37,57,70,199,49.8,F,Pass
+STU2246,Anika Jain,9,C,Arts,Male,90.2,3.1,Yes,Yes,Bachelors,66,85,99,88,338,84.5,A,Pass
+STU2247,Kabir Chandra,9,A,Computer Science,Male,88.9,1.6,No,Yes,Masters,81,74,72,88,315,78.8,B,Pass
+STU2248,Dhruv Mishra,10,C,Science,Female,80.6,3.3,Yes,Yes,Bachelors,75,55,93,76,299,74.8,B,Pass
+STU2249,Vihaan Agarwal,10,A,Arts,Female,72.6,2.5,Yes,Yes,None,73,67,82,66,288,72,B,Pass
+STU2250,Aarohi Agarwal,10,C,Commerce,Male,82.2,1.7,No,Yes,Bachelors,67,65,76,82,290,72.5,B,Pass
+STU2251,Navya Agarwal,11,C,Arts,Female,100,1.8,No,Yes,High School,66,100,66,71,303,75.8,B,Pass
+STU2252,Avni Elango,10,B,Arts,Female,90.7,6.1,Yes,Yes,None,84,86,90,89,349,87.3,A,Pass
+STU2253,Aarohi Hegde,10,A,Science,Male,89,3,Yes,Yes,Bachelors,89,86,77,67,319,79.8,B,Pass
+STU2254,Tara Agarwal,9,B,Computer Science,Female,76.2,3.5,No,No,High School,66,64,53,65,248,62,C,Pass
+STU2255,Reyansh Kapoor,10,A,Computer Science,Male,90.2,3.3,No,Yes,None,71,75,80,76,302,75.5,B,Pass
+STU2256,Rudra Bhatt,12,C,Arts,Female,96,4.7,Yes,Yes,None,98,92,76,86,352,88,A,Pass
+STU2257,Kabir Dutta,10,A,Commerce,Male,77.6,3.1,No,Yes,Bachelors,49,78,54,83,264,66,C,Pass
+STU2258,Myra Jain,10,D,Commerce,Male,77.9,2.3,Yes,Yes,None,60,64,70,70,264,66,C,Pass
+STU2259,Rudra Mishra,9,D,Computer Science,Female,100,2.1,Yes,Yes,High School,77,91,100,89,357,89.3,A,Pass
+STU2260,Aarohi Bhatt,12,C,Commerce,Male,85.1,3.9,Yes,Yes,High School,98,76,83,100,357,89.3,A,Pass
+STU2261,Yash Chandra,9,A,Arts,Female,92.5,5.5,No,Yes,Masters,97,66,100,87,350,87.5,A,Pass
+STU2262,Navya Bhatt,9,B,Computer Science,Female,73.5,2.8,No,Yes,Bachelors,78,55,61,73,267,66.8,C,Pass
+STU2263,Navya Lal,9,A,Arts,Female,73.4,1.8,No,Yes,Masters,60,60,62,69,251,62.8,C,Pass
+STU2264,Aarohi Elango,9,C,Commerce,Male,87.8,5.2,Yes,No,Masters,69,100,93,72,334,83.5,A,Pass
+STU2265,Kabir Mishra,9,B,Science,Male,93.7,3.4,Yes,Yes,None,87,81,84,70,322,80.5,A,Pass
+STU2266,Dhruv Jain,10,B,Commerce,Male,65.6,0.6,No,Yes,None,62,44,40,61,207,51.8,D,Pass
+STU2267,Ayaan Jain,10,D,Commerce,Male,88.9,4.7,Yes,No,Masters,81,94,87,88,350,87.5,A,Pass
+STU2268,Navya Chandra,9,A,Science,Female,100,2.5,Yes,Yes,Bachelors,89,100,76,83,348,87,A,Pass
+STU2269,Prisha Hegde,12,A,Arts,Male,82.2,3,No,Yes,High School,57,81,77,75,290,72.5,B,Pass
+STU2270,Kiara Bhatt,11,B,Science,Male,91.5,3.2,No,Yes,High School,91,83,,63,320,80,A,Pass
+STU2271,Avni Agarwal,11,B,Computer Science,Female,78.1,1.8,No,Yes,None,56,58,57,61,232,58,D,Pass
+STU2272,Advait Bhatt,9,A,Commerce,Male,96.7,1.7,Yes,Yes,None,70,65,82,66,283,70.8,B,Pass
+STU2273,Myra Bhatt,11,D,Science,Female,89.2,2.6,Yes,Yes,High School,76,67,89,85,317,79.3,B,Pass
+STU2274,Rudra Lal,12,B,Computer Science,Female,72.6,3.3,No,Yes,High School,58,53,57,70,238,59.5,D,Pass
+STU2275,Kabir Mishra,11,A,Commerce,Male,67.7,3.3,Yes,Yes,None,63,80,56,71,270,67.5,C,Pass
+STU2276,Myra Mishra,12,B,Computer Science,Female,100,3.6,No,Yes,None,88,54,100,81,323,80.8,A,Pass
+STU2277,Avni Agarwal,9,B,Computer Science,Male,89.3,2.4,Yes,Yes,Bachelors,70,90,66,68,294,73.5,B,Pass
+STU2278,Tara Bhatt,12,D,Commerce,Female,69.7,1.4,Yes,Yes,Bachelors,65,76,52,50,243,60.8,C,Pass
+STU2279,Ishaan Bhatt,9,C,Arts,Female,100,3.9,Yes,Yes,High School,74,87,66,100,327,81.8,A,Pass
+STU2280,Kabir Kapoor,9,D,Arts,Male,82.7,3,No,Yes,Masters,80,69,94,90,333,83.3,A,Pass
+STU2281,Rudra Kapoor,9,D,Arts,Male,84.9,2.2,No,Yes,None,53,67,72,60,252,63,C,Pass
+STU2282,Tara Chandra,12,D,Science,Female,83.7,3,No,Yes,High School,81,80,82,70,313,78.3,B,Pass
+STU2283,Reyansh Dutta,9,A,Arts,Female,74.9,3.2,No,Yes,None,61,46,70,72,249,62.3,C,Pass
+STU2284,Saanvi Bhatt,10,C,Arts,Male,82.7,4.7,No,Yes,High School,78,72,97,85,332,83,A,Pass
+STU2285,Kiara Jain,9,A,Arts,Female,89.9,1.5,No,Yes,High School,51,42,82,72,247,61.8,C,Pass
+STU2286,Vihaan Chandra,11,B,Arts,Male,100,4,No,Yes,Bachelors,57,89,77,87,310,77.5,B,Pass
+STU2287,Rudra Kapoor,9,A,Arts,Female,95.3,1.9,No,Yes,Bachelors,94,67,93,71,325,81.3,A,Pass
+STU2288,Ishaan Agarwal,10,A,Arts,Female,62,2.6,No,Yes,Bachelors,51,68,70,70,259,64.8,C,Pass
+STU2289,Kiara Mishra,9,B,Science,Male,70.4,2.6,No,Yes,Bachelors,60,77,65,66,268,67,C,Pass
+STU2290,Myra Bhatt,10,B,Arts,Male,98.2,1.1,Yes,Yes,High School,64,69,70,76,279,69.8,C,Pass
+STU2291,Tara Gill,11,B,Science,Female,77.8,1.7,Yes,Yes,Bachelors,59,63,82,84,288,72,B,Pass
+STU2292,Myra Jain,10,C,Computer Science,Female,87.7,3.9,No,Yes,Masters,100,88,90,82,360,90,A+,Pass
+STU2293,Kabir Kapoor,12,C,Arts,Male,72.1,2.8,No,Yes,None,65,70,65,61,261,65.3,C,Pass
+STU2294,Advait Fernandes,11,D,Computer Science,Female,91.6,2.7,Yes,Yes,None,60,78,79,71,288,72,B,Pass
+STU2295,Avni Fernandes,9,B,Science,Male,81.4,3.2,Yes,Yes,Bachelors,85,81,88,82,336,84,A,Pass
+STU2296,Ishaan Mishra,9,D,Science,Female,95.1,2.8,Yes,Yes,Bachelors,82,94,83,78,337,84.3,A,Pass
+STU2297,Advait Agarwal,12,A,Science,Female,86.3,0.6,Yes,Yes,High School,76,75,69,56,276,69,C,Pass
+STU2298,Ishaan Fernandes,10,B,Computer Science,Female,88.6,2.3,No,Yes,Masters,70,69,76,85,300,75,B,Pass
+STU2299,Kiara Lal,10,A,Computer Science,Male,87.6,0.1,Yes,Yes,High School,59,59,66,76,260,65,C,Pass
+STU2300,Ishaan Fernandes,9,D,Arts,Female,82.6,2.2,No,Yes,Masters,39,55,79,65,238,59.5,D,Pass
+STU2301,Myra Mishra,11,C,Computer Science,Male,73.6,1.9,No,No,None,49,53,44,50,196,49,F,Pass
+STU2302,Tara Lal,9,C,Commerce,Female,78.3,1.6,Yes,Yes,None,51,69,69,67,256,64,C,Pass
+STU2303,Kiara Fernandes,12,B,Computer Science,Male,86.7,0.8,Yes,Yes,None,67,66,67,76,276,69,C,Pass
+STU2304,Navya Chandra,11,A,Computer Science,Female,82.3,1,No,Yes,Bachelors,78,71,84,80,313,78.3,B,Pass
+STU2305,Ayaan Hegde,10,D,Science,Female,71.1,3.5,Yes,Yes,Bachelors,76,78,70,74,298,74.5,B,Pass
+STU2306,Aarohi Jain,10,C,Commerce,Female,83.2,1.8,No,Yes,Masters,63,58,70,93,284,71,B,Pass
+STU2307,Saanvi Kapoor,11,D,Arts,Female,91.4,3.7,Yes,Yes,None,93,67,65,81,306,76.5,B,Pass
+STU2308,Tara Jain,10,D,Computer Science,Female,73,2.5,No,Yes,Bachelors,82,58,63,72,275,68.8,C,Pass
+STU2309,Reyansh Elango,11,B,Science,Female,75.5,2.8,Yes,Yes,Bachelors,85,71,67,66,289,72.3,B,Pass
+STU2310,Ayaan Gill,10,D,Arts,Male,88.2,2.5,No,Yes,Masters,69,82,83,64,298,74.5,B,Pass
+STU2311,Avni Agarwal,9,B,Commerce,Female,85.4,2.5,Yes,No,Bachelors,75,70,65,56,266,66.5,C,Pass
+STU2312,Kiara Chandra,10,D,Arts,Female,77.4,2.1,Yes,Yes,Bachelors,65,75,76,80,296,74,B,Pass
+STU2313,Saanvi Dutta,10,C,Computer Science,Male,86.6,1.9,Yes,Yes,Bachelors,71,70,71,57,269,67.3,C,Pass
+STU2314,Ishaan Lal,12,A,Commerce,Male,93.3,0.5,No,No,Masters,54,58,81,65,258,64.5,C,Pass
+STU2315,Advait Fernandes,11,D,Commerce,Female,73.5,2.3,No,Yes,High School,74,50,80,53,257,64.3,C,Pass
+STU2316,Kabir Mishra,9,B,Computer Science,Female,,3,Yes,Yes,High School,93,75,61,47,276,69,C,Pass
+STU2317,Kabir Lal,9,B,Commerce,Female,76.8,0.8,No,Yes,Masters,43,61,59,77,240,60,C,Pass
+STU2318,Advait Dutta,10,A,Science,Male,81.4,1.9,No,Yes,Bachelors,68,79,60,56,263,65.8,C,Pass
+STU2319,Anika Bhatt,9,A,Arts,Female,70.4,1.1,No,No,High School,49,45,56,50,200,50,D,Pass
+STU2320,Navya Chandra,12,B,Commerce,Female,63.5,2.3,Yes,Yes,Bachelors,54,47,57,61,219,54.8,D,Pass
+STU2321,Tara Hegde,11,C,Computer Science,Male,81.7,2.5,No,Yes,High School,88,71,70,76,305,76.3,B,Pass
+STU2322,Saanvi Bhatt,10,B,Commerce,Female,94.7,1.4,Yes,Yes,None,60,66,90,93,309,77.3,B,Pass
+STU2323,Myra Hegde,10,C,Science,Male,78.5,1.7,No,Yes,Masters,65,60,85,70,280,70,B,Pass
+STU2324,Vihaan Chandra,11,B,Commerce,Male,79.5,4.3,Yes,Yes,Bachelors,65,66,78,82,291,72.8,B,Pass
+STU2325,Anika Hegde,11,B,Commerce,Male,83.4,2.3,Yes,No,None,49,65,50,79,243,60.8,C,Pass
+STU2326,Prisha Fernandes,12,D,Arts,Female,100,1.8,No,Yes,Masters,70,81,87,92,330,82.5,A,Pass
+STU2327,Navya Lal,12,D,Commerce,Male,72.2,1.8,Yes,Yes,Bachelors,63,69,61,48,241,60.3,C,Pass
+STU2328,Vihaan Chandra,11,A,Computer Science,Male,100,3.3,Yes,Yes,High School,98,85,80,86,349,87.3,A,Pass
+STU2329,Ishaan Chandra,9,A,Commerce,Female,62,1.2,No,Yes,None,40,31,42,55,168,42,F,Fail
+STU2330,Avni Kapoor,9,C,Commerce,Female,90.4,2.4,Yes,No,Masters,90,64,77,72,303,75.8,B,Pass
+STU2331,Navya Fernandes,10,A,Commerce,Female,72.8,1,Yes,Yes,Masters,86,45,62,69,262,65.5,C,Pass
+STU2332,Navya Gill,10,A,Computer Science,Female,76.4,2.8,Yes,Yes,None,78,81,65,52,276,69,C,Pass
+STU2333,Kiara Lal,9,D,Computer Science,Female,87.3,2.5,Yes,Yes,None,77,56,72,62,267,66.8,C,Pass
+STU2334,Saanvi Dutta,12,D,Arts,Male,71.2,3.5,No,Yes,High School,70,55,73,74,272,68,C,Pass
+STU2335,Ishaan Agarwal,9,A,Arts,Male,90.9,2.3,Yes,Yes,Bachelors,72,64,79,83,298,74.5,B,Pass
+STU2336,Dhruv Jain,12,D,Arts,Male,93,2.7,No,Yes,Masters,87,68,92,71,318,79.5,B,Pass
+STU2337,Kiara Hegde,9,D,Science,Female,82.2,2.3,Yes,Yes,None,76,85,74,77,312,78,B,Pass
+STU2338,Navya Mishra,11,A,Computer Science,Female,100,2.3,Yes,No,Bachelors,81,80,88,86,335,83.8,A,Pass
+STU2339,Saanvi Gill,9,C,Computer Science,Female,83.1,3.1,No,Yes,None,69,65,73,53,260,65,C,Pass
+STU2340,Navya Elango,10,A,Computer Science,Male,73.6,3,Yes,Yes,Masters,66,80,75,79,300,75,B,Pass
+STU2341,Ayaan Elango,11,A,Commerce,Female,,2.8,No,Yes,Masters,71,79,76,59,285,71.3,B,Pass
+STU2342,Ayaan Chandra,10,B,Commerce,Female,66.6,1.2,Yes,Yes,High School,47,47,63,66,223,55.8,D,Pass
+STU2343,Advait Lal,9,D,Computer Science,Female,100,2.3,No,Yes,None,91,77,69,65,302,75.5,B,Pass
+STU2344,Advait Elango,12,C,Science,Female,78.2,1,No,Yes,High School,70,67,58,61,256,64,C,Pass
+STU2345,Vihaan Hegde,10,C,Arts,Female,70.8,2.1,Yes,Yes,Masters,71,72,58,62,263,65.8,C,Pass
+STU2346,Vihaan Gill,10,B,Science,Male,81.8,1.6,No,No,Masters,64,76,70,63,273,68.3,C,Pass
+STU2347,Dhruv Bhatt,9,A,Science,Female,76.2,1.4,No,Yes,Bachelors,58,84,58,48,248,62,C,Pass
+STU2348,Dhruv Fernandes,12,C,Arts,Female,84.6,3.7,No,Yes,Bachelors,57,81,91,74,303,75.8,B,Pass
+STU2349,Kiara Fernandes,12,A,Computer Science,Female,92.6,5.3,Yes,Yes,High School,95,94,81,100,370,92.5,A+,Pass
+STU2350,Avni Gill,11,D,Commerce,Female,71.1,2.4,Yes,Yes,Bachelors,45,73,55,67,240,60,C,Pass
+STU2351,Saanvi Chandra,10,A,Computer Science,Female,84.2,3.8,Yes,Yes,Masters,81,100,92,94,367,91.8,A+,Pass
+STU2352,Kabir Jain,11,D,Science,Female,80.5,3.1,No,Yes,None,89,65,78,69,301,75.3,B,Pass
+STU2353,Anika Fernandes,10,B,Commerce,Female,79.4,3,Yes,Yes,None,66,61,68,81,276,69,C,Pass
+STU2354,Ayaan Fernandes,9,B,Science,Male,77.3,3,No,Yes,High School,79,69,60,74,282,70.5,B,Pass
+STU2355,Advait Lal,12,B,Computer Science,Male,94.9,3.2,Yes,Yes,High School,88,100,91,69,348,87,A,Pass
+STU2356,Ishaan Hegde,10,B,Computer Science,Male,63.4,1.6,No,Yes,Bachelors,80,63,50,57,250,62.5,C,Pass
+STU2357,Reyansh Hegde,11,A,Arts,Male,,3,No,Yes,Bachelors,74,77,79,71,301,75.3,B,Pass
+STU2358,Advait Jain,10,C,Arts,Female,76.7,3,No,Yes,Bachelors,61,56,75,43,235,58.8,D,Pass
+STU2359,Vihaan Jain,12,B,Commerce,Male,81.8,3,Yes,Yes,Masters,84,85,78,81,328,82,A,Pass
+STU2360,Vihaan Bhatt,11,C,Computer Science,Male,67.8,1.3,No,Yes,None,66,45,54,67,232,58,D,Pass
+STU2361,Advait Chandra,12,B,Computer Science,Female,89.9,2.3,No,Yes,High School,79,70,86,83,318,79.5,B,Pass
+STU2362,Kabir Lal,11,B,Arts,Male,84.3,4.7,Yes,Yes,None,90,66,80,100,336,84,A,Pass
+STU2363,Navya Dutta,11,D,Computer Science,Female,88.7,1.8,No,Yes,None,81,59,70,60,270,67.5,C,Pass
+STU2364,Vihaan Agarwal,10,B,Commerce,Male,67,2.8,No,No,None,54,43,52,80,229,57.3,D,Pass
+STU2365,Navya Dutta,10,C,Commerce,Male,100,5.1,Yes,Yes,None,100,80,96,86,362,90.5,A+,Pass
+STU2366,Reyansh Gill,11,D,Arts,Male,76.4,4.2,No,Yes,High School,54,59,93,81,287,71.8,B,Pass
+STU2367,Rudra Jain,10,A,Commerce,Female,84.4,4.7,No,Yes,Masters,60,90,75,82,307,76.8,B,Pass
+STU2368,Tara Chandra,9,A,Arts,Male,71.2,1.8,No,Yes,Bachelors,52,71,71,44,238,59.5,D,Pass
+STU2369,Dhruv Fernandes,10,D,Arts,Female,92.9,4.5,No,Yes,None,59,85,88,81,313,78.3,B,Pass
+STU2370,Reyansh Gill,12,C,Arts,Male,77.4,3.7,No,Yes,None,68,73,77,66,284,71,B,Pass
+STU2371,Kiara Agarwal,12,B,Commerce,Male,,3.6,Yes,Yes,None,90,100,93,78,361,90.3,A+,Pass
+STU2372,Reyansh Chandra,10,C,Arts,Male,76.7,3.2,No,Yes,Masters,77,60,87,71,295,73.8,B,Pass
+STU2373,Myra Agarwal,9,D,Arts,Female,100,2.6,Yes,Yes,None,100,73,83,54,310,77.5,B,Pass
+STU2374,Anika Elango,12,A,Commerce,Male,100,3.8,No,Yes,None,67,93,,80,309,77.3,B,Pass
+STU2375,Rudra Dutta,12,B,Arts,Female,77,2.6,No,Yes,None,63,70,71,58,262,65.5,C,Pass
+STU2376,Avni Bhatt,12,D,Computer Science,Female,79.8,3.6,Yes,Yes,Bachelors,74,64,73,78,289,72.3,B,Pass
+STU2377,Kiara Lal,10,C,Arts,Female,97.1,4.2,No,Yes,None,77,89,88,90,344,86,A,Pass
+STU2378,Tara Dutta,11,C,Commerce,Female,100,3.1,No,Yes,High School,75,61,100,90,326,81.5,A,Pass
+STU2379,Yash Mishra,11,D,Science,Female,78.2,0.9,No,Yes,Bachelors,74,58,67,68,267,66.8,C,Pass
+STU2380,Yash Gill,11,D,Computer Science,Female,95.4,1.4,No,Yes,None,65,74,71,75,285,71.3,B,Pass
+STU2381,Myra Jain,11,D,Science,Male,77.4,2.9,No,Yes,None,76,72,66,52,266,66.5,C,Pass
+STU2382,Myra Elango,11,C,Arts,Male,85.1,2.9,No,Yes,None,64,66,65,54,249,62.3,C,Pass
+STU2383,Anika Mishra,12,A,Science,Female,70.7,0.9,No,No,High School,59,36,69,35,199,49.8,F,Pass
+STU2384,Rudra Agarwal,11,A,Arts,Male,92.4,3.2,Yes,Yes,Bachelors,88,81,93,83,345,86.3,A,Pass
+STU2385,Yash Agarwal,11,C,Science,Male,82.5,0,Yes,Yes,Bachelors,60,72,53,76,261,65.3,C,Pass
+STU2386,Kiara Fernandes,10,C,Commerce,Male,83.5,2.6,No,Yes,Bachelors,76,58,82,66,282,70.5,B,Pass
+STU2387,Dhruv Chandra,9,D,Commerce,Male,,3,Yes,No,Bachelors,56,62,63,80,261,65.3,C,Pass
+STU2388,Tara Hegde,9,D,Arts,Female,73.2,4,No,Yes,Masters,78,59,72,77,286,71.5,B,Pass
+STU2389,Tara Bhatt,12,B,Computer Science,Male,71.2,2.1,Yes,Yes,Bachelors,73,72,69,71,285,71.3,B,Pass
+STU2390,Aarohi Mishra,11,A,Computer Science,Female,82.5,3.2,No,Yes,Masters,74,77,75,74,300,75,B,Pass
+STU2391,Yash Jain,10,C,Science,Female,73.2,1.2,No,No,Masters,66,65,52,55,238,59.5,D,Pass
+STU2392,Myra Hegde,9,B,Arts,Female,79.1,1.7,No,Yes,High School,51,63,69,67,250,62.5,C,Pass
+STU2393,Kabir Hegde,12,D,Science,Male,89,3.4,No,Yes,None,83,74,73,95,325,81.3,A,Pass
+STU2394,Navya Jain,9,B,Science,Female,70.3,4.2,No,No,High School,81,80,80,82,323,80.8,A,Pass
+STU2395,Yash Bhatt,11,A,Science,Male,76.8,3,Yes,Yes,Masters,79,75,86,82,322,80.5,A,Pass
+STU2396,Ayaan Dutta,11,B,Computer Science,Female,75.1,1.7,Yes,No,Bachelors,51,62,54,54,221,55.3,D,Pass
+STU2397,Avni Hegde,12,B,Commerce,Female,76.9,1.9,No,Yes,None,64,56,44,74,238,59.5,D,Pass
+STU2398,Vihaan Agarwal,9,A,Science,Male,87.8,2.4,Yes,No,None,66,63,75,57,261,65.3,C,Pass
+STU2399,Kiara Jain,11,D,Computer Science,Female,65,1.2,No,Yes,High School,60,51,,59,217,54.3,D,Pass
+STU2400,Rudra Chandra,10,D,Science,Female,100,0,No,No,High School,65,74,48,56,243,60.8,C,Pass
+STU2401,Saanvi Chandra,11,D,Computer Science,Female,75.3,2.5,No,Yes,Masters,80,90,76,57,303,75.8,B,Pass
+STU2402,Ishaan Kapoor,11,C,Science,Female,85.7,3.8,No,Yes,Masters,76,92,,75,316,79,B,Pass
+STU2403,Kiara Chandra,9,C,Science,Female,68.2,1.3,Yes,Yes,High School,68,59,56,62,245,61.3,C,Pass
+STU2404,Rudra Agarwal,9,B,Computer Science,Male,78.9,2.5,Yes,Yes,Masters,80,68,87,55,290,72.5,B,Pass
+STU2405,Anika Chandra,10,C,Commerce,Female,91.8,3.5,No,Yes,Bachelors,80,87,73,75,315,78.8,B,Pass
+STU2406,Navya Mishra,10,A,Science,Female,100,2.8,No,Yes,High School,76,77,78,80,311,77.8,B,Pass
+STU2407,Ishaan Jain,10,D,Science,Male,77.8,0.9,No,No,High School,86,62,50,66,264,66,C,Pass
+STU2408,Prisha Kapoor,12,C,Science,Female,74.5,1.8,No,Yes,High School,53,62,56,63,234,58.5,D,Pass
+STU2409,Yash Agarwal,12,D,Arts,Male,87.7,4.6,No,Yes,Masters,89,81,92,84,346,86.5,A,Pass
+STU2410,Prisha Dutta,10,B,Arts,Female,81.3,4.3,Yes,Yes,High School,97,68,86,75,326,81.5,A,Pass
+STU2411,Prisha Bhatt,11,B,Arts,Female,70.3,2.4,Yes,No,Masters,73,79,63,75,290,72.5,B,Pass
+STU2412,Kabir Fernandes,9,A,Arts,Female,95.4,3.6,No,Yes,Bachelors,81,72,91,90,334,83.5,A,Pass
+STU2413,Navya Mishra,11,D,Science,Male,100,5.2,Yes,Yes,High School,100,94,100,84,378,94.5,A+,Pass
+STU2414,Yash Lal,11,A,Science,Female,88.8,3.8,No,Yes,None,80,77,68,77,302,75.5,B,Pass
+STU2415,Reyansh Lal,11,C,Computer Science,Female,80,3.8,No,Yes,Masters,74,77,83,75,309,77.3,B,Pass
+STU2416,Kabir Elango,12,D,Computer Science,Female,95.4,2.6,No,Yes,Bachelors,84,72,99,60,315,78.8,B,Pass
+STU2417,Tara Elango,9,B,Arts,Male,82.7,2.3,No,Yes,Bachelors,83,80,89,80,332,83,A,Pass
+STU2418,Avni Agarwal,10,B,Commerce,Male,93.3,5,No,Yes,Bachelors,74,77,90,100,341,85.3,A,Pass
+STU2419,Myra Lal,10,C,Commerce,Male,75.4,3.4,No,Yes,High School,60,80,58,65,263,65.8,C,Pass
+STU2420,Kiara Agarwal,9,B,Commerce,Female,,2.2,Yes,Yes,Bachelors,86,60,73,72,291,72.8,B,Pass
+STU2421,Aarohi Hegde,10,B,Science,Male,71.4,3.6,No,Yes,Bachelors,77,93,74,67,311,77.8,B,Pass
+STU2422,Yash Dutta,9,C,Commerce,Female,84.8,2.9,Yes,Yes,High School,83,91,73,85,332,83,A,Pass
+STU2423,Aarohi Hegde,10,C,Science,Female,63.7,3.1,Yes,Yes,High School,64,60,72,83,279,69.8,C,Pass
+STU2424,Kiara Lal,10,B,Arts,Female,83.9,3.7,Yes,Yes,None,60,64,84,82,290,72.5,B,Pass
+STU2425,Kiara Elango,10,A,Science,Female,78.9,5.3,Yes,Yes,Bachelors,77,91,86,86,340,85,A,Pass
+STU2426,Anika Mishra,10,D,Arts,Female,85.7,3.3,Yes,Yes,None,78,79,73,61,291,72.8,B,Pass
+STU2427,Reyansh Elango,11,C,Science,Male,92.6,2.2,No,Yes,High School,80,61,64,91,296,74,B,Pass
+STU2428,Vihaan Jain,11,B,Computer Science,Male,97,4.6,No,Yes,High School,80,79,72,100,331,82.8,A,Pass
+STU2429,Aarohi Gill,12,B,Arts,Female,86.3,2.8,No,Yes,High School,83,66,86,75,310,77.5,B,Pass
+STU2430,Tara Gill,12,C,Computer Science,Male,100,1.7,No,Yes,Masters,90,80,69,88,327,81.8,A,Pass
+STU2431,Vihaan Bhatt,12,D,Computer Science,Female,85.2,3,No,Yes,None,75,75,57,70,277,69.3,C,Pass
+STU2432,Vihaan Hegde,11,B,Commerce,Female,82.8,2,No,Yes,None,51,61,32,72,216,54,D,Fail
+STU2433,Prisha Mishra,10,D,Science,Female,85.2,4.6,Yes,Yes,None,81,86,70,77,314,78.5,B,Pass
+STU2434,Myra Fernandes,12,A,Science,Female,94,3.6,No,Yes,None,88,84,85,73,330,82.5,A,Pass
+STU2435,Tara Gill,11,A,Science,Male,80.1,3.8,No,Yes,Masters,80,81,75,84,320,80,A,Pass
+STU2436,Rudra Lal,10,D,Computer Science,Female,80.5,0.8,No,Yes,Bachelors,62,53,65,55,235,58.8,D,Pass
+STU2437,Ayaan Fernandes,9,C,Commerce,Male,61.4,0,No,Yes,Bachelors,39,38,50,63,190,47.5,F,Pass
+STU2438,Myra Gill,9,D,Commerce,Male,78.2,2,Yes,Yes,Bachelors,67,66,61,68,262,65.5,C,Pass
+STU2439,Anika Chandra,11,B,Commerce,Male,79.7,3.1,No,Yes,Masters,76,73,76,97,322,80.5,A,Pass
+STU2440,Ishaan Fernandes,12,D,Commerce,Male,77.7,2.2,Yes,Yes,High School,78,63,67,71,279,69.8,C,Pass
+STU2441,Saanvi Hegde,10,D,Science,Male,80.8,3.1,No,Yes,High School,72,74,81,73,300,75,B,Pass
+STU2442,Ayaan Mishra,9,B,Computer Science,Male,76.8,0.8,Yes,Yes,Bachelors,74,62,67,67,270,67.5,C,Pass
+STU2443,Ishaan Kapoor,10,A,Science,Male,77,4.6,No,Yes,None,81,90,72,87,330,82.5,A,Pass
+STU2444,Rudra Bhatt,12,B,Arts,Female,96.4,3.6,No,Yes,Bachelors,72,100,99,75,346,86.5,A,Pass
+STU2445,Anika Bhatt,12,D,Science,Male,85.5,3.6,Yes,Yes,Masters,63,77,82,89,311,77.8,B,Pass
+STU2446,Myra Fernandes,11,C,Science,Female,82.6,3.1,No,Yes,High School,77,82,68,76,303,75.8,B,Pass
+STU2447,Anika Agarwal,9,B,Commerce,Male,65.4,0.7,Yes,Yes,Bachelors,62,55,48,50,215,53.8,D,Pass
+STU2448,Prisha Agarwal,9,B,Computer Science,Female,87.6,3.6,No,Yes,High School,94,94,85,75,348,87,A,Pass
+STU2449,Prisha Bhatt,10,C,Arts,Female,73.7,2,No,Yes,Bachelors,58,51,61,55,225,56.3,D,Pass
+STU2450,Kabir Dutta,10,A,Commerce,Female,77.1,1.7,No,Yes,Bachelors,63,48,55,61,227,56.8,D,Pass
+STU2451,Saanvi Chandra,10,B,Computer Science,Male,74.3,2,No,Yes,Masters,74,82,75,73,304,76,B,Pass
+STU2452,Ayaan Kapoor,11,B,Commerce,Female,100,2.2,No,Yes,Masters,64,90,76,89,319,79.8,B,Pass
+STU2453,Reyansh Hegde,9,C,Arts,Female,77.7,2,No,Yes,High School,57,46,75,61,239,59.8,D,Pass
+STU2454,Prisha Fernandes,9,C,Computer Science,Female,82.1,3.6,No,Yes,Masters,80,86,,79,316,79,B,Pass
+STU2455,Ayaan Chandra,9,D,Computer Science,Male,75.9,4.2,No,Yes,High School,78,73,57,78,286,71.5,B,Pass
+STU2456,Advait Kapoor,9,B,Arts,Male,96.5,3.6,Yes,Yes,Masters,86,73,100,91,350,87.5,A,Pass
+STU2457,Yash Mishra,12,C,Arts,Male,79,1.6,No,Yes,Masters,32,71,72,62,237,59.3,D,Fail
+STU2458,Yash Gill,11,C,Arts,Male,80.2,3,No,Yes,Masters,84,82,83,70,319,79.8,B,Pass
+STU2459,Anika Dutta,9,C,Computer Science,Male,77.3,3.9,No,Yes,High School,58,45,64,64,231,57.8,D,Pass
+STU2460,Prisha Bhatt,11,D,Arts,Female,91.4,3.8,No,No,Bachelors,74,64,89,84,311,77.8,B,Pass
+STU2461,Yash Kapoor,9,C,Commerce,Female,93.3,2.9,No,Yes,Masters,85,67,88,71,311,77.8,B,Pass
+STU2462,Avni Bhatt,9,D,Science,Female,85.9,3.5,Yes,Yes,High School,100,93,93,81,367,91.8,A+,Pass
+STU2463,Tara Dutta,11,A,Science,Male,95.9,4.4,No,No,Bachelors,81,90,73,74,318,79.5,B,Pass
+STU2464,Prisha Kapoor,10,B,Commerce,Female,76.6,2.8,No,Yes,None,53,67,71,66,257,64.3,C,Pass
+STU2465,Avni Elango,9,B,Commerce,Female,75.7,1.6,Yes,Yes,Masters,69,70,65,68,272,68,C,Pass
+STU2466,Tara Fernandes,9,D,Computer Science,Male,77.3,3.5,Yes,Yes,None,86,62,85,50,283,70.8,B,Pass
+STU2467,Prisha Mishra,12,B,Commerce,Male,86.3,5.5,Yes,Yes,High School,86,72,89,87,334,83.5,A,Pass
+STU2468,Myra Lal,12,D,Commerce,Female,96.6,3.2,No,Yes,None,65,57,65,73,260,65,C,Pass
+STU2469,Vihaan Mishra,11,A,Commerce,Male,83.6,2.2,No,Yes,Masters,63,55,86,88,292,73,B,Pass
+STU2470,Saanvi Mishra,10,A,Commerce,Male,90.5,5.3,No,Yes,Masters,94,71,92,90,347,86.8,A,Pass
+STU2471,Saanvi Hegde,9,D,Arts,Female,95,4.6,No,Yes,Masters,85,100,100,100,385,96.3,A+,Pass
+STU2472,Navya Jain,9,B,Science,Male,84.2,2.2,Yes,Yes,Bachelors,89,62,88,59,298,74.5,B,Pass
+STU2473,Ishaan Hegde,9,B,Commerce,Male,85.2,2.1,Yes,Yes,Bachelors,56,74,87,73,290,72.5,B,Pass
+STU2474,Vihaan Elango,11,D,Commerce,Male,89.7,3.1,Yes,Yes,High School,85,85,96,77,343,85.8,A,Pass
+STU2475,Myra Bhatt,9,C,Computer Science,Female,87.1,3.5,No,Yes,Bachelors,77,92,81,77,327,81.8,A,Pass
+STU2476,Advait Dutta,11,D,Computer Science,Female,77.1,2.1,Yes,Yes,Masters,54,78,73,73,278,69.5,C,Pass
+STU2477,Myra Chandra,10,C,Computer Science,Female,,1.9,Yes,Yes,Masters,79,85,79,88,331,82.8,A,Pass
+STU2478,Saanvi Bhatt,11,D,Computer Science,Male,79,5.3,No,Yes,Masters,83,100,82,70,335,83.8,A,Pass
+STU2479,Myra Hegde,11,A,Computer Science,Female,100,2.8,Yes,Yes,Bachelors,99,75,91,73,338,84.5,A,Pass
+STU2480,Ishaan Hegde,10,A,Commerce,Female,83.9,0.5,Yes,Yes,None,55,78,61,65,259,64.8,C,Pass
+STU2481,Dhruv Kapoor,10,C,Arts,Female,60.2,1.8,No,No,None,38,46,61,36,181,45.3,F,Pass
+STU2482,Saanvi Chandra,10,A,Commerce,Female,84.9,1.9,No,Yes,Bachelors,97,70,68,72,307,76.8,B,Pass
+STU2483,Ayaan Gill,12,C,Commerce,Male,94.9,2.1,Yes,Yes,High School,57,64,81,60,262,65.5,C,Pass
+STU2484,Anika Chandra,10,C,Computer Science,Male,83.3,3.4,Yes,Yes,None,77,80,81,89,327,81.8,A,Pass
+STU2485,Tara Hegde,12,D,Commerce,Male,65.5,2,No,Yes,High School,52,49,53,43,197,49.3,F,Pass
+STU2486,Prisha Chandra,10,D,Commerce,Female,74.3,0,No,Yes,High School,52,46,63,62,223,55.8,D,Pass
+STU2487,Saanvi Hegde,9,B,Arts,Male,98,4.2,Yes,No,None,100,62,84,80,326,81.5,A,Pass
+STU2488,Kiara Agarwal,11,A,Arts,Female,78.8,2.1,No,Yes,Bachelors,46,69,81,60,256,64,C,Pass
+STU2489,Reyansh Kapoor,10,A,Computer Science,Female,79.3,1.6,No,No,High School,57,54,50,58,219,54.8,D,Pass
+STU2490,Rudra Lal,10,A,Science,Male,93.5,2.3,No,Yes,None,73,66,85,71,295,73.8,B,Pass
+STU2491,Aarohi Dutta,12,A,Commerce,Male,100,5.1,No,Yes,None,88,84,75,97,344,86,A,Pass
+STU2492,Tara Elango,12,B,Computer Science,Female,68.7,2.2,Yes,Yes,High School,73,63,56,65,257,64.3,C,Pass
+STU2493,Dhruv Lal,10,D,Science,Female,76.6,3.9,No,Yes,High School,58,76,67,78,279,69.8,C,Pass
+STU2494,Ayaan Jain,11,C,Commerce,Female,88.7,2.2,Yes,Yes,High School,81,67,,81,294,73.5,B,Pass
+STU2495,Anika Gill,12,C,Commerce,Male,79.7,2.9,Yes,Yes,High School,63,57,67,76,263,65.8,C,Pass
+STU2496,Kiara Gill,10,C,Computer Science,Male,100,1.8,Yes,Yes,Bachelors,77,66,88,95,326,81.5,A,Pass
+STU2497,Kiara Fernandes,10,C,Arts,Female,75.2,2.4,No,Yes,None,67,46,63,71,247,61.8,C,Pass
+STU2498,Myra Elango,10,B,Commerce,Female,88.7,2.7,Yes,Yes,Bachelors,73,68,81,77,299,74.8,B,Pass
+STU2499,Ishaan Chandra,12,D,Science,Male,94.4,4.4,Yes,Yes,None,94,99,,78,360,90,A+,Pass
+STU2500,Myra Kapoor,9,C,Science,Female,89.3,3.6,No,Yes,None,81,86,82,69,318,79.5,B,Pass
+STU2501,Vihaan Agarwal,12,C,Arts,Male,90.5,3.9,Yes,No,Masters,77,81,79,92,329,82.3,A,Pass
+STU2502,Advait Agarwal,10,C,Arts,Female,52.4,0.4,No,Yes,Masters,45,53,50,74,222,55.5,D,Pass
+STU2503,Prisha Agarwal,12,D,Science,Male,87,3,No,No,Bachelors,60,88,64,60,272,68,C,Pass
+STU2504,Advait Gill,11,A,Science,Female,58.1,1.8,No,Yes,Masters,40,62,70,57,229,57.3,D,Pass
+STU2505,Tara Bhatt,9,C,Science,Male,88.4,2.3,No,Yes,None,87,75,64,94,320,80,A,Pass
+STU2506,Yash Chandra,9,D,Science,Female,63.7,3.7,No,Yes,None,46,58,61,80,245,61.3,C,Pass
+STU2507,Yash Elango,9,A,Science,Female,62.8,2.4,Yes,Yes,High School,63,63,80,74,280,70,B,Pass
+STU2508,Prisha Mishra,10,C,Arts,Female,87.5,2.3,No,Yes,Masters,57,63,94,87,301,75.3,B,Pass
+STU2509,Ishaan Kapoor,10,C,Arts,Female,87.1,4.1,Yes,Yes,None,88,80,91,75,334,83.5,A,Pass
+STU2510,Saanvi Mishra,9,D,Computer Science,Male,,5.2,Yes,Yes,High School,95,95,80,87,357,89.3,A,Pass
+STU2511,Saanvi Hegde,9,C,Commerce,Female,100,2.8,Yes,Yes,None,100,65,86,90,341,85.3,A,Pass
+STU2512,Anika Chandra,12,A,Arts,Female,96.3,2.7,No,Yes,Masters,78,71,94,72,315,78.8,B,Pass
+STU2513,Ayaan Chandra,12,B,Science,Female,100,2.8,No,Yes,Bachelors,83,91,78,76,328,82,A,Pass
+STU2514,Ayaan Elango,12,A,Arts,Female,75.1,2.1,No,Yes,None,65,66,61,56,248,62,C,Pass
+STU2515,Avni Hegde,9,D,Arts,Male,72.2,2,No,Yes,Bachelors,66,77,66,68,277,69.3,C,Pass
+STU2516,Vihaan Fernandes,10,D,Commerce,Male,83.5,2.3,Yes,Yes,None,81,59,51,85,276,69,C,Pass
+STU2517,Navya Elango,12,A,Commerce,Male,70.9,2.4,Yes,Yes,High School,60,74,61,63,258,64.5,C,Pass
+STU2518,Kabir Chandra,12,A,Computer Science,Male,85.2,3.6,Yes,Yes,Bachelors,65,70,73,88,296,74,B,Pass
+STU2519,Vihaan Lal,12,C,Science,Male,61.9,2.4,No,Yes,Masters,84,53,62,64,263,65.8,C,Pass
+STU2520,Avni Lal,9,A,Computer Science,Female,,2.6,No,Yes,Masters,89,85,67,48,289,72.3,B,Pass
+STU2521,Vihaan Bhatt,11,C,Commerce,Female,93.1,4.4,No,Yes,High School,68,79,80,100,327,81.8,A,Pass
+STU2522,Kabir Chandra,11,B,Computer Science,Female,72.3,2.1,No,Yes,High School,63,65,62,74,264,66,C,Pass
+STU2523,Vihaan Agarwal,9,C,Science,Female,72.2,1.1,Yes,No,High School,61,72,60,43,236,59,D,Pass
+STU2524,Yash Kapoor,12,B,Commerce,Female,100,2.5,Yes,Yes,Masters,61,74,94,91,320,80,A,Pass
+STU2525,Navya Bhatt,11,B,Science,Male,78.7,1.3,No,No,Masters,62,73,49,41,225,56.3,D,Pass
+STU2526,Vihaan Chandra,12,B,Computer Science,Female,100,1.9,No,Yes,High School,72,89,76,69,306,76.5,B,Pass
+STU2527,Prisha Lal,11,A,Arts,Male,79.5,2.4,No,Yes,High School,49,63,71,56,239,59.8,D,Pass
+STU2528,Prisha Hegde,12,D,Computer Science,Male,86,3.8,Yes,Yes,None,68,80,80,91,319,79.8,B,Pass
+STU2529,Saanvi Agarwal,10,B,Computer Science,Female,,3,No,Yes,None,85,70,69,86,310,77.5,B,Pass
+STU2530,Tara Elango,9,C,Arts,Male,100,4.3,No,Yes,Bachelors,81,94,95,78,348,87,A,Pass
+STU2531,Myra Hegde,10,A,Arts,Male,100,3.3,No,Yes,Bachelors,78,81,89,76,324,81,A,Pass
+STU2532,Ayaan Hegde,10,C,Science,Female,64.1,2.4,No,No,High School,42,63,60,42,207,51.8,D,Pass
+STU2533,Dhruv Mishra,12,B,Commerce,Female,83,2.1,No,Yes,High School,75,72,62,69,278,69.5,C,Pass
+STU2534,Yash Dutta,11,C,Science,Female,80.5,0.6,Yes,No,Bachelors,56,68,72,44,240,60,C,Pass
+STU2535,Anika Bhatt,9,D,Computer Science,Male,83.3,1.1,No,Yes,None,66,51,55,62,234,58.5,D,Pass
+STU2536,Aarohi Bhatt,12,A,Science,Male,,1.6,No,Yes,None,85,91,93,73,342,85.5,A,Pass
+STU2537,Ayaan Lal,12,A,Commerce,Female,100,3.2,No,Yes,Bachelors,91,64,89,95,339,84.8,A,Pass
+STU2538,Navya Lal,10,C,Arts,Female,67.6,1.5,No,Yes,Bachelors,61,54,58,59,232,58,D,Pass
+STU2539,Kabir Agarwal,12,A,Commerce,Male,100,3.5,No,Yes,High School,100,76,77,90,343,85.8,A,Pass
+STU2540,Navya Gill,10,A,Computer Science,Male,100,3.3,No,No,None,68,74,78,51,271,67.8,C,Pass
+STU2541,Aarohi Gill,10,C,Arts,Female,78.3,3.5,No,Yes,None,68,58,75,62,263,65.8,C,Pass
+STU2542,Reyansh Kapoor,11,D,Commerce,Female,80.4,2.6,No,Yes,Masters,71,73,77,69,290,72.5,B,Pass
+STU2543,Ishaan Hegde,10,A,Science,Male,83.8,4,No,Yes,None,71,100,74,68,313,78.3,B,Pass
+STU2544,Reyansh Fernandes,12,B,Arts,Male,100,2.2,No,Yes,Bachelors,71,85,86,82,324,81,A,Pass
+STU2545,Ishaan Chandra,9,B,Arts,Male,90,4.1,No,No,Masters,71,97,92,74,334,83.5,A,Pass
+STU2546,Dhruv Bhatt,12,C,Science,Male,64.6,2.2,Yes,Yes,Bachelors,67,64,53,69,253,63.3,C,Pass
+STU2547,Reyansh Gill,9,B,Computer Science,Male,77.8,1.4,Yes,Yes,High School,49,53,66,71,239,59.8,D,Pass
+STU2548,Saanvi Gill,9,D,Arts,Male,94.1,4.6,No,Yes,Masters,86,84,100,83,353,88.3,A,Pass
+STU2549,Vihaan Hegde,10,B,Commerce,Female,,0.7,No,Yes,None,70,49,64,77,260,65,C,Pass
+STU2550,Avni Dutta,12,B,Arts,Male,68.3,1.1,No,Yes,None,39,46,54,58,197,49.3,F,Pass
+STU2551,Navya Chandra,10,C,Science,Female,79.3,3.5,Yes,Yes,None,71,78,64,81,294,73.5,B,Pass
+STU2552,Rudra Bhatt,12,D,Arts,Female,91.1,2,Yes,Yes,High School,71,63,86,65,285,71.3,B,Pass
+STU2553,Rudra Dutta,10,D,Commerce,Male,72.9,1.9,No,Yes,High School,67,68,57,67,259,64.8,C,Pass
+STU2554,Rudra Bhatt,12,B,Science,Female,74.3,2.2,Yes,Yes,Bachelors,54,72,61,79,266,66.5,C,Pass
+STU2555,Anika Mishra,9,C,Science,Female,97.1,2.6,No,Yes,Bachelors,89,100,87,80,356,89,A,Pass
+STU2556,Yash Kapoor,12,A,Science,Female,61.5,2.7,No,Yes,Masters,65,51,41,72,229,57.3,D,Pass
+STU2557,Ishaan Elango,11,B,Science,Male,75.5,3.8,No,Yes,Masters,70,83,68,66,287,71.8,B,Pass
+STU2558,Advait Chandra,10,C,Science,Male,77.7,3,Yes,Yes,High School,69,89,69,80,307,76.8,B,Pass
+STU2559,Navya Agarwal,11,C,Commerce,Female,83.2,0.8,No,Yes,High School,61,68,68,84,281,70.3,B,Pass
+STU2560,Kiara Hegde,9,A,Commerce,Female,90.7,4.7,No,Yes,Bachelors,92,88,92,95,367,91.8,A+,Pass
+STU2561,Anika Chandra,12,C,Computer Science,Male,81.9,4.2,No,No,None,71,77,57,75,280,70,B,Pass
+STU2562,Prisha Dutta,10,C,Computer Science,Male,73.2,2.1,Yes,Yes,High School,49,76,62,70,257,64.3,C,Pass
+STU2563,Aarohi Gill,12,C,Computer Science,Male,99.5,3.1,No,Yes,High School,100,66,87,80,333,83.3,A,Pass
+STU2564,Aarohi Jain,12,B,Arts,Female,98,3.2,No,No,Masters,73,84,82,67,306,76.5,B,Pass
+STU2565,Ishaan Hegde,9,C,Commerce,Male,79.5,0.8,No,Yes,None,62,36,52,70,220,55,D,Pass
+STU2566,Aarohi Chandra,12,C,Science,Male,94,3.5,No,Yes,Bachelors,100,84,81,69,334,83.5,A,Pass
+STU2567,Vihaan Jain,11,C,Science,Male,86.7,1.6,Yes,Yes,Bachelors,77,99,80,61,317,79.3,B,Pass
+STU2568,Prisha Gill,11,B,Commerce,Female,100,3.5,No,Yes,Masters,88,87,84,79,338,84.5,A,Pass
+STU2569,Dhruv Hegde,11,C,Computer Science,Male,,0.4,No,Yes,High School,56,66,70,53,245,61.3,C,Pass
+STU2570,Dhruv Elango,11,B,Commerce,Male,71.1,1.1,No,No,High School,53,48,42,43,186,46.5,F,Pass
+STU2571,Advait Jain,12,C,Commerce,Male,88.9,2.2,Yes,Yes,High School,85,81,93,91,350,87.5,A,Pass
+STU2572,Reyansh Fernandes,10,A,Science,Female,67.6,1.4,No,Yes,Bachelors,60,51,58,44,213,53.3,D,Pass
+STU2573,Reyansh Kapoor,9,D,Science,Male,77.2,4.2,No,Yes,Masters,73,83,78,65,299,74.8,B,Pass
+STU2574,Ishaan Jain,9,D,Commerce,Female,81.2,0.7,No,Yes,Masters,67,74,43,73,257,64.3,C,Pass
+STU2575,Avni Mishra,12,B,Commerce,Female,100,3.6,No,No,None,70,73,77,90,310,77.5,B,Pass
+STU2576,Dhruv Hegde,9,C,Arts,Female,83.3,2.7,Yes,Yes,None,86,70,74,73,303,75.8,B,Pass
+STU2577,Aarohi Hegde,12,B,Computer Science,Female,78,2.5,No,Yes,Bachelors,54,69,60,51,234,58.5,D,Pass
+STU2578,Dhruv Gill,12,B,Commerce,Male,92.5,2.7,Yes,Yes,High School,71,64,75,81,291,72.8,B,Pass
+STU2579,Vihaan Bhatt,11,D,Commerce,Male,80.9,2.4,Yes,Yes,Masters,65,75,81,88,309,77.3,B,Pass
+STU2580,Anika Jain,10,D,Commerce,Male,100,3.6,Yes,Yes,High School,79,82,94,81,336,84,A,Pass
+STU2581,Reyansh Dutta,11,A,Arts,Male,65.2,1.9,No,Yes,Bachelors,50,49,63,53,215,53.8,D,Pass
+STU2582,Saanvi Kapoor,12,B,Computer Science,Female,84,3.5,Yes,Yes,None,83,90,80,81,334,83.5,A,Pass
+STU2583,Kabir Fernandes,10,C,Commerce,Female,89.3,1.6,No,Yes,High School,72,70,66,71,279,69.8,C,Pass
+STU2584,Dhruv Kapoor,9,A,Computer Science,Male,100,4.3,Yes,Yes,Bachelors,97,89,100,95,381,95.3,A+,Pass
+STU2585,Anika Agarwal,11,A,Arts,Male,96.1,1,Yes,No,None,64,62,69,60,255,63.8,C,Pass
+STU2586,Reyansh Kapoor,11,C,Computer Science,Male,66.6,0.7,No,Yes,Masters,39,51,59,66,215,53.8,D,Pass
+STU2587,Vihaan Fernandes,11,C,Commerce,Male,89.3,2.6,Yes,Yes,High School,77,68,89,72,306,76.5,B,Pass
+STU2588,Ishaan Hegde,10,A,Computer Science,Male,92.8,3.5,Yes,Yes,None,72,75,87,84,318,79.5,B,Pass
+STU2589,Navya Fernandes,12,B,Science,Female,86,2.4,Yes,No,None,63,68,69,66,266,66.5,C,Pass
+STU2590,Ishaan Bhatt,9,B,Commerce,Male,92.1,1.5,No,Yes,None,55,66,65,69,255,63.8,C,Pass
+STU2591,Saanvi Agarwal,10,A,Commerce,Male,85.2,3.6,No,Yes,High School,78,78,72,92,320,80,A,Pass
+STU2592,Advait Bhatt,9,C,Computer Science,Male,85.2,2.4,No,No,Masters,60,62,,49,244,61,C,Pass
+STU2593,Aarohi Mishra,11,A,Commerce,Male,88.9,2.1,No,Yes,None,77,60,53,78,268,67,C,Pass
+STU2594,Ishaan Agarwal,10,D,Arts,Female,76.2,2.6,No,Yes,Masters,54,69,61,70,254,63.5,C,Pass
+STU2595,Reyansh Jain,12,D,Arts,Male,71.8,1.4,Yes,Yes,Bachelors,61,77,78,64,280,70,B,Pass
+STU2596,Yash Jain,12,A,Science,Female,100,2.8,No,Yes,Masters,75,100,98,84,357,89.3,A,Pass
+STU2597,Ayaan Fernandes,9,C,Computer Science,Female,75.1,2.1,Yes,Yes,None,61,71,60,69,261,65.3,C,Pass
+STU2598,Advait Gill,11,D,Science,Female,67.8,1.9,No,No,None,31,49,58,54,192,48,F,Fail
+STU2599,Kabir Gill,11,B,Arts,Female,,2,No,Yes,Masters,52,76,72,74,274,68.5,C,Pass
+STU2600,Anika Lal,9,B,Commerce,Female,99.4,2.5,No,Yes,Bachelors,74,90,80,91,335,83.8,A,Pass
+STU2601,Kabir Kapoor,11,A,Computer Science,Female,72.7,3.3,No,Yes,High School,67,74,62,73,276,69,C,Pass
+STU2602,Dhruv Fernandes,12,D,Commerce,Female,90.1,2.7,Yes,Yes,Bachelors,88,82,80,82,332,83,A,Pass
+STU2603,Rudra Fernandes,11,A,Science,Male,93.2,2.5,Yes,Yes,Bachelors,72,85,69,69,295,73.8,B,Pass
+STU2604,Yash Kapoor,9,B,Arts,Female,86.2,3.5,No,Yes,Masters,59,83,100,82,324,81,A,Pass
+STU2605,Aarohi Hegde,10,B,Arts,Male,77.4,1.8,No,Yes,High School,63,67,69,60,259,64.8,C,Pass
+STU2606,Kiara Bhatt,10,B,Computer Science,Female,90.8,3,Yes,Yes,Bachelors,100,80,63,84,327,81.8,A,Pass
+STU2607,Vihaan Dutta,12,B,Arts,Female,88.4,2.2,No,Yes,High School,82,71,,74,302,75.5,B,Pass
+STU2608,Reyansh Hegde,9,A,Science,Male,83.8,2.7,No,Yes,None,61,78,58,62,259,64.8,C,Pass
+STU2609,Kabir Mishra,9,C,Computer Science,Female,87.4,3.8,Yes,Yes,High School,99,78,79,96,352,88,A,Pass
+STU2610,Navya Lal,12,C,Arts,Female,64.2,1.9,Yes,Yes,Bachelors,87,68,64,59,278,69.5,C,Pass
+STU2611,Vihaan Gill,11,A,Science,Female,93.7,4.4,Yes,Yes,None,92,94,100,78,364,91,A+,Pass
+STU2612,Kiara Mishra,11,C,Commerce,Male,,3.6,Yes,Yes,High School,89,76,79,75,319,79.8,B,Pass
+STU2613,Ayaan Bhatt,11,B,Commerce,Male,89.3,2.9,No,Yes,None,94,68,64,72,298,74.5,B,Pass
+STU2614,Kiara Kapoor,11,D,Arts,Female,71.2,1.4,Yes,Yes,Bachelors,62,68,64,57,251,62.8,C,Pass
+STU2615,Anika Hegde,10,C,Computer Science,Male,98.9,4.7,No,No,High School,93,78,86,97,354,88.5,A,Pass
+STU2616,Kabir Hegde,12,A,Commerce,Female,73.2,3.1,No,No,Bachelors,53,70,71,75,269,67.3,C,Pass
+STU2617,Saanvi Chandra,12,A,Science,Female,87.4,4.3,No,Yes,None,86,78,87,68,319,79.8,B,Pass
+STU2618,Tara Hegde,12,C,Computer Science,Male,97.4,3,No,Yes,High School,79,88,,74,310,77.5,B,Pass
+STU2619,Myra Agarwal,11,D,Commerce,Female,93.8,3.7,No,Yes,Bachelors,87,78,77,82,324,81,A,Pass
+STU2620,Reyansh Agarwal,11,A,Commerce,Female,81.9,5.5,No,Yes,None,75,59,83,83,300,75,B,Pass

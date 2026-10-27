@@ -1,0 +1,27 @@
+# Dependencies
+node_modules
+
+# Build output
+.svelte-kit
+build
+dist
+
+# Vercel CLI local state (contains project/org ids; linked via the dashboard instead)
+.vercel
+
+# Test and tooling output
+coverage
+*.tsbuildinfo
+
+# Local env files - DataStory needs none, but never commit one by accident
+.env
+.env.*
+!.env.example
+
+# Editor / OS noise
+.DS_Store
+Thumbs.db
+.idea
+*.swp
+*.log
+npm-debug.log*

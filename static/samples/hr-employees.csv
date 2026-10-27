@@ -1,0 +1,487 @@
+Employee ID,Name,Department,Job Role,Location,Gender,Age,Education,Join Date,Tenure Years,Annual Salary,Performance Rating,Satisfaction Score,Training Hours,Overtime,Attrition
+EMP1000,Lakshmi Das,Marketing,Marketing Executive,Hyderabad,Male,30,PhD,2022-06-30,3,857000,4.5,3.7,39,No,No
+EMP1001,Sanjana Menon,Customer Support,Support Lead,Mumbai,Male,30,PhD,2023-02-04,2.4,892000,4.1,,49,No,No
+EMP1002,Siddharth Pillai,Finance,Finance Manager,Bengaluru,Female,38,PhD,2023-04-18,2.2,1904000,4.7,3.3,53,No,No
+EMP1003,Lakshmi Khan,Operations,Operations Associate,Remote,Male,36,PhD,2019-08-06,5.9,611000,3.3,3.4,48,No,No
+EMP1004,Sunita Verma,Engineering,Engineering Manager,Bengaluru,Female,40,PhD,2021-06-30,4,3151000,2.8,3.1,24,No,No
+EMP1005,Meera Khan,Sales,Sales Executive,Hyderabad,Female,41,Bachelors,2020-11-22,4.6,766000,4.2,4.3,62,No,No
+EMP1006,Manish Rao,Customer Support,Support Lead,Chennai,Male,35,Bachelors,2019-04-18,6.2,850000,3.7,4.2,42,No,No
+EMP1007,Divya Chauhan,Finance,Finance Manager,Remote,Female,28,Bachelors,2022-08-05,2.9,1758000,4.4,3.6,37,No,No
+EMP1008,Tarun Rao,Sales,Sales Development Rep,Pune,Male,39,MBA,2017-10-17,7.7,783000,4.2,3.7,53,Yes,No
+EMP1009,Gaurav Verma,Finance,Finance Manager,Mumbai,Male,29,Bachelors,2019-12-30,5.5,2700000,4,2.2,42,No,Yes
+EMP1010,Ritika Iyer,Marketing,Content Strategist,Pune,Male,27,Bachelors,2021-12-29,3.5,1005000,4.3,4.8,62,No,No
+EMP1011,Sunita Pillai,Customer Support,Support Associate,Remote,Female,25,Masters,2023-06-30,2,424000,4.4,3.3,52,Yes,No
+EMP1012,Aditya Gupta,Marketing,Marketing Executive,Chennai,Male,28,Masters,2020-10-17,4.7,730000,3.9,4.8,40,No,Yes
+EMP1013,Zoya Iyer,Operations,Operations Manager,Bengaluru,Female,27,Masters,2021-02-03,4.4,1990000,3.7,3.4,23,No,No
+EMP1014,Varsha Reddy,Human Resources,HR Executive,Hyderabad,Female,35,Bachelors,2022-02-04,3.4,643000,4.6,4.1,31,Yes,No
+EMP1015,Zoya Gupta,Finance,Financial Analyst,Hyderabad,Male,29,Bachelors,2024-09-10,0.8,1019000,3.7,,,Yes,Yes
+EMP1016,Rahul Reddy,Finance,Accountant,Bengaluru,Male,30,PhD,2020-08-05,4.9,885000,3.5,4.7,37,No,No
+EMP1017,Meera Chauhan,Marketing,Content Strategist,Delhi NCR,Female,30,Diploma,2021-10-17,3.7,910000,4.4,5,42,No,No
+EMP1018,Fatima Iyer,Operations,Operations Associate,Mumbai,Male,35,MBA,2019-11-23,5.6,735000,3.6,3.3,20,No,No
+EMP1019,Nikhil Reddy,Human Resources,Talent Partner,Mumbai,Male,35,Bachelors,2019-09-11,5.8,1348000,2.4,3.2,26,Yes,No
+EMP1020,Karthik Pillai,Engineering,Software Engineer,Pune,Male,29,Diploma,2023-12-30,1.5,1061000,4,4.1,42,No,Yes
+EMP1021,Sunita Rao,Human Resources,HR Executive,Mumbai,Male,31,Masters,2020-03-12,5.3,887000,2.7,2.3,29,No,No
+EMP1022,Shreya Joshi,Operations,Logistics Coordinator,Remote,Male,33,PhD,2019-06-30,6,772000,3.7,4.5,,No,No
+EMP1023,Lakshmi Khan,Engineering,Engineering Manager,Pune,Female,34,PhD,2022-09-11,2.8,2654000,3.9,3.4,34,Yes,No
+EMP1024,Arjun Rao,Sales,Account Manager,Bengaluru,Male,31,Bachelors,2023-08-06,1.9,1375000,4.2,3.2,51,No,No
+EMP1025,Nikhil Gupta,Operations,Logistics Coordinator,Hyderabad,Female,31,Masters,2021-05-24,4.1,698000,4.2,4.1,25,Yes,No
+EMP1026,Aditya Mathew,Finance,Financial Analyst,Pune,Female,36,Diploma,2019-11-23,5.6,1239000,4.1,3.4,41,No,No
+EMP1027,Arjun Verma,Human Resources,HR Executive,Remote,Male,32,PhD,2025-04-17,0.2,580000,3.7,4.5,34,No,No
+EMP1028,Nikhil Khan,Marketing,Marketing Executive,Bengaluru,Male,29,Diploma,2025-04-17,0.2,795000,3.4,4.5,50,No,No
+EMP1029,Divya Singh,Sales,Sales Development Rep,Chennai,Female,30,MBA,2025-04-17,0.2,493000,4.3,,57,No,Yes
+EMP1030,Neha Menon,Human Resources,Talent Partner,Remote,Female,37,Bachelors,2020-12-29,4.5,884000,4.2,3.5,28,Yes,No
+EMP1031,Abhishek Banerjee,Human Resources,HR Executive,Delhi NCR,Male,26,MBA,2025-04-17,0.2,722000,3.9,3.9,36,Yes,No
+EMP1032,Joseph Reddy,Marketing,Brand Manager,Bengaluru,Female,39,Diploma,2018-10-17,6.7,2043000,3.2,3.2,23,Yes,No
+EMP1033,Karthik Mathew,Finance,Financial Analyst,Pune,Male,29,Bachelors,2021-10-17,3.7,1187000,4.2,3.1,40,No,No
+EMP1034,Sunita Naidu,Finance,Financial Analyst,Delhi NCR,Female,27,Bachelors,2021-12-29,3.5,1206000,2.9,4.4,61,No,No
+EMP1035,Zoya Joshi,Human Resources,HR Manager,Bengaluru,Male,34,Masters,2021-09-11,3.8,2002000,3,,37,No,No
+EMP1036,Ritika Pillai,Customer Support,Support Associate,Remote,Female,38,Masters,2021-08-05,3.9,399000,4.6,5,43,Yes,No
+EMP1037,Shreya Khan,Operations,Operations Manager,Pune,Male,33,Diploma,2021-02-03,4.4,1938000,2.6,3.8,32,No,No
+EMP1038,Karthik Iyer,Marketing,Marketing Executive,Remote,Female,29,Bachelors,2023-08-06,1.9,642000,3.9,1.6,19,Yes,Yes
+EMP1039,Aditya Chauhan,Finance,Finance Manager,Pune,Male,30,PhD,2024-04-17,1.2,1800000,3.4,5,47,No,No
+EMP1040,Lakshmi Iyer,Engineering,DevOps Engineer,Delhi NCR,Male,39,MBA,2018-05-24,7.1,2313000,2.6,3.3,11,Yes,No
+EMP1041,Meera Reddy,Human Resources,Talent Partner,Chennai,Female,28,Bachelors,2020-05-24,5.1,923000,2.4,4.7,11,No,No
+EMP1042,Nikhil Das,Operations,Operations Associate,Hyderabad,Male,29,Masters,2019-12-30,5.5,635000,2.4,2,8,No,No
+EMP1043,Gaurav Naidu,Customer Support,Escalation Specialist,Delhi NCR,Male,41,MBA,2020-11-22,4.6,885000,3.9,4.7,62,No,No
+EMP1044,Harish Iyer,Engineering,Software Engineer,Bengaluru,Female,31,MBA,2022-05-24,3.1,1323000,3.4,4.5,51,No,No
+EMP1045,Manish Patel,Customer Support,Support Associate,Bengaluru,Female,26,PhD,2022-11-23,2.6,504000,3.5,2.6,51,No,No
+EMP1046,Zoya Iyer,Engineering,Engineering Manager,Mumbai,Male,34,Masters,2019-03-12,6.3,4319000,5,,51,No,No
+EMP1047,Pooja Verma,Finance,Financial Analyst,Pune,Male,38,Masters,2018-12-29,6.5,1343000,3.4,3.9,37,Yes,No
+EMP1048,Shreya Iyer,Customer Support,Support Lead,Chennai,Male,30,MBA,2018-11-23,6.6,870000,3.7,3.6,30,Yes,No
+EMP1049,Aditya Reddy,Finance,Accountant,Hyderabad,Male,33,MBA,2022-10-17,2.7,884000,4.1,3,42,No,No
+EMP1050,Divya Singh,Human Resources,Talent Partner,Hyderabad,Female,26,PhD,2023-12-30,1.5,885000,2.5,2.4,31,No,No
+EMP1051,Gaurav Chauhan,Marketing,Marketing Executive,Remote,Male,27,Bachelors,2021-12-29,3.5,752000,4.2,2.4,26,No,No
+EMP1052,Joseph Patel,Human Resources,HR Manager,Delhi NCR,Male,32,Bachelors,2020-03-12,5.3,2283000,3.7,4,22,No,No
+EMP1053,Deepak Pillai,Operations,Operations Associate,Remote,Female,28,Bachelors,2022-11-23,2.6,513000,4.5,2.8,42,Yes,Yes
+EMP1054,Abhishek Pillai,Engineering,Engineering Manager,Bengaluru,Male,38,Masters,2018-09-11,6.8,4032000,3.4,2.7,32,Yes,No
+EMP1055,Zoya Sharma,Customer Support,Support Associate,Chennai,Female,33,Bachelors,2018-08-05,6.9,490000,4.5,3.3,13,No,No
+EMP1056,Zoya Singh,Finance,Finance Manager,Remote,Male,33,PhD,2022-02-04,3.4,2136000,3.6,4.3,49,Yes,No
+EMP1057,Gaurav Khan,Marketing,Marketing Executive,Remote,Male,35,PhD,2019-03-12,6.3,831000,3.9,3.6,,No,No
+EMP1058,Arjun Sharma,Customer Support,Support Lead,Remote,Female,36,PhD,2019-11-23,5.6,718000,4,3.6,38,Yes,No
+EMP1059,Divya Gupta,Engineering,DevOps Engineer,Remote,Male,34,Bachelors,2021-04-17,4.2,1612000,4.2,3.9,30,No,No
+EMP1060,Fatima Rao,Marketing,Marketing Executive,Chennai,Male,33,Diploma,2019-02-04,6.4,784000,4.8,4.3,41,No,No
+EMP1061,Neha Patel,Engineering,Engineering Manager,Bengaluru,Female,24,Masters,2024-04-17,1.2,2995000,3.6,3.3,29,No,No
+EMP1062,Tarun Chauhan,Operations,Operations Associate,Chennai,Male,25,Bachelors,2023-04-18,2.2,580000,4.6,2.8,44,Yes,Yes
+EMP1063,Siddharth Naidu,Engineering,QA Analyst,Hyderabad,Male,38,Masters,2019-12-30,5.5,1008000,3.6,3,53,No,No
+EMP1064,Sunita Naidu,Engineering,Senior Engineer,Pune,Female,37,Diploma,2024-12-29,0.5,1634000,4.5,2.6,36,Yes,Yes
+EMP1065,Ritika Reddy,Customer Support,Support Lead,Chennai,Male,24,MBA,2025-04-17,0.2,723000,5,,52,No,No
+EMP1066,Karthik Rao,Operations,Logistics Coordinator,Chennai,Male,25,MBA,2025-04-17,0.2,582000,4.6,3.2,31,No,No
+EMP1067,Joseph Pillai,Operations,Operations Associate,Hyderabad,Female,27,PhD,2022-11-23,2.6,562000,3.5,3.1,,No,No
+EMP1068,Aditya Singh,Operations,Logistics Coordinator,Remote,Female,23,PhD,2025-04-17,0.2,555000,3.7,2.5,47,No,No
+EMP1069,Ritika Das,Sales,Sales Executive,Chennai,Male,30,Masters,2019-11-23,5.6,785000,3.6,3.8,54,No,No
+EMP1070,Fatima Verma,Marketing,Marketing Executive,Pune,Male,26,PhD,2022-12-29,2.5,677000,3.2,3.7,52,No,No
+EMP1071,Ritika Patel,Finance,Accountant,Chennai,Male,31,MBA,2022-06-30,3,784000,4.1,3.1,36,Yes,No
+EMP1072,Abhishek Mathew,Sales,Regional Sales Head,Chennai,Male,27,MBA,2021-06-30,4,2892000,4.2,5,51,No,No
+EMP1073,Meera Menon,Finance,Accountant,Bengaluru,Male,29,Diploma,2023-12-30,1.5,858000,5,3.8,44,No,No
+EMP1074,Nikhil Mathew,Finance,Accountant,Pune,Female,28,MBA,2022-10-17,2.7,814000,4.8,3.1,54,No,No
+EMP1075,Siddharth Banerjee,Human Resources,HR Manager,Delhi NCR,Male,29,MBA,2021-03-12,4.3,2361000,4.5,4.8,25,Yes,No
+EMP1076,Tarun Sharma,Engineering,Senior Engineer,Chennai,Male,28,PhD,2020-10-17,4.7,2165000,2.7,3.3,38,No,No
+EMP1077,Arjun Ghosh,Operations,Logistics Coordinator,Chennai,Male,37,MBA,2020-12-29,4.5,692000,4.1,3.1,35,Yes,No
+EMP1078,Sunita Sharma,Engineering,Software Engineer,Bengaluru,Male,29,Masters,2025-04-17,0.2,1254000,3.9,2.5,31,No,No
+EMP1079,Meera Joshi,Marketing,Content Strategist,Mumbai,Female,31,Bachelors,2023-11-23,1.6,1026000,3.3,2.3,52,No,No
+EMP1080,Zoya Naidu,Finance,Finance Manager,Delhi NCR,Female,25,Bachelors,2023-03-12,2.3,1868000,3.4,3.4,33,No,Yes
+EMP1081,Rahul Mathew,Marketing,Brand Manager,Pune,Male,26,PhD,2025-04-17,0.2,1718000,4.2,3.5,47,No,Yes
+EMP1082,Deepak Mathew,Human Resources,HR Executive,Remote,Male,26,PhD,2025-04-17,0.2,582000,3.8,,29,Yes,No
+EMP1083,Tarun Ghosh,Operations,Operations Associate,Delhi NCR,Female,30,Masters,2020-11-22,4.6,583000,3.6,2.6,38,No,Yes
+EMP1084,Joseph Singh,Marketing,Brand Manager,Remote,Female,31,MBA,2022-10-17,2.7,1552000,4.3,3.6,64,No,No
+EMP1085,Karthik Iyer,Human Resources,Talent Partner,Bengaluru,Female,41,Diploma,2018-03-12,7.3,1183000,5,4.3,51,No,No
+EMP1086,Tarun Mathew,Marketing,Marketing Executive,Remote,Male,29,PhD,2019-03-12,6.3,773000,3.5,3.6,32,No,No
+EMP1087,Arjun Das,Marketing,SEO Specialist,Hyderabad,Female,34,MBA,2021-11-23,3.6,777000,3.4,4.2,54,No,No
+EMP1088,Abhishek Joshi,Operations,Operations Associate,Mumbai,Male,27,Bachelors,2021-04-17,4.2,758000,4.7,3,51,No,No
+EMP1089,Nikhil Iyer,Human Resources,HR Executive,Pune,Male,30,PhD,2022-12-29,2.5,622000,2.7,,35,No,No
+EMP1090,Gaurav Das,Marketing,Content Strategist,Mumbai,Male,24,Bachelors,2025-04-17,0.2,951000,3.9,2.1,49,No,No
+EMP1091,Sanjana Sharma,Engineering,QA Analyst,Mumbai,Male,28,PhD,2020-11-22,4.6,1108000,3.2,4.2,37,No,No
+EMP1092,Ananya Reddy,Operations,Operations Manager,Bengaluru,Female,27,Diploma,2021-02-03,4.4,1608000,3.9,1.7,67,No,Yes
+EMP1093,Gaurav Iyer,Operations,Logistics Coordinator,Bengaluru,Male,32,MBA,2018-02-04,7.4,874000,3.3,3.4,30,No,No
+EMP1094,Rahul Menon,Customer Support,Support Lead,Bengaluru,Male,29,Bachelors,2020-02-04,5.4,971000,3.3,2,36,No,No
+EMP1095,Meera Das,Engineering,Software Engineer,Hyderabad,Female,26,Masters,2024-04-17,1.2,975000,3.9,4.3,52,No,No
+EMP1096,Gaurav Naidu,Engineering,Senior Engineer,Hyderabad,Male,29,Bachelors,2022-12-29,2.5,1952000,4.9,2.4,41,No,No
+EMP1097,Deepak Chauhan,Sales,Sales Development Rep,Bengaluru,Female,28,Masters,2022-12-29,2.5,567000,3.4,3.7,36,No,No
+EMP1098,Tarun Sharma,Finance,Accountant,Remote,Female,32,Masters,2022-12-29,2.5,712000,4.3,4.2,41,Yes,No
+EMP1099,Siddharth Rao,Engineering,QA Analyst,Delhi NCR,Male,27,MBA,2023-03-12,2.3,857000,3.5,1.9,32,No,Yes
+EMP1100,Karthik Banerjee,Marketing,Marketing Executive,Pune,Female,24,MBA,2024-04-17,1.2,684000,3.6,4.3,37,No,No
+EMP1101,Siddharth Sharma,Sales,Sales Executive,Chennai,Female,31,Bachelors,2019-06-30,6,690000,4.5,5,46,Yes,No
+EMP1102,Gaurav Mathew,Finance,Financial Analyst,Hyderabad,Female,35,PhD,2022-05-24,3.1,950000,4.2,4.2,49,No,No
+EMP1103,Nikhil Banerjee,Customer Support,Support Lead,Mumbai,Female,29,MBA,2024-12-29,0.5,780000,4.2,2.2,,Yes,Yes
+EMP1104,Aditya Chauhan,Engineering,Engineering Manager,Hyderabad,Female,29,PhD,2019-08-06,5.9,3741000,5,2.6,43,No,No
+EMP1105,Manish Patel,Customer Support,Support Associate,Mumbai,Female,27,Masters,2024-06-29,1,496000,4.3,,49,Yes,Yes
+EMP1106,Pooja Naidu,Human Resources,HR Executive,Hyderabad,Female,29,MBA,2023-05-24,2.1,634000,3.1,3.9,53,No,No
+EMP1107,Sunita Das,Finance,Accountant,Mumbai,Male,33,MBA,2023-05-24,2.1,917000,3.9,,53,No,No
+EMP1108,Nikhil Banerjee,Operations,Operations Manager,Pune,Female,28,Masters,2022-08-05,2.9,1504000,3.4,2.9,39,No,Yes
+EMP1109,Arjun Singh,Engineering,DevOps Engineer,Bengaluru,Male,41,Bachelors,2022-02-04,3.4,2098000,2.4,3.9,30,No,No
+EMP1110,Rahul Sharma,Finance,Financial Analyst,Mumbai,Female,34,MBA,2024-03-12,1.3,1096000,4.7,,40,No,No
+EMP1111,Siddharth Menon,Marketing,SEO Specialist,Mumbai,Female,33,Diploma,2023-06-30,2,951000,3.6,4.4,49,No,No
+EMP1112,Siddharth Iyer,Engineering,QA Analyst,Remote,Female,27,Diploma,2021-11-23,3.6,789000,3.2,3.8,59,Yes,No
+EMP1113,Siddharth Singh,Human Resources,Talent Partner,Hyderabad,Male,30,Bachelors,2023-05-24,2.1,1070000,4.3,,43,No,No
+EMP1114,Sunita Chauhan,Engineering,Software Engineer,Pune,Male,30,MBA,2020-04-17,5.2,1252000,2.8,3,23,No,No
+EMP1115,Deepak Patel,Customer Support,Support Lead,Delhi NCR,Female,31,Masters,2021-08-05,3.9,904000,3.5,5,42,Yes,No
+EMP1116,Sanjana Joshi,Sales,Regional Sales Head,Remote,Male,35,PhD,2022-04-18,3.2,2630000,2.6,4.3,24,Yes,No
+EMP1117,Ananya Chauhan,Marketing,Brand Manager,Remote,Female,32,Bachelors,2021-04-17,4.2,1725000,4.1,4.5,18,Yes,No
+EMP1118,Ritika Banerjee,Customer Support,Support Lead,Delhi NCR,Female,26,Masters,2022-03-12,3.3,909000,3.9,2.4,52,No,Yes
+EMP1119,Arjun Das,Operations,Operations Associate,Bengaluru,Male,28,PhD,2022-03-12,3.3,700000,4.1,3.5,49,No,No
+EMP1120,Sanjana Joshi,Finance,Financial Analyst,Bengaluru,Male,30,Diploma,2025-04-17,0.2,1170000,5,4.1,54,No,No
+EMP1121,Tarun Pillai,Engineering,Engineering Manager,Hyderabad,Female,27,Diploma,2021-09-11,3.8,3408000,5,4.7,43,Yes,No
+EMP1122,Karthik Khan,Human Resources,HR Manager,Delhi NCR,Female,35,Diploma,2022-12-29,2.5,1887000,4.1,3.2,53,No,No
+EMP1123,Arjun Mathew,Sales,Sales Development Rep,Remote,Female,29,Bachelors,2023-10-18,1.7,461000,3.7,3.9,34,No,No
+EMP1124,Arjun Reddy,Operations,Logistics Coordinator,Bengaluru,Female,29,Bachelors,2021-12-29,3.5,745000,4.5,,10,No,No
+EMP1125,Varsha Gupta,Human Resources,Talent Partner,Mumbai,Male,28,PhD,2022-06-30,3,1226000,2.3,4.8,31,No,No
+EMP1126,Sanjana Mathew,Customer Support,Support Associate,Delhi NCR,Male,38,Bachelors,2019-03-12,6.3,580000,3.3,3.5,39,No,No
+EMP1127,Gaurav Reddy,Customer Support,Escalation Specialist,Remote,Male,29,Masters,2025-04-17,0.2,651000,4.1,3.1,42,No,No
+EMP1128,Varsha Menon,Sales,Regional Sales Head,Pune,Male,26,MBA,2022-05-24,3.1,2801000,3.4,2.8,57,Yes,No
+EMP1129,Abhishek Gupta,Human Resources,HR Manager,Delhi NCR,Male,35,Diploma,2019-12-30,5.5,2250000,3.9,2.4,41,Yes,No
+EMP1130,Lakshmi Pillai,Operations,Operations Associate,Hyderabad,Male,36,Diploma,2023-04-18,2.2,541000,2.7,2.5,36,No,No
+EMP1131,Siddharth Naidu,Marketing,Brand Manager,Hyderabad,Male,27,Masters,2024-09-10,0.8,1549000,3.8,3.9,51,Yes,Yes
+EMP1132,Deepak Ghosh,Human Resources,Talent Partner,Mumbai,Male,25,Diploma,2023-05-24,2.1,1062000,3.1,3.4,38,No,No
+EMP1133,Fatima Naidu,Human Resources,HR Manager,Pune,Female,25,PhD,2024-06-29,1,1570000,3.4,4.6,35,Yes,No
+EMP1134,Karthik Iyer,Marketing,Marketing Executive,Hyderabad,Male,32,PhD,2019-06-30,6,823000,3.3,3,31,No,No
+EMP1135,Manish Verma,Customer Support,Support Associate,Mumbai,Male,29,Bachelors,2024-10-17,0.7,524000,4.5,2.6,57,No,Yes
+EMP1136,Joseph Naidu,Engineering,QA Analyst,Delhi NCR,Female,40,PhD,2019-08-06,5.9,1000000,4,3.2,36,No,No
+EMP1137,Abhishek Menon,Finance,Financial Analyst,Delhi NCR,Male,31,Bachelors,2020-08-05,4.9,1174000,3.2,2.5,32,No,No
+EMP1138,Fatima Iyer,Sales,Account Manager,Hyderabad,Male,29,MBA,2022-10-17,2.7,1306000,3.5,3.1,43,Yes,No
+EMP1139,Joseph Rao,Sales,Sales Executive,Hyderabad,Female,40,Masters,2018-08-05,6.9,786000,4.6,2.6,53,Yes,No
+EMP1140,Lakshmi Singh,Engineering,Software Engineer,Bengaluru,Male,35,PhD,2021-04-17,4.2,1406000,4.2,3.3,27,No,No
+EMP1141,Pooja Khan,Customer Support,Support Associate,Pune,Female,31,MBA,2021-11-23,3.6,492000,4.4,3.2,51,No,No
+EMP1142,Neha Sharma,Operations,Operations Manager,Mumbai,Male,30,Masters,2022-02-04,3.4,1819000,3.2,2.2,38,No,No
+EMP1143,Ritika Patel,Human Resources,Talent Partner,Delhi NCR,Male,36,Bachelors,2020-08-05,4.9,1233000,4.5,3.3,46,No,No
+EMP1144,Arjun Sharma,Customer Support,Support Associate,Chennai,Female,26,Diploma,2022-11-23,2.6,425000,4.4,4.8,48,Yes,No
+EMP1145,Pooja Menon,Sales,Sales Executive,Chennai,Female,29,Bachelors,2022-05-24,3.1,619000,3.2,4.4,27,No,No
+EMP1146,Divya Pillai,Human Resources,Talent Partner,Hyderabad,Male,26,PhD,2022-04-18,3.2,1011000,3.9,3.9,46,Yes,No
+EMP1147,Abhishek Gupta,Finance,Finance Manager,Delhi NCR,Male,28,Diploma,2025-04-17,0.2,2141000,4.3,3.3,44,Yes,No
+EMP1148,Arjun Ghosh,Customer Support,Support Lead,Chennai,Male,32,Bachelors,2023-02-04,2.4,743000,2.8,2.9,43,No,No
+EMP1149,Rahul Naidu,Engineering,Senior Engineer,Pune,Other,28,Diploma,2023-06-30,2,1951000,3.3,3.6,45,No,No
+EMP1150,Tarun Verma,Customer Support,Escalation Specialist,Hyderabad,Female,26,MBA,2023-09-11,1.8,668000,4.4,3.1,50,No,No
+EMP1151,Meera Singh,Sales,Sales Development Rep,Chennai,Male,30,Bachelors,2021-10-17,3.7,605000,4.4,2.5,47,No,No
+EMP1152,Abhishek Sharma,Sales,Sales Executive,Chennai,Male,39,MBA,2021-03-12,4.3,713000,2.3,3.6,33,Yes,No
+EMP1153,Siddharth Sharma,Operations,Operations Manager,Bengaluru,Female,31,Diploma,2020-03-12,5.3,1729000,3.7,4.1,35,No,No
+EMP1154,Harish Iyer,Finance,Accountant,Mumbai,Female,29,PhD,2019-11-23,5.6,972000,3.2,4,51,No,No
+EMP1155,Sunita Naidu,Operations,Logistics Coordinator,Pune,Male,29,MBA,2024-04-17,1.2,664000,4.1,3.6,22,No,No
+EMP1156,Meera Menon,Sales,Sales Executive,Hyderabad,Male,30,Diploma,2020-11-22,4.6,722000,5,3.5,45,No,No
+EMP1157,Joseph Patel,Customer Support,Support Associate,Delhi NCR,Male,31,MBA,2017-04-17,8.2,659000,4.3,3.1,41,No,No
+EMP1158,Abhishek Iyer,Operations,Logistics Coordinator,Hyderabad,Male,24,PhD,2024-10-17,0.7,668000,3.6,,40,No,Yes
+EMP1159,Tarun Das,Marketing,SEO Specialist,Bengaluru,Male,24,Bachelors,2025-04-17,0.2,821000,4,4.3,48,No,No
+EMP1160,Manish Iyer,Marketing,Marketing Executive,Bengaluru,Male,35,Masters,2021-03-12,4.3,879000,4.4,4.3,60,Yes,No
+EMP1161,Rahul Mathew,Operations,Operations Manager,Delhi NCR,Male,29,Bachelors,2022-04-18,3.2,1812000,3.8,2.3,14,No,No
+EMP1162,Divya Rao,Operations,Operations Associate,Chennai,Male,34,PhD,2020-02-04,5.4,562000,3.1,4,30,No,No
+EMP1163,Pooja Menon,Finance,Accountant,Hyderabad,Male,31,PhD,2019-03-12,6.3,1029000,3.3,4.5,48,Yes,Yes
+EMP1164,Zoya Gupta,Operations,Logistics Coordinator,Delhi NCR,Male,28,Masters,2024-04-17,1.2,766000,4.5,4.3,59,No,No
+EMP1165,Ritika Das,Engineering,Engineering Manager,Mumbai,Male,27,Bachelors,2021-09-11,3.8,3896000,3.7,4.9,36,Yes,No
+EMP1166,Ritika Banerjee,Human Resources,HR Executive,Remote,Male,31,PhD,2017-11-23,7.6,764000,3.3,2.3,39,No,No
+EMP1167,Abhishek Naidu,Human Resources,HR Executive,Remote,Female,27,Diploma,2021-11-23,3.6,642000,5,4.2,52,No,No
+EMP1168,Manish Reddy,Marketing,Marketing Executive,Remote,Female,28,MBA,2023-06-30,2,667000,3.1,2.5,18,No,No
+EMP1169,Sanjana Banerjee,Engineering,Software Engineer,Pune,Female,26,MBA,2023-09-11,1.8,979000,4.4,5,31,No,No
+EMP1170,Sanjana Das,Engineering,DevOps Engineer,Remote,Female,35,PhD,2019-11-23,5.6,1580000,3.8,4.3,59,No,No
+EMP1171,Aditya Mathew,Finance,Financial Analyst,Delhi NCR,Male,39,PhD,2019-08-06,5.9,1376000,4.2,4.1,44,Yes,No
+EMP1172,Neha Verma,Finance,Finance Manager,Mumbai,Male,30,Diploma,2021-05-24,4.1,2521000,3.2,2.8,47,No,No
+EMP1173,Manish Iyer,Engineering,Software Engineer,Pune,Female,32,Masters,2025-04-17,0.2,863000,4.3,3,62,No,No
+EMP1174,Karthik Das,Operations,Logistics Coordinator,Hyderabad,Other,27,Diploma,2021-09-11,3.8,752000,3.7,3.3,39,No,No
+EMP1175,Sunita Patel,Customer Support,Escalation Specialist,Hyderabad,Male,30,Bachelors,2024-08-05,0.9,789000,4,4.4,51,Yes,No
+EMP1176,Sanjana Joshi,Human Resources,HR Executive,Mumbai,Male,32,Masters,2019-08-06,5.9,850000,2.2,2.4,46,No,Yes
+EMP1177,Shreya Ghosh,Engineering,Engineering Manager,Delhi NCR,Female,33,Bachelors,2023-06-30,2,3091000,4,4.7,47,No,No
+EMP1178,Manish Ghosh,Human Resources,HR Manager,Hyderabad,Male,27,Masters,2021-05-24,4.1,1968000,2.9,3.5,25,Yes,No
+EMP1179,Manish Verma,Sales,Account Manager,Hyderabad,Female,32,PhD,2016-02-04,9.4,1525000,4.2,2.3,34,No,Yes
+EMP1180,Ritika Sharma,Engineering,Senior Engineer,Delhi NCR,Male,30,PhD,2022-08-05,2.9,2420000,3.3,3.2,57,No,No
+EMP1181,Varsha Das,Finance,Accountant,Pune,Female,30,Masters,2020-05-24,5.1,803000,3,3.3,21,No,No
+EMP1182,Neha Iyer,Human Resources,HR Manager,Chennai,Female,26,Diploma,2022-06-30,3,1771000,4.6,3.9,48,Yes,No
+EMP1183,Ananya Banerjee,Customer Support,Escalation Specialist,Delhi NCR,Male,26,Masters,2023-03-12,2.3,868000,3.6,3.6,40,No,No
+EMP1184,Deepak Gupta,Operations,Operations Associate,Hyderabad,Male,25,Masters,2023-08-06,1.9,574000,4.3,3.2,38,No,No
+EMP1185,Karthik Joshi,Human Resources,Talent Partner,Remote,Male,34,Masters,2019-11-23,5.6,970000,3.4,4.1,29,Yes,No
+EMP1186,Karthik Reddy,Customer Support,Support Lead,Mumbai,Male,32,Masters,2023-06-30,2,922000,4.3,4.6,23,Yes,No
+EMP1187,Ananya Reddy,Finance,Financial Analyst,Delhi NCR,Male,33,Diploma,2024-04-17,1.2,1203000,4.3,4.2,31,No,No
+EMP1188,Nikhil Gupta,Marketing,Marketing Executive,Bengaluru,Male,24,MBA,2024-08-05,0.9,801000,2.3,5,47,No,Yes
+EMP1189,Joseph Mathew,Human Resources,Talent Partner,Hyderabad,Male,38,MBA,2022-05-24,3.1,1101000,2.8,2.7,23,No,Yes
+EMP1190,Lakshmi Rao,Engineering,Software Engineer,Bengaluru,Female,23,MBA,2025-04-17,0.2,1099000,4.4,4.4,50,No,No
+EMP1191,Divya Chauhan,Marketing,Brand Manager,Bengaluru,Male,30,PhD,2021-09-11,3.8,2218000,3.7,3.4,41,Yes,No
+EMP1192,Manish Ghosh,Sales,Sales Development Rep,Chennai,Female,23,MBA,2025-03-12,0.3,499000,3.9,4,42,No,No
+EMP1193,Joseph Sharma,Sales,Regional Sales Head,Mumbai,Male,28,Bachelors,2023-05-24,2.1,2911000,4.4,4.5,37,No,No
+EMP1194,Pooja Khan,Engineering,DevOps Engineer,Hyderabad,Male,33,Bachelors,2020-10-17,4.7,2047000,5,5,68,Yes,No
+EMP1195,Sunita Joshi,Marketing,Content Strategist,Delhi NCR,Female,25,Bachelors,2023-02-04,2.4,1001000,4.4,4.4,43,No,No
+EMP1196,Meera Patel,Customer Support,Support Associate,Hyderabad,Female,23,Masters,2025-04-17,0.2,428000,4.3,4,26,No,No
+EMP1197,Sunita Das,Customer Support,Support Lead,Hyderabad,Male,34,Bachelors,2021-02-03,4.4,870000,3.1,2.8,31,No,No
+EMP1198,Ritika Das,Operations,Operations Associate,Mumbai,Male,26,Masters,2025-04-17,0.2,607000,2.8,2.7,25,No,Yes
+EMP1199,Neha Khan,Engineering,Software Engineer,Chennai,Female,32,PhD,2021-05-24,4.1,1137000,2.9,2.5,37,No,No
+EMP1200,Varsha Ghosh,Engineering,QA Analyst,Pune,Male,36,Diploma,2025-02-03,0.4,773000,4.9,4.2,26,No,No
+EMP1201,Neha Menon,Sales,Sales Executive,Delhi NCR,Male,30,PhD,2025-04-17,0.2,594000,4,3.6,36,Yes,Yes
+EMP1202,Sanjana Mathew,Customer Support,Escalation Specialist,Mumbai,Female,36,Masters,2021-12-29,3.5,914000,3.2,3.9,46,No,No
+EMP1203,Manish Mathew,Finance,Finance Manager,Delhi NCR,Male,30,MBA,2024-04-17,1.2,1909000,4.3,3.2,34,No,Yes
+EMP1204,Zoya Naidu,Marketing,SEO Specialist,Pune,Female,24,Bachelors,2024-10-17,0.7,744000,2.2,3.5,23,Yes,No
+EMP1205,Divya Naidu,Marketing,Content Strategist,Delhi NCR,Male,33,Diploma,2018-04-18,7.2,1294000,5,3.5,71,No,No
+EMP1206,Neha Das,Customer Support,Support Associate,Hyderabad,Female,33,Bachelors,2025-04-17,0.2,383000,3.2,5,29,No,No
+EMP1207,Sanjana Iyer,Human Resources,Talent Partner,Remote,Male,41,PhD,2019-04-18,6.2,1107000,5,4.7,47,No,No
+EMP1208,Ritika Banerjee,Operations,Operations Associate,Chennai,Female,27,MBA,2023-11-23,1.6,454000,4.9,2.1,24,No,Yes
+EMP1209,Aditya Chauhan,Sales,Sales Executive,Bengaluru,Male,27,Masters,2023-11-23,1.6,681000,4,3.7,57,No,Yes
+EMP1210,Arjun Patel,Finance,Finance Manager,Bengaluru,Male,30,MBA,2022-12-29,2.5,2539000,4.6,3.2,57,No,No
+EMP1211,Aditya Singh,Human Resources,HR Manager,Delhi NCR,Male,23,Diploma,2025-04-17,0.2,1712000,3.7,4.2,52,No,No
+EMP1212,Siddharth Sharma,Operations,Operations Associate,Hyderabad,Female,29,Diploma,2023-02-04,2.4,507000,2.4,4.6,40,Yes,No
+EMP1213,Aditya Patel,Marketing,SEO Specialist,Hyderabad,Female,44,Masters,2018-04-18,7.2,861000,3.5,3.1,46,Yes,No
+EMP1214,Siddharth Mathew,Sales,Account Manager,Mumbai,Female,27,PhD,2021-10-17,3.7,1195000,3.1,3,35,No,No
+EMP1215,Zoya Chauhan,Engineering,Engineering Manager,Chennai,Male,26,MBA,2025-04-17,0.2,2958000,4,,40,No,Yes
+EMP1216,Sunita Pillai,Finance,Accountant,Mumbai,Male,30,MBA,2021-11-23,3.6,1042000,4.4,4,38,No,No
+EMP1217,Pooja Patel,Marketing,Brand Manager,Hyderabad,Male,30,Bachelors,2020-08-05,4.9,2122000,3.5,2.7,37,No,Yes
+EMP1218,Sunita Reddy,Marketing,Marketing Executive,Pune,Male,38,Masters,2022-12-29,2.5,752000,3.6,1,,No,No
+EMP1219,Gaurav Gupta,Finance,Finance Manager,Mumbai,Female,30,MBA,2018-11-23,6.6,2628000,3.4,4.2,45,No,No
+EMP1220,Lakshmi Mathew,Operations,Operations Associate,Pune,Male,32,PhD,2020-02-04,5.4,630000,2.1,3.6,29,Yes,No
+EMP1221,Aditya Das,Human Resources,Talent Partner,Mumbai,Male,30,MBA,2022-12-29,2.5,1010000,4.5,2.1,29,No,No
+EMP1222,Siddharth Gupta,Engineering,DevOps Engineer,Remote,Female,28,MBA,2020-02-04,5.4,1473000,3,2.8,51,No,Yes
+EMP1223,Arjun Iyer,Marketing,SEO Specialist,Pune,Female,28,Bachelors,2022-02-04,3.4,859000,2.7,3.4,45,No,Yes
+EMP1224,Sunita Reddy,Sales,Account Manager,Pune,Female,34,Diploma,2020-09-10,4.8,1227000,3.6,2.8,43,No,No
+EMP1225,Karthik Verma,Human Resources,HR Executive,Pune,Female,30,Bachelors,2018-12-29,6.5,758000,3.2,3.9,6,No,No
+EMP1226,Gaurav Patel,Customer Support,Support Associate,Bengaluru,Female,28,PhD,2025-04-17,0.2,464000,3.6,,34,Yes,Yes
+EMP1227,Zoya Das,Human Resources,HR Manager,Remote,Female,25,Bachelors,2023-03-12,2.3,1479000,4.4,3.1,27,No,No
+EMP1228,Arjun Verma,Marketing,Brand Manager,Mumbai,Male,36,MBA,2016-08-05,8.9,2630000,3.2,,34,No,No
+EMP1229,Karthik Pillai,Engineering,QA Analyst,Mumbai,Female,26,Diploma,2025-04-17,0.2,841000,3.2,2.4,28,No,No
+EMP1230,Lakshmi Patel,Marketing,SEO Specialist,Chennai,Female,32,Masters,2022-04-18,3.2,779000,3.5,4,29,No,No
+EMP1231,Sanjana Das,Customer Support,Support Lead,Bengaluru,Female,33,MBA,2017-10-17,7.7,1047000,3.5,3.2,56,Yes,No
+EMP1232,Harish Chauhan,Human Resources,Talent Partner,Bengaluru,Female,32,Masters,2018-11-23,6.6,1125000,2.4,2.7,61,No,No
+EMP1233,Ananya Singh,Sales,Sales Executive,Remote,Female,31,PhD,2021-09-11,3.8,542000,2.4,2.4,43,Yes,Yes
+EMP1234,Abhishek Pillai,Operations,Operations Associate,Chennai,Male,27,MBA,2022-03-12,3.3,594000,4.7,4.3,34,Yes,No
+EMP1235,Deepak Mathew,Human Resources,HR Executive,Mumbai,Male,31,Diploma,2020-11-22,4.6,752000,3.9,1.9,40,No,Yes
+EMP1236,Ananya Rao,Customer Support,Escalation Specialist,Bengaluru,Male,32,Bachelors,2022-08-05,2.9,841000,4,3.2,35,No,No
+EMP1237,Gaurav Menon,Human Resources,HR Executive,Bengaluru,Male,27,PhD,2021-10-17,3.7,719000,3.4,3.6,39,No,No
+EMP1238,Manish Banerjee,Human Resources,Talent Partner,Hyderabad,Female,26,Bachelors,2022-12-29,2.5,949000,3.6,4,23,No,No
+EMP1239,Sanjana Mathew,Finance,Finance Manager,Delhi NCR,Male,25,Bachelors,2025-04-17,0.2,2014000,2.7,5,16,No,No
+EMP1240,Nikhil Menon,Marketing,Brand Manager,Pune,Male,37,Diploma,2018-08-05,6.9,1986000,4.2,4.5,31,No,No
+EMP1241,Divya Iyer,Sales,Sales Development Rep,Mumbai,Female,32,Masters,2021-09-11,3.8,638000,5,4.4,18,Yes,No
+EMP1242,Harish Singh,Engineering,DevOps Engineer,Chennai,Male,28,Masters,2021-12-29,3.5,1690000,3.2,3.4,26,No,No
+EMP1243,Karthik Chauhan,Engineering,Engineering Manager,Mumbai,Female,31,MBA,2025-04-17,0.2,2849000,4.7,3.1,39,No,No
+EMP1244,Varsha Sharma,Operations,Operations Associate,Chennai,Female,28,Bachelors,2023-12-30,1.5,446000,3.9,5,,No,Yes
+EMP1245,Joseph Patel,Operations,Logistics Coordinator,Hyderabad,Male,35,Bachelors,2018-10-17,6.7,786000,5,4.5,65,No,No
+EMP1246,Siddharth Reddy,Finance,Finance Manager,Pune,Female,23,Diploma,2025-04-17,0.2,1918000,3.5,,,No,No
+EMP1247,Joseph Patel,Engineering,Engineering Manager,Mumbai,Male,30,Masters,2019-03-12,6.3,4090000,3.1,2.9,35,No,Yes
+EMP1248,Aditya Iyer,Human Resources,Talent Partner,Hyderabad,Male,32,MBA,2017-05-24,8.1,1221000,3.9,4.8,47,No,No
+EMP1249,Sunita Ghosh,Human Resources,HR Executive,Bengaluru,Female,27,Bachelors,2024-05-24,1.1,597000,4.5,2.7,51,No,No
+EMP1250,Lakshmi Reddy,Operations,Operations Manager,Hyderabad,Male,34,PhD,2022-05-24,3.1,1637000,4.2,2.7,31,No,No
+EMP1251,Deepak Mathew,Human Resources,HR Manager,Chennai,Male,32,Masters,2021-05-24,4.1,2049000,4.3,,33,Yes,No
+EMP1252,Ritika Khan,Marketing,Marketing Executive,Bengaluru,Male,29,Diploma,2021-08-05,3.9,957000,4.4,4.5,54,No,No
+EMP1253,Nikhil Khan,Operations,Operations Manager,Remote,Female,36,Diploma,2017-11-23,7.6,1851000,3.2,2.9,15,Yes,No
+EMP1254,Meera Sharma,Human Resources,Talent Partner,Pune,Male,28,Bachelors,2022-06-30,3,1087000,2.6,3.2,28,Yes,No
+EMP1255,Arjun Gupta,Operations,Logistics Coordinator,Mumbai,Male,32,Bachelors,2020-06-29,5,848000,4.1,4.8,12,No,No
+EMP1256,Ritika Khan,Human Resources,HR Manager,Hyderabad,Male,35,MBA,2022-08-05,2.9,2046000,4.9,4.1,46,No,No
+EMP1257,Nikhil Singh,Human Resources,Talent Partner,Mumbai,Male,23,Diploma,2025-04-17,0.2,1122000,4.4,4.4,52,Yes,No
+EMP1258,Fatima Sharma,Operations,Operations Manager,Hyderabad,Female,34,Bachelors,2025-04-17,0.2,1495000,3.1,3.9,49,No,Yes
+EMP1259,Deepak Pillai,Operations,Operations Associate,Delhi NCR,Male,30,PhD,2023-11-23,1.6,528000,3.3,4.8,33,No,Yes
+EMP1260,Siddharth Gupta,Engineering,Engineering Manager,Pune,Male,27,Masters,2021-06-30,4,3706000,5,4.6,43,No,No
+EMP1261,Zoya Reddy,Sales,Regional Sales Head,Remote,Male,37,PhD,2019-02-04,6.4,2638000,3.5,3.9,,No,No
+EMP1262,Manish Iyer,Customer Support,Support Lead,Chennai,Female,29,Bachelors,2022-02-04,3.4,818000,3.4,4.8,43,Yes,No
+EMP1263,Fatima Ghosh,Human Resources,HR Executive,Delhi NCR,Male,33,Bachelors,2024-05-24,1.1,719000,4.5,3.9,30,No,No
+EMP1264,Harish Naidu,Marketing,Marketing Executive,Mumbai,Male,29,Masters,2025-04-17,0.2,712000,3.2,4.3,18,No,No
+EMP1265,Varsha Patel,Engineering,QA Analyst,Remote,Male,30,Masters,2018-02-04,7.4,990000,3.8,3,39,No,No
+EMP1266,Tarun Das,Finance,Financial Analyst,Hyderabad,Female,38,Masters,2022-02-04,3.4,1077000,3.9,5,48,No,No
+EMP1267,Tarun Mathew,Customer Support,Support Associate,Bengaluru,Female,31,Masters,2022-09-11,2.8,537000,4.1,4.4,50,Yes,No
+EMP1268,Karthik Patel,Customer Support,Support Associate,Remote,Male,29,PhD,2023-09-11,1.8,452000,3.8,1,50,No,Yes
+EMP1269,Meera Rao,Customer Support,Support Associate,Hyderabad,Male,26,MBA,2022-11-23,2.6,516000,4.1,3.3,40,No,No
+EMP1270,Varsha Naidu,Operations,Logistics Coordinator,Remote,Male,32,Bachelors,2025-04-17,0.2,556000,3.5,4.1,39,Yes,No
+EMP1271,Lakshmi Mathew,Human Resources,Talent Partner,Delhi NCR,Male,32,Masters,2025-04-17,0.2,994000,3.6,4.6,34,No,No
+EMP1272,Sunita Das,Engineering,Software Engineer,Pune,Male,36,PhD,2024-10-17,0.7,1067000,3.2,2.3,25,No,Yes
+EMP1273,Meera Pillai,Operations,Operations Manager,Chennai,Male,33,PhD,2022-02-04,3.4,1831000,4.1,3.9,44,No,No
+EMP1274,Lakshmi Das,Engineering,Software Engineer,Remote,Female,28,MBA,2021-03-12,4.3,1111000,4.9,4.5,49,No,No
+EMP1275,Shreya Sharma,Engineering,Senior Engineer,Hyderabad,Male,33,Masters,2020-03-12,5.3,2293000,3.4,2.9,51,No,Yes
+EMP1276,Abhishek Banerjee,Sales,Account Manager,Delhi NCR,Male,31,Bachelors,2020-12-29,4.5,1440000,4.5,3.1,41,No,No
+EMP1277,Fatima Ghosh,Finance,Accountant,Pune,Female,26,Masters,2022-11-23,2.6,691000,4.4,3.4,35,No,No
+EMP1278,Zoya Banerjee,Customer Support,Support Lead,Mumbai,Male,31,MBA,2018-05-24,7.1,1022000,2.9,4.5,39,No,No
+EMP1279,Arjun Singh,Human Resources,Talent Partner,Bengaluru,Male,28,PhD,2025-04-17,0.2,892000,3.2,2.7,17,Yes,Yes
+EMP1280,Joseph Mathew,Sales,Regional Sales Head,Mumbai,Female,36,MBA,2020-03-12,5.3,3119000,3.7,4.9,44,No,No
+EMP1281,Tarun Rao,Sales,Regional Sales Head,Delhi NCR,Male,29,Bachelors,2022-05-24,3.1,2825000,3.1,2.7,54,Yes,Yes
+EMP1282,Joseph Chauhan,Operations,Operations Associate,Delhi NCR,Female,36,PhD,2022-04-18,3.2,609000,3.4,2.4,53,Yes,No
+EMP1283,Tarun Joshi,Human Resources,Talent Partner,Mumbai,Male,32,Bachelors,2021-10-17,3.7,1251000,3.5,4.2,43,Yes,No
+EMP1284,Karthik Menon,Operations,Operations Manager,Remote,Male,32,MBA,2019-11-23,5.6,1600000,4.2,2.5,34,No,No
+EMP1285,Pooja Mathew,Customer Support,Escalation Specialist,Mumbai,Female,30,Bachelors,2020-12-29,4.5,911000,3.3,,28,Yes,No
+EMP1286,Abhishek Iyer,Engineering,Engineering Manager,Hyderabad,Female,32,Masters,2022-11-23,2.6,3012000,5,3.5,29,No,No
+EMP1287,Sunita Rao,Operations,Logistics Coordinator,Chennai,Male,25,MBA,2023-08-06,1.9,662000,3.6,,12,No,Yes
+EMP1288,Zoya Verma,Finance,Accountant,Bengaluru,Female,28,PhD,2020-04-17,5.2,899000,3.1,3.7,36,No,No
+EMP1289,Aditya Iyer,Human Resources,Talent Partner,Delhi NCR,Female,34,Masters,2019-05-24,6.1,1182000,3.5,3.1,53,No,No
+EMP1290,Harish Ghosh,Operations,Operations Associate,Remote,Male,36,Diploma,2021-12-29,3.5,504000,3.2,4.5,27,No,Yes
+EMP1291,Meera Khan,Human Resources,HR Manager,Mumbai,Male,31,Masters,2021-08-05,3.9,2520000,3.4,3.5,40,No,No
+EMP1292,Abhishek Naidu,Customer Support,Support Lead,Pune,Female,32,MBA,2023-03-12,2.3,748000,4.8,4,51,No,No
+EMP1293,Zoya Iyer,Operations,Operations Manager,Bengaluru,Female,39,Bachelors,2017-09-11,7.8,2064000,3.9,5,51,No,No
+EMP1294,Aditya Verma,Marketing,Content Strategist,Mumbai,Female,29,Bachelors,2020-08-05,4.9,970000,4.2,3.8,50,No,No
+EMP1295,Zoya Menon,Marketing,Brand Manager,Chennai,Male,38,Diploma,2018-11-23,6.6,1983000,2.1,3.4,46,No,No
+EMP1296,Neha Sharma,Customer Support,Support Lead,Remote,Male,33,MBA,2017-10-17,7.7,952000,2.8,3.2,34,No,Yes
+EMP1297,Sunita Verma,Engineering,Software Engineer,Bengaluru,Female,25,MBA,2023-02-04,2.4,1223000,4.5,3.2,19,No,No
+EMP1298,Tarun Singh,Operations,Operations Associate,Delhi NCR,Female,28,Masters,2023-06-30,2,583000,3.7,3.4,26,No,No
+EMP1299,Arjun Patel,Customer Support,Support Associate,Remote,Female,32,MBA,2022-02-04,3.4,383000,3.7,5,29,No,No
+EMP1300,Nikhil Sharma,Human Resources,HR Executive,Pune,Male,29,MBA,2021-09-11,3.8,693000,3.9,3.7,27,No,No
+EMP1301,Rahul Pillai,Engineering,DevOps Engineer,Delhi NCR,Female,31,Bachelors,2025-02-03,0.4,1592000,4.1,3.8,35,No,No
+EMP1302,Manish Pillai,Sales,Sales Executive,Bengaluru,Female,35,PhD,2022-05-24,3.1,712000,4.3,5,25,No,No
+EMP1303,Karthik Gupta,Customer Support,Support Associate,Chennai,Female,30,Masters,2019-03-12,6.3,539000,2.9,1.9,43,No,No
+EMP1304,Deepak Verma,Operations,Operations Associate,Chennai,Female,29,Bachelors,2024-09-10,0.8,455000,4.9,3.7,46,Yes,No
+EMP1305,Sunita Chauhan,Engineering,QA Analyst,Pune,Female,31,PhD,2025-02-03,0.4,799000,3.1,3.7,22,No,No
+EMP1306,Siddharth Patel,Customer Support,Support Associate,Remote,Female,33,MBA,2019-02-04,6.4,494000,3.1,3.6,51,No,Yes
+EMP1307,Manish Banerjee,Human Resources,HR Manager,Pune,Male,36,MBA,2019-06-30,6,2277000,4.1,3.7,41,No,No
+EMP1308,Sunita Gupta,Sales,Sales Executive,Pune,Male,31,PhD,2023-08-06,1.9,669000,3.4,5,39,Yes,No
+EMP1309,Harish Patel,Customer Support,Escalation Specialist,Bengaluru,Male,34,PhD,2020-02-04,5.4,885000,5,3.9,33,No,No
+EMP1310,Meera Pillai,Engineering,DevOps Engineer,Chennai,Male,37,Diploma,2018-12-29,6.5,1897000,4.1,4,51,No,No
+EMP1311,Meera Mathew,Finance,Accountant,Hyderabad,Male,31,Diploma,2017-05-24,8.1,925000,3.9,3.3,31,Yes,No
+EMP1312,Manish Chauhan,Operations,Logistics Coordinator,Pune,Female,38,PhD,2020-10-17,4.7,744000,3,4.5,,No,No
+EMP1313,Lakshmi Chauhan,Customer Support,Support Lead,Mumbai,Male,28,PhD,2024-12-29,0.5,814000,2.2,2.3,45,Yes,Yes
+EMP1314,Fatima Das,Human Resources,HR Executive,Chennai,Male,43,Masters,2016-12-29,8.5,736000,4.1,,25,No,No
+EMP1315,Sanjana Pillai,Operations,Operations Manager,Chennai,Female,36,MBA,2016-11-22,8.6,1892000,3.2,3.1,24,No,No
+EMP1316,Ananya Chauhan,Engineering,Software Engineer,Hyderabad,Female,28,MBA,2024-05-24,1.1,1125000,3.1,4.4,26,Yes,Yes
+EMP1317,Rahul Sharma,Marketing,Brand Manager,Mumbai,Female,31,Masters,2018-09-11,6.8,2002000,3.8,2.2,34,No,Yes
+EMP1318,Arjun Singh,Finance,Finance Manager,Bengaluru,Male,29,PhD,2024-02-04,1.4,2282000,4,3.1,52,Yes,No
+EMP1319,Harish Iyer,Sales,Sales Executive,Bengaluru,Female,31,Diploma,2017-08-05,7.9,795000,3.2,2.2,4,Yes,No
+EMP1320,Harish Joshi,Customer Support,Support Associate,Pune,Male,26,PhD,2023-03-12,2.3,421000,4,4.8,44,Yes,No
+EMP1321,Pooja Khan,Engineering,DevOps Engineer,Delhi NCR,Female,26,PhD,2025-04-17,0.2,1410000,3.2,3.9,29,No,No
+EMP1322,Tarun Singh,Sales,Sales Executive,Delhi NCR,Other,29,MBA,2019-05-24,6.1,855000,2.8,1.6,59,No,No
+EMP1323,Karthik Sharma,Customer Support,Escalation Specialist,Delhi NCR,Female,35,PhD,2022-12-29,2.5,760000,4,3.8,51,No,No
+EMP1324,Aditya Menon,Finance,Finance Manager,Mumbai,Female,34,Bachelors,2021-08-05,3.9,2293000,2.7,3.9,41,No,No
+EMP1325,Varsha Rao,Human Resources,HR Manager,Chennai,Female,28,Bachelors,2020-04-17,5.2,1853000,3.5,2.5,37,Yes,No
+EMP1326,Rahul Rao,Customer Support,Support Associate,Remote,Female,36,MBA,2022-09-11,2.8,410000,3.4,2.3,27,No,Yes
+EMP1327,Tarun Reddy,Customer Support,Support Associate,Hyderabad,Male,25,Diploma,2023-03-12,2.3,489000,4.8,3.1,46,No,Yes
+EMP1328,Nikhil Naidu,Sales,Account Manager,Pune,Female,28,PhD,2023-06-30,2,1043000,3.3,5,42,No,No
+EMP1329,Ananya Das,Engineering,Senior Engineer,Remote,Male,38,Diploma,2019-12-30,5.5,1973000,4.5,2.5,35,No,No
+EMP1330,Siddharth Rao,Finance,Accountant,Hyderabad,Male,25,Masters,2025-04-17,0.2,686000,4.1,3.7,50,No,No
+EMP1331,Karthik Singh,Human Resources,HR Manager,Hyderabad,Female,34,Masters,2022-10-17,2.7,2058000,4.7,3,31,No,No
+EMP1332,Siddharth Iyer,Engineering,Senior Engineer,Bengaluru,Male,30,PhD,2018-06-30,7,2414000,3.3,3.2,22,Yes,Yes
+EMP1333,Varsha Banerjee,Marketing,SEO Specialist,Mumbai,Female,31,PhD,2020-04-17,5.2,1068000,4.5,4.1,43,No,No
+EMP1334,Pooja Naidu,Human Resources,Talent Partner,Mumbai,Male,29,Diploma,2024-10-17,0.7,1095000,3.5,2.9,31,No,No
+EMP1335,Shreya Khan,Marketing,Marketing Executive,Pune,Female,26,Bachelors,2024-05-24,1.1,607000,4.5,2.9,39,No,Yes
+EMP1336,Varsha Mathew,Human Resources,HR Manager,Hyderabad,Female,25,PhD,2025-04-17,0.2,1549000,2.7,3.2,33,No,Yes
+EMP1337,Lakshmi Joshi,Operations,Operations Associate,Delhi NCR,Male,32,Masters,2021-06-30,4,711000,4.4,4.3,47,Yes,No
+EMP1338,Meera Joshi,Engineering,DevOps Engineer,Chennai,Female,27,MBA,2021-03-12,4.3,1497000,3.7,2.7,38,No,No
+EMP1339,Lakshmi Verma,Operations,Operations Manager,Bengaluru,Female,26,PhD,2025-04-17,0.2,1638000,4.2,,46,Yes,No
+EMP1340,Gaurav Das,Marketing,SEO Specialist,Hyderabad,Female,32,Masters,2022-08-05,2.9,859000,3.8,5,49,No,No
+EMP1341,Abhishek Gupta,Operations,Operations Manager,Chennai,Female,30,Diploma,2021-02-03,4.4,1534000,3.3,2.8,31,No,No
+EMP1342,Nikhil Iyer,Human Resources,Talent Partner,Bengaluru,Male,25,Bachelors,2025-04-17,0.2,955000,4.3,3.2,50,Yes,No
+EMP1343,Aditya Gupta,Sales,Sales Executive,Bengaluru,Male,28,Diploma,2024-08-05,0.9,711000,2.8,5,39,No,No
+EMP1344,Neha Verma,Customer Support,Escalation Specialist,Chennai,Female,29,Diploma,2023-08-06,1.9,670000,1.4,,45,No,Yes
+EMP1345,Arjun Menon,Marketing,SEO Specialist,Bengaluru,Female,24,MBA,2024-12-29,0.5,730000,4.1,3.6,53,No,No
+EMP1346,Shreya Das,Sales,Account Manager,Bengaluru,Male,34,Bachelors,2020-06-29,5,1393000,4.2,5,34,No,No
+EMP1347,Manish Menon,Sales,Sales Development Rep,Delhi NCR,Female,32,Diploma,2023-04-18,2.2,627000,3.9,,57,No,No
+EMP1348,Varsha Das,Human Resources,HR Executive,Mumbai,Male,30,Bachelors,2018-10-17,6.7,943000,4.3,2.7,10,No,No
+EMP1349,Nikhil Mathew,Operations,Operations Associate,Delhi NCR,Male,28,PhD,2023-05-24,2.1,539000,2.8,2.8,35,No,No
+EMP1350,Abhishek Joshi,Human Resources,HR Executive,Chennai,Male,32,PhD,2020-06-29,5,649000,3.8,5,53,No,No
+EMP1351,Meera Pillai,Sales,Sales Development Rep,Pune,Female,29,Diploma,2025-03-12,0.3,541000,4.1,4,68,Yes,Yes
+EMP1352,Meera Chauhan,Marketing,Marketing Executive,Delhi NCR,Male,28,Bachelors,2020-05-24,5.1,973000,5,3.7,49,No,No
+EMP1353,Karthik Iyer,Customer Support,Support Associate,Bengaluru,Female,35,Bachelors,2022-02-04,3.4,474000,3.4,4.4,41,Yes,No
+EMP1354,Fatima Sharma,Customer Support,Escalation Specialist,Chennai,Male,39,Diploma,2020-08-05,4.9,775000,2.9,5,37,No,No
+EMP1355,Aditya Patel,Engineering,QA Analyst,Chennai,Male,33,Diploma,2024-11-22,0.6,734000,3.8,3.6,27,No,Yes
+EMP1356,Rahul Chauhan,Human Resources,HR Executive,Mumbai,Female,31,PhD,2019-10-18,5.7,740000,3.2,3,34,No,No
+EMP1357,Harish Mathew,Sales,Regional Sales Head,Mumbai,Male,34,PhD,2022-10-17,2.7,3177000,4.3,4.1,45,No,No
+EMP1358,Joseph Naidu,Operations,Operations Manager,Chennai,Female,32,PhD,2019-09-11,5.8,1819000,3.1,4,38,No,No
+EMP1359,Sanjana Gupta,Marketing,Marketing Executive,Mumbai,Female,35,Masters,2019-02-04,6.4,842000,3.5,3.6,26,Yes,No
+EMP1360,Rahul Gupta,Engineering,Software Engineer,Bengaluru,Female,30,Diploma,2023-02-04,2.4,1043000,3.4,3.2,42,Yes,No
+EMP1361,Fatima Khan,Engineering,Engineering Manager,Pune,Female,32,Bachelors,2024-08-05,0.9,2999000,2.6,4.5,10,No,No
+EMP1362,Sanjana Mathew,Customer Support,Support Lead,Remote,Male,29,Masters,2022-08-05,2.9,794000,4.9,4.3,45,Yes,No
+EMP1363,Zoya Das,Finance,Finance Manager,Pune,Female,35,MBA,2017-10-17,7.7,2225000,4.4,3.6,42,No,No
+EMP1364,Arjun Khan,Operations,Operations Associate,Hyderabad,Male,34,Masters,2022-09-11,2.8,651000,3.7,4.7,49,No,No
+EMP1365,Ananya Reddy,Operations,Operations Manager,Chennai,Female,34,Bachelors,2019-08-06,5.9,1732000,3.3,,6,No,No
+EMP1366,Karthik Das,Operations,Logistics Coordinator,Mumbai,Male,30,Bachelors,2020-05-24,5.1,910000,4.2,3.3,33,No,No
+EMP1367,Tarun Patel,Marketing,SEO Specialist,Delhi NCR,Female,24,Bachelors,2024-04-17,1.2,859000,4.7,2.9,60,No,Yes
+EMP1368,Karthik Patel,Sales,Sales Development Rep,Chennai,Female,25,PhD,2025-04-17,0.2,466000,2.6,3.7,38,No,No
+EMP1369,Gaurav Patel,Marketing,Marketing Executive,Remote,Male,36,PhD,2018-04-18,7.2,785000,3.4,3.1,21,No,No
+EMP1370,Neha Menon,Engineering,Engineering Manager,Remote,Male,27,Masters,2021-02-03,4.4,2972000,3.1,3.9,33,No,No
+EMP1371,Joseph Ghosh,Sales,Account Manager,Pune,Female,31,Diploma,2020-11-22,4.6,1168000,4.1,3,43,No,Yes
+EMP1372,Deepak Khan,Human Resources,HR Manager,Remote,Female,32,Masters,2019-04-18,6.2,1791000,3.3,3.4,21,Yes,No
+EMP1373,Neha Mathew,Marketing,Content Strategist,Bengaluru,Female,30,MBA,2025-04-17,0.2,837000,4,4.2,38,No,Yes
+EMP1374,Ritika Mathew,Marketing,Marketing Executive,Delhi NCR,Male,28,Bachelors,2021-05-24,4.1,932000,2.7,2.8,5,No,No
+EMP1375,Shreya Singh,Human Resources,Talent Partner,Delhi NCR,Male,36,Masters,2019-08-06,5.9,1102000,4,3.2,31,Yes,No
+EMP1376,Arjun Gupta,Finance,Finance Manager,Pune,Female,30,Bachelors,2023-11-23,1.6,1659000,4.9,3.2,63,No,Yes
+EMP1377,Neha Pillai,Finance,Accountant,Mumbai,Female,35,Diploma,2019-04-18,6.2,977000,4.4,3.9,35,No,No
+EMP1378,Sanjana Khan,Customer Support,Support Lead,Pune,Female,34,MBA,2017-11-23,7.6,886000,4.7,4,55,Yes,No
+EMP1379,Zoya Naidu,Finance,Accountant,Hyderabad,Female,32,Masters,2021-03-12,4.3,832000,4.2,,29,Yes,No
+EMP1380,Sunita Patel,Finance,Finance Manager,Remote,Female,33,Bachelors,2023-04-18,2.2,1671000,4,2.2,32,No,No
+EMP1381,Tarun Iyer,Customer Support,Support Lead,Mumbai,Male,34,PhD,2021-03-12,4.3,1126000,4.4,2.3,41,No,No
+EMP1382,Aditya Chauhan,Human Resources,HR Manager,Pune,Female,30,PhD,2018-03-12,7.3,2265000,4.4,4.9,38,No,No
+EMP1383,Joseph Ghosh,Sales,Account Manager,Hyderabad,Male,28,Bachelors,2021-12-29,3.5,1256000,5,3.2,34,No,No
+EMP1384,Harish Rao,Human Resources,HR Manager,Mumbai,Female,30,MBA,2019-09-11,5.8,2403000,4.8,3.8,60,Yes,No
+EMP1385,Siddharth Khan,Finance,Finance Manager,Delhi NCR,Male,33,MBA,2018-04-18,7.2,2517000,3.4,3.1,24,Yes,No
+EMP1386,Nikhil Rao,Finance,Financial Analyst,Remote,Male,26,Masters,2023-12-30,1.5,918000,4.6,4.1,34,No,No
+EMP1387,Sanjana Reddy,Customer Support,Support Lead,Mumbai,Female,32,MBA,2019-05-24,6.1,1021000,4.6,2.7,38,Yes,Yes
+EMP1388,Divya Reddy,Customer Support,Support Lead,Chennai,Male,38,Bachelors,2018-05-24,7.1,971000,2.6,,41,No,No
+EMP1389,Harish Das,Sales,Sales Executive,Pune,Male,28,Diploma,2020-10-17,4.7,778000,3.4,3.5,29,No,No
+EMP1390,Shreya Chauhan,Finance,Accountant,Remote,Male,29,PhD,2025-04-17,0.2,613000,4.2,,42,Yes,No
+EMP1391,Gaurav Das,Operations,Operations Manager,Mumbai,Female,29,PhD,2024-02-04,1.4,1789000,5,4.2,43,No,No
+EMP1392,Rahul Joshi,Operations,Logistics Coordinator,Chennai,Male,32,MBA,2018-08-05,6.9,767000,4.3,2.8,46,Yes,No
+EMP1393,Ananya Menon,Human Resources,HR Executive,Hyderabad,Female,25,MBA,2023-03-12,2.3,680000,4.5,3.4,46,Yes,No
+EMP1394,Tarun Mathew,Engineering,QA Analyst,Mumbai,Male,31,PhD,2025-03-12,0.3,874000,3.5,3.1,39,Yes,No
+EMP1395,Siddharth Khan,Finance,Finance Manager,Bengaluru,Male,36,Bachelors,2017-10-17,7.7,2689000,4.6,3,44,No,No
+EMP1396,Shreya Chauhan,Customer Support,Escalation Specialist,Hyderabad,Male,32,Bachelors,2018-06-30,7,1013000,2.6,3.5,24,Yes,No
+EMP1397,Ananya Chauhan,Human Resources,HR Executive,Remote,Male,23,Masters,2025-04-17,0.2,595000,2.6,5,25,Yes,Yes
+EMP1398,Sanjana Menon,Sales,Sales Executive,Bengaluru,Male,36,MBA,2018-10-17,6.7,870000,4.3,1,49,No,No
+EMP1399,Ritika Iyer,Human Resources,HR Manager,Delhi NCR,Male,30,PhD,2024-09-10,0.8,2090000,4.3,2.6,53,No,No
+EMP1400,Joseph Joshi,Human Resources,HR Executive,Remote,Male,38,MBA,2020-03-12,5.3,668000,3.8,2.4,42,No,No
+EMP1401,Shreya Joshi,Finance,Financial Analyst,Pune,Female,35,PhD,2016-11-22,8.6,1278000,3.7,3.7,28,No,No
+EMP1402,Sanjana Banerjee,Finance,Financial Analyst,Mumbai,Female,37,MBA,2021-05-24,4.1,1093000,4.1,,56,Yes,No
+EMP1403,Arjun Pillai,Human Resources,HR Manager,Bengaluru,Male,32,PhD,2021-04-17,4.2,2501000,5,5,48,No,No
+EMP1404,Siddharth Pillai,Marketing,Marketing Executive,Delhi NCR,Male,31,Masters,2020-10-17,4.7,831000,3.2,4.3,32,No,No
+EMP1405,Aditya Mathew,Human Resources,HR Executive,Chennai,Male,24,PhD,2024-02-04,1.4,571000,4,5,27,No,No
+EMP1406,Gaurav Naidu,Marketing,Marketing Executive,Delhi NCR,Male,33,PhD,2022-02-04,3.4,792000,3.7,3.9,53,Yes,Yes
+EMP1407,Tarun Verma,Engineering,Software Engineer,Remote,Male,26,MBA,2024-09-10,0.8,1031000,4.9,,40,No,No
+EMP1408,Abhishek Naidu,Sales,Sales Development Rep,Pune,Female,29,Bachelors,2023-04-18,2.2,552000,3.3,3.3,49,No,No
+EMP1409,Deepak Reddy,Customer Support,Escalation Specialist,Mumbai,Female,36,Diploma,2022-04-18,3.2,855000,4.9,4,39,Yes,No
+EMP1410,Tarun Patel,Marketing,Marketing Executive,Pune,Male,41,PhD,2018-02-04,7.4,841000,3.7,5,34,No,No
+EMP1411,Ritika Rao,Sales,Account Manager,Remote,Female,35,PhD,2023-04-18,2.2,916000,3.6,4,34,No,Yes
+EMP1412,Sanjana Mathew,Operations,Logistics Coordinator,Pune,Male,36,Bachelors,2018-12-29,6.5,857000,3.4,3.3,26,No,No
+EMP1413,Sunita Khan,Finance,Accountant,Remote,Male,27,Diploma,2025-04-17,0.2,665000,3.6,3.2,53,No,Yes
+EMP1414,Aditya Reddy,Engineering,Engineering Manager,Bengaluru,Female,35,Diploma,2022-02-04,3.4,3196000,2.6,2.2,22,No,No
+EMP1415,Sunita Iyer,Engineering,Senior Engineer,Mumbai,Female,33,Diploma,2019-06-30,6,2351000,4.6,5,29,No,No
+EMP1416,Lakshmi Verma,Finance,Accountant,Bengaluru,Male,32,Diploma,2021-12-29,3.5,901000,3.1,2.5,35,No,No
+EMP1417,Arjun Ghosh,Engineering,Senior Engineer,Mumbai,Male,28,Diploma,2020-12-29,4.5,2770000,5,4.4,58,No,No
+EMP1418,Rahul Reddy,Customer Support,Support Lead,Remote,Male,37,PhD,2019-09-11,5.8,888000,4.7,3.3,43,No,No
+EMP1419,Nikhil Khan,Finance,Financial Analyst,Pune,Female,32,Diploma,2021-09-11,3.8,1047000,4.7,3.5,26,No,Yes
+EMP1420,Nikhil Patel,Finance,Financial Analyst,Hyderabad,Male,37,Bachelors,2018-08-05,6.9,1433000,3.5,1.9,38,No,Yes
+EMP1421,Rahul Patel,Customer Support,Support Lead,Bengaluru,Male,28,Bachelors,2022-02-04,3.4,1017000,4.6,4.1,69,No,No
+EMP1422,Siddharth Joshi,Sales,Regional Sales Head,Bengaluru,Male,26,Masters,2023-11-23,1.6,2632000,3.8,2.9,34,No,No
+EMP1423,Manish Sharma,Customer Support,Support Lead,Pune,Male,30,MBA,2018-09-11,6.8,970000,4.1,5,34,Yes,No
+EMP1424,Joseph Menon,Marketing,SEO Specialist,Remote,Male,28,Diploma,2020-08-05,4.9,841000,3.2,3.6,29,No,No
+EMP1425,Nikhil Singh,Marketing,Brand Manager,Delhi NCR,Male,29,Masters,2023-06-30,2,1821000,3.6,3,33,Yes,No
+EMP1426,Shreya Naidu,Human Resources,HR Executive,Remote,Male,32,Bachelors,2023-06-30,2,665000,3.2,1.9,33,Yes,Yes
+EMP1427,Ritika Mathew,Marketing,Brand Manager,Bengaluru,Male,37,Masters,2018-05-24,7.1,2493000,3.1,4,33,No,No
+EMP1428,Tarun Naidu,Human Resources,Talent Partner,Bengaluru,Female,34,PhD,2015-05-24,10.1,1346000,3.9,3.5,50,No,No
+EMP1429,Neha Banerjee,Customer Support,Support Associate,Delhi NCR,Male,33,Masters,2019-05-24,6.1,536000,4.8,4.5,46,Yes,No
+EMP1430,Zoya Gupta,Sales,Account Manager,Hyderabad,Male,36,Diploma,2022-02-04,3.4,1167000,3,5,19,No,No
+EMP1431,Deepak Joshi,Sales,Account Manager,Delhi NCR,Female,30,MBA,2019-04-18,6.2,1232000,3.7,4.7,55,No,No
+EMP1432,Varsha Pillai,Customer Support,Escalation Specialist,Chennai,Female,23,Bachelors,2025-04-17,0.2,628000,3.4,4.6,30,No,No
+EMP1433,Shreya Joshi,Finance,Financial Analyst,Chennai,Male,29,Diploma,2023-03-12,2.3,1099000,4.5,4.2,48,No,No
+EMP1434,Harish Ghosh,Finance,Finance Manager,Mumbai,Female,28,Diploma,2020-05-24,5.1,2531000,3.8,4.4,28,No,No
+EMP1435,Deepak Banerjee,Human Resources,HR Executive,Chennai,Male,29,Masters,2025-04-17,0.2,543000,3.9,4.2,37,No,No
+EMP1436,Sanjana Naidu,Operations,Logistics Coordinator,Hyderabad,Male,30,Diploma,2021-12-29,3.5,724000,4.7,,37,No,No
+EMP1437,Shreya Verma,Finance,Financial Analyst,Hyderabad,Male,33,PhD,2021-09-11,3.8,1298000,3.7,3.3,29,No,No
+EMP1438,Ananya Mathew,Finance,Financial Analyst,Remote,Female,27,Diploma,2023-11-23,1.6,927000,3.5,,50,No,No
+EMP1439,Deepak Patel,Marketing,Content Strategist,Mumbai,Female,26,Bachelors,2024-09-10,0.8,954000,3.9,3.3,59,Yes,Yes
+EMP1440,Lakshmi Joshi,Sales,Sales Executive,Remote,Female,25,Masters,2025-03-12,0.3,555000,2.2,3.7,22,No,No
+EMP1441,Arjun Verma,Finance,Accountant,Mumbai,Male,23,Diploma,2025-04-17,0.2,827000,3.3,2.2,42,No,No
+EMP1442,Ananya Iyer,Finance,Financial Analyst,Pune,Male,31,MBA,2023-10-18,1.7,951000,3.7,3.3,17,No,No
+EMP1443,Rahul Reddy,Operations,Operations Associate,Remote,Male,32,MBA,2021-06-30,4,596000,4.3,5,20,No,No
+EMP1444,Zoya Ghosh,Finance,Financial Analyst,Bengaluru,Female,35,Bachelors,2020-03-12,5.3,1205000,4.2,3.4,45,No,No
+EMP1445,Pooja Mathew,Operations,Operations Manager,Pune,Male,29,Bachelors,2023-08-06,1.9,1649000,4,2.7,55,No,No
+EMP1446,Nikhil Sharma,Engineering,Senior Engineer,Remote,Male,32,Bachelors,2024-04-17,1.2,1752000,4,2.8,62,No,No
+EMP1447,Sanjana Iyer,Finance,Accountant,Bengaluru,Male,25,PhD,2023-09-11,1.8,787000,3.6,3.8,44,No,No
+EMP1448,Tarun Reddy,Engineering,Engineering Manager,Hyderabad,Male,36,Diploma,2017-03-12,8.3,4192000,4.1,3.4,36,No,No
+EMP1449,Siddharth Pillai,Sales,Sales Executive,Delhi NCR,Female,29,Masters,2023-02-04,2.4,635000,3.9,4.6,29,Yes,No
+EMP1450,Ritika Verma,Operations,Operations Associate,Bengaluru,Female,23,MBA,2025-04-17,0.2,488000,3.8,1.8,40,No,Yes
+EMP1451,Aditya Gupta,Operations,Logistics Coordinator,Hyderabad,Female,32,PhD,2018-05-24,7.1,837000,4.4,3.6,37,No,No
+EMP1452,Ritika Iyer,Finance,Financial Analyst,Pune,Female,33,MBA,2022-02-04,3.4,1060000,4.2,3.3,55,Yes,Yes
+EMP1453,Ritika Patel,Human Resources,HR Manager,Delhi NCR,Male,31,MBA,2022-04-18,3.2,2265000,3.6,2.9,31,No,Yes
+EMP1454,Neha Ghosh,Marketing,Marketing Executive,Remote,Female,23,Diploma,2025-03-12,0.3,599000,4.3,3.3,23,No,No
+EMP1455,Shreya Iyer,Marketing,SEO Specialist,Remote,Male,31,PhD,2025-04-17,0.2,643000,4.2,2.5,,No,No
+EMP1456,Gaurav Verma,Operations,Operations Associate,Remote,Female,28,Masters,2023-09-11,1.8,471000,3.1,2.9,31,No,No
+EMP1457,Pooja Patel,Human Resources,Talent Partner,Pune,Female,36,MBA,2018-09-11,6.8,976000,4.1,4.9,25,Yes,No
+EMP1458,Aditya Gupta,Human Resources,Talent Partner,Hyderabad,Female,29,Bachelors,2021-09-11,3.8,1024000,4,2.3,40,No,Yes
+EMP1459,Shreya Joshi,Marketing,Marketing Executive,Mumbai,Female,31,MBA,2019-12-30,5.5,823000,3.1,3.4,55,No,No
+EMP1460,Nikhil Verma,Marketing,Content Strategist,Remote,Female,30,Diploma,2023-05-24,2.1,698000,3,2.5,30,No,No
+EMP1461,Shreya Singh,Sales,Sales Development Rep,Chennai,Male,35,MBA,2018-08-05,6.9,707000,5,4.1,54,No,No
+EMP1462,Meera Singh,Human Resources,HR Executive,Delhi NCR,Female,29,PhD,2021-04-17,4.2,741000,3.8,2.1,25,No,No
+EMP1463,Sanjana Chauhan,Marketing,SEO Specialist,Mumbai,Female,26,PhD,2022-04-18,3.2,986000,4.2,2.9,29,No,No
+EMP1464,Arjun Menon,Sales,Sales Executive,Remote,Male,29,Bachelors,2022-08-05,2.9,667000,3.4,4.2,42,Yes,No
+EMP1465,Abhishek Ghosh,Finance,Accountant,Pune,Female,35,Bachelors,2018-12-29,6.5,782000,4.4,3.2,32,No,No
+EMP1466,Arjun Chauhan,Engineering,Senior Engineer,Chennai,Male,45,PhD,2019-06-30,6,2411000,3.6,3,45,No,No
+EMP1467,Varsha Patel,Human Resources,HR Manager,Mumbai,Female,26,Diploma,2023-10-18,1.7,2014000,3.9,,31,Yes,Yes
+EMP1468,Manish Banerjee,Engineering,Senior Engineer,Hyderabad,Male,28,MBA,2020-05-24,5.1,2189000,3.5,4.7,43,No,No
+EMP1469,Joseph Iyer,Marketing,Marketing Executive,Bengaluru,Female,28,MBA,2024-09-10,0.8,655000,4.1,3.7,27,No,No
+EMP1470,Rahul Iyer,Finance,Accountant,Delhi NCR,Male,33,Masters,2019-03-12,6.3,983000,4.6,2.5,35,No,No
+EMP1471,Gaurav Sharma,Operations,Operations Manager,Hyderabad,Male,30,MBA,2018-02-04,7.4,2036000,4.6,3.9,16,No,No
+EMP1472,Zoya Joshi,Marketing,Brand Manager,Mumbai,Female,30,Masters,2022-03-12,3.3,1717000,3.7,2.9,37,No,No
+EMP1473,Karthik Verma,Operations,Logistics Coordinator,Remote,Male,24,Bachelors,2024-03-12,1.3,654000,2.3,4.6,19,No,No
+EMP1474,Deepak Gupta,Human Resources,HR Executive,Remote,Female,30,Diploma,2020-03-12,5.3,605000,4.1,5,50,No,No
+EMP1475,Neha Menon,Customer Support,Support Associate,Remote,Male,39,Masters,2018-09-11,6.8,468000,3.1,3.9,33,Yes,No
+EMP1476,Abhishek Menon,Operations,Operations Associate,Chennai,Female,28,Bachelors,2020-06-29,5,572000,3.5,3.7,32,No,No
+EMP1477,Karthik Verma,Human Resources,HR Executive,Pune,Male,28,Bachelors,2024-05-24,1.1,646000,3.2,2.3,44,No,No
+EMP1478,Fatima Verma,Engineering,Senior Engineer,Hyderabad,Female,35,PhD,2021-12-29,3.5,1900000,4.7,4,43,Yes,No
+EMP1479,Aditya Khan,Marketing,Brand Manager,Delhi NCR,Male,39,Masters,2019-05-24,6.1,2180000,3.5,4.4,34,Yes,No
+EMP1042,Nikhil Das,Operations,Operations Associate,Hyderabad,Male,29,Masters,2019-12-30,5.5,635000,2.4,2,8,No,No
+EMP1427,Ritika Mathew,Marketing,Brand Manager,Bengaluru,Male,37,Masters,2018-05-24,7.1,2493000,3.1,4,33,No,No
+EMP1316,Ananya Chauhan,Engineering,Software Engineer,Hyderabad,Female,28,MBA,2024-05-24,1.1,1125000,3.1,4.4,26,Yes,Yes
+EMP1065,Ritika Reddy,Customer Support,Support Lead,Chennai,Male,24,MBA,2025-04-17,0.2,723000,5,,52,No,No
+EMP1427,Ritika Mathew,Marketing,Brand Manager,Bengaluru,Male,37,Masters,2018-05-24,7.1,2493000,3.1,4,33,No,No
+EMP1105,Manish Patel,Customer Support,Support Associate,Mumbai,Female,27,Masters,2024-06-29,1,496000,4.3,,49,Yes,Yes

@@ -1,0 +1,912 @@
+Customer ID,Signup Date,Industry,Plan,Contract,Payment Method,Support Tier,Seats,Tenure Months,Monthly Charges,Total Spend,Support Tickets,Logins Per Week,NPS Score,Auto Renew,Churned
+CUST-5000,2022-12-25,Education,Enterprise,Two year,Credit Card,Standard,72,40,44112,1764480,0,6.5,8,No,No
+CUST-5001,2022-03-16,Healthcare,Premium,One year,Wallet,Dedicated,41,14,10010,140140,5,8.4,6,No,No
+CUST-5002,2023-08-09,Healthcare,Enterprise,Month-to-month,Wallet,Dedicated,87,12,50963,611556,5,,3,Yes,No
+CUST-5003,2022-02-28,Retail,Basic,One year,Wallet,Dedicated,1,14,534,7476,0,7.6,6,No,Yes
+CUST-5004,2022-06-24,Manufacturing,Basic,Two year,Credit Card,Priority,32,28,1386,38808,2,0,10,No,Yes
+CUST-5005,2023-08-20,Logistics,Premium,Two year,Credit Card,Priority,21,9,6491,58419,0,5.3,7,No,No
+CUST-5006,2023-06-03,Professional Services,Standard,Two year,Wallet,Priority,1,15,1260,18900,2,6.4,8,No,No
+CUST-5007,2022-03-14,Education,Enterprise,Month-to-month,Net Banking,Dedicated,82,7,50491,353437,3,8.3,8,Yes,No
+CUST-5008,2023-01-03,Healthcare,Standard,One year,Bank Transfer,Priority,20,9,2771,24939,3,3.6,7,Yes,No
+CUST-5009,2022-10-14,Media,Enterprise,Month-to-month,Bank Transfer,Standard,79,1,47111,47111,3,3.8,7,No,No
+CUST-5010,2023-04-16,Logistics,Enterprise,Two year,UPI AutoPay,Dedicated,91,29,48989,1420681,3,7.7,4,No,No
+CUST-5011,2023-06-12,Logistics,Basic,One year,Bank Transfer,Dedicated,17,24,1003,24072,4,3.3,3,Yes,Yes
+CUST-5012,2023-02-14,Healthcare,Standard,Month-to-month,Wallet,Dedicated,18,21,2699,56679,4,1.1,9,Yes,No
+CUST-5013,2023-01-31,Retail,Basic,Two year,UPI AutoPay,Standard,1,26,528,13728,0,2,,Yes,No
+CUST-5014,2024-03-08,Manufacturing,Basic,Two year,Bank Transfer,Priority,1,35,510,17850,1,4,8,No,No
+CUST-5015,2023-09-19,Healthcare,Basic,One year,Wallet,Standard,16,10,1013,10130,1,1.1,6,Yes,No
+CUST-5016,2023-12-16,Manufacturing,Basic,Month-to-month,Credit Card,Dedicated,1,15,508,7620,5,1.6,7,No,No
+CUST-5017,2023-09-19,Manufacturing,Basic,Month-to-month,Net Banking,Standard,23,8,1102,8816,6,3.7,4,No,Yes
+CUST-5018,2022-12-25,Manufacturing,Standard,Two year,UPI AutoPay,Dedicated,19,30,2907,87210,0,4.3,8,No,No
+CUST-5019,2023-12-05,Logistics,Enterprise,Two year,Net Banking,Dedicated,67,28,37870,1060360,4,1.7,5,No,No
+CUST-5020,2023-09-20,Retail,Premium,One year,Wallet,Dedicated,13,17,5042,85714,0,6.8,7,No,Yes
+CUST-5021,2023-10-25,Media,Standard,One year,UPI AutoPay,Dedicated,20,12,2743,32916,2,9.4,7,Yes,Yes
+CUST-5022,2023-09-11,Logistics,Enterprise,Month-to-month,Credit Card,Priority,108,14,63915,894810,7,6.4,0,No,Yes
+CUST-5023,2024-03-10,Retail,Standard,One year,Bank Transfer,Standard,1,6,1305,7830,3,0.9,9,Yes,No
+CUST-5024,2023-07-12,Education,Basic,Two year,Credit Card,Dedicated,1,40,535,21400,2,2.3,4,No,No
+CUST-5025,2022-08-31,Education,Premium,Two year,Wallet,Standard,22,32,6874,219968,1,5.9,,Yes,No
+CUST-5026,2024-06-08,Professional Services,Premium,Month-to-month,UPI AutoPay,Standard,29,3,7828,23484,3,13.1,,No,No
+CUST-5027,2023-06-24,Education,Premium,Month-to-month,Credit Card,Standard,18,6,6299,37794,2,3.4,7,No,Yes
+CUST-5028,2023-02-02,Manufacturing,Basic,Month-to-month,Credit Card,Priority,20,7,1132,7924,5,1.2,6,Yes,Yes
+CUST-5029,2022-12-19,Retail,Enterprise,Two year,Bank Transfer,Dedicated,96,25,52879,1321975,0,3.8,10,No,No
+CUST-5030,2022-07-28,Media,Standard,Month-to-month,Net Banking,Standard,22,9,3020,27180,4,1.9,5,Yes,Yes
+CUST-5031,2023-11-02,Logistics,Enterprise,Two year,Credit Card,Standard,79,21,45123,947583,9,4.9,6,Yes,No
+CUST-5032,2023-11-27,Healthcare,Premium,Two year,UPI AutoPay,Dedicated,1,38,2909,110542,2,6.4,8,No,No
+CUST-5033,2023-01-30,Media,Standard,Two year,Bank Transfer,Standard,1,21,1270,26670,3,5.5,9,No,No
+CUST-5034,2023-11-02,Logistics,Enterprise,Two year,UPI AutoPay,Dedicated,88,34,49076,1668584,2,4,10,Yes,No
+CUST-5035,2023-08-08,Healthcare,Enterprise,Month-to-month,UPI AutoPay,Priority,90,1,53986,53986,0,5.4,,No,No
+CUST-5036,2022-12-28,Retail,Enterprise,Month-to-month,Wallet,Dedicated,55,1,32373,32373,0,11,8,Yes,No
+CUST-5037,2024-05-27,Retail,Standard,One year,Wallet,Dedicated,2,21,1340,28140,1,10.4,7,Yes,No
+CUST-5038,2022-08-07,Professional Services,Basic,Month-to-month,UPI AutoPay,Standard,12,1,833,833,2,3.9,5,No,No
+CUST-5039,2022-03-24,Logistics,Basic,Two year,UPI AutoPay,Priority,15,42,912,38304,2,7.8,9,No,No
+CUST-5040,2024-05-30,Retail,Standard,One year,Net Banking,Dedicated,16,6,2649,15894,4,7.2,10,Yes,No
+CUST-5041,2022-03-05,Education,Basic,Two year,Net Banking,Standard,23,20,1143,22860,0,3.1,6,Yes,No
+CUST-5042,2024-04-22,Professional Services,Premium,One year,UPI AutoPay,Dedicated,6,27,4205,113535,3,5.8,3,No,No
+CUST-5043,2022-10-10,Education,Premium,Month-to-month,Net Banking,Priority,37,1,9972,9972,4,7.8,8,No,Yes
+CUST-5044,2023-11-14,Media,Premium,One year,Wallet,Dedicated,19,25,6667,166675,8,5.8,7,No,No
+CUST-5045,2023-09-11,Professional Services,Basic,Two year,Credit Card,Dedicated,30,30,1425,42750,4,0,,No,No
+CUST-5046,2022-04-03,Logistics,Premium,Month-to-month,Net Banking,Dedicated,16,15,5637,84555,3,1.3,6,No,No
+CUST-5047,2023-11-13,Professional Services,Premium,One year,Wallet,Priority,12,21,5006,105126,0,9.1,10,No,No
+CUST-5048,2023-11-07,Education,Basic,One year,Credit Card,Priority,22,21,1107,23247,8,5.3,6,No,No
+CUST-5049,2023-06-23,Media,Enterprise,One year,Credit Card,Dedicated,73,30,44629,1338870,0,10,6,Yes,No
+CUST-5050,2023-10-02,Healthcare,Basic,Month-to-month,Credit Card,Standard,1,15,527,7905,3,0.7,8,No,No
+CUST-5051,2024-01-21,Manufacturing,Standard,Two year,Net Banking,Priority,17,25,2445,61125,5,4.5,6,Yes,No
+CUST-5052,2023-06-12,Media,Standard,Two year,Bank Transfer,Standard,2,12,1309,15708,2,7.1,7,No,No
+CUST-5053,2022-04-02,Logistics,Enterprise,One year,Wallet,Priority,86,13,51860,674180,3,5,6,No,No
+CUST-5054,2022-07-03,Education,Enterprise,Two year,Credit Card,Dedicated,69,30,40142,1204260,2,9.6,5,No,No
+CUST-5055,2022-12-27,Media,Enterprise,Month-to-month,UPI AutoPay,Standard,63,5,37979,189895,5,11.7,5,No,No
+CUST-5056,2023-08-24,Retail,Standard,Month-to-month,Wallet,Dedicated,1,15,1320,19800,1,7.7,7,Yes,No
+CUST-5057,2022-02-16,Education,Premium,Month-to-month,Bank Transfer,Dedicated,23,13,7168,93184,1,6.7,5,No,Yes
+CUST-5058,2023-07-11,Manufacturing,Basic,Month-to-month,Bank Transfer,Priority,1,1,530,530,2,4.2,,No,No
+CUST-5059,2022-11-29,Media,Basic,Two year,Net Banking,Standard,4,35,582,20370,0,3.6,5,Yes,No
+CUST-5060,2024-01-21,Media,Standard,One year,Net Banking,Standard,19,18,2610,46980,6,1.9,,Yes,Yes
+CUST-5061,2022-10-28,Media,Standard,One year,Credit Card,Dedicated,5,24,1625,39000,1,7.4,9,No,No
+CUST-5062,2023-05-14,Professional Services,Basic,Two year,Net Banking,Priority,12,15,873,13095,5,4.4,6,Yes,No
+CUST-5063,2024-05-24,Retail,Premium,Month-to-month,Net Banking,Standard,13,2,5235,10470,1,9.6,4,No,No
+CUST-5064,2023-01-08,Retail,Standard,Two year,Net Banking,Standard,19,30,2874,86220,4,6.4,6,No,No
+CUST-5065,2022-03-10,Logistics,Premium,One year,Net Banking,Standard,35,18,9570,172260,0,5.5,8,Yes,No
+CUST-5066,2023-11-18,Healthcare,Basic,Two year,Wallet,Dedicated,1,33,515,16995,6,3.9,3,Yes,No
+CUST-5067,2023-05-03,Logistics,Basic,Month-to-month,Wallet,Dedicated,9,9,790,7110,1,0,7,Yes,Yes
+CUST-5068,2023-04-10,Healthcare,Enterprise,One year,Wallet,Dedicated,73,12,41623,499476,0,8.6,7,Yes,No
+CUST-5069,2022-09-13,Retail,Premium,Two year,Wallet,Standard,18,25,6276,156900,1,8.6,,Yes,No
+CUST-5070,2022-08-28,Retail,Premium,Month-to-month,Wallet,Dedicated,29,9,7714,69426,5,4.8,8,No,Yes
+CUST-5071,2023-01-16,Manufacturing,Enterprise,Month-to-month,UPI AutoPay,Dedicated,83,24,49991,1199784,0,4.1,3,No,No
+CUST-5072,2022-09-10,Healthcare,Enterprise,Two year,UPI AutoPay,Standard,88,27,48926,1321002,2,4.5,8,No,No
+CUST-5073,2023-12-05,Manufacturing,Premium,Month-to-month,Credit Card,Priority,39,1,10008,10008,7,5.5,6,Yes,Yes
+CUST-5074,2023-09-27,Healthcare,Enterprise,Month-to-month,Credit Card,Standard,78,1,45116,45116,3,2.5,7,Yes,No
+CUST-5075,2023-10-30,Logistics,Enterprise,Month-to-month,Net Banking,Standard,93,1,50505,50505,1,7,7,No,Yes
+CUST-5076,2024-04-10,Education,Premium,Two year,Net Banking,Standard,29,24,8009,192216,5,4.7,4,Yes,No
+CUST-5077,2022-02-23,Retail,Basic,Two year,Credit Card,Standard,1,21,476,9996,0,0,7,No,Yes
+CUST-5078,2023-12-07,Professional Services,Premium,One year,Bank Transfer,Dedicated,20,10,6390,63900,4,11.4,5,No,No
+CUST-5079,2022-04-24,Retail,Basic,Two year,Net Banking,Dedicated,9,23,759,17457,3,0,3,No,Yes
+CUST-5080,2022-04-02,Professional Services,Standard,Two year,Bank Transfer,Priority,14,22,2280,50160,5,8.2,5,Yes,No
+CUST-5081,2022-09-10,Education,Standard,Month-to-month,UPI AutoPay,Standard,11,12,2040,24480,4,7.6,3,No,Yes
+CUST-5082,2022-03-17,Healthcare,Premium,One year,Net Banking,Standard,5,8,3743,29944,0,5.2,7,Yes,Yes
+CUST-5083,2023-04-28,Education,Premium,One year,Net Banking,Standard,25,18,7359,132462,3,5,,Yes,No
+CUST-5084,2022-06-07,Professional Services,Basic,Two year,Net Banking,Priority,17,35,1047,36645,1,6.2,10,Yes,No
+CUST-5085,2023-01-02,Media,Standard,One year,UPI AutoPay,Standard,1,19,1382,26258,0,5.1,10,No,No
+CUST-5086,2023-04-25,Healthcare,Premium,Two year,UPI AutoPay,Priority,11,13,4628,60164,0,8.5,6,No,No
+CUST-5087,2023-08-11,Media,Premium,Month-to-month,Wallet,Standard,20,4,6297,25188,1,6.9,8,Yes,No
+CUST-5088,2022-02-02,Professional Services,Enterprise,Month-to-month,Credit Card,Standard,108,16,56507,904112,4,4.5,8,Yes,Yes
+CUST-5089,2022-02-28,Logistics,Standard,One year,Bank Transfer,Priority,20,25,2719,67975,4,3.6,4,No,No
+CUST-5090,2022-03-04,Professional Services,Premium,Two year,UPI AutoPay,Standard,24,22,7514,165308,5,5,5,No,No
+CUST-5091,2022-09-16,Media,Enterprise,Two year,UPI AutoPay,Standard,86,39,47769,1862991,4,3.9,5,No,No
+CUST-5092,2023-05-28,Manufacturing,Premium,One year,Net Banking,Dedicated,15,12,5782,69384,7,9.4,6,Yes,No
+CUST-5093,2023-06-28,Media,Enterprise,One year,Bank Transfer,Dedicated,116,22,64363,1415986,0,9.2,7,No,No
+CUST-5094,2024-03-19,Professional Services,Basic,Month-to-month,Wallet,Dedicated,1,19,533,10127,4,6.6,3,No,No
+CUST-5095,2024-02-12,Retail,Standard,Two year,Wallet,Dedicated,1,23,1341,30843,7,3.5,7,Yes,No
+CUST-5096,2024-05-21,Retail,Standard,Two year,Wallet,Dedicated,11,34,2165,73610,5,7.4,8,No,No
+CUST-5097,2023-07-09,Education,Standard,Month-to-month,Wallet,Standard,4,1,1548,1548,5,6.7,,Yes,Yes
+CUST-5098,2023-10-15,Logistics,Premium,Two year,Credit Card,Dedicated,42,18,10971,197478,6,4.3,5,No,No
+CUST-5099,2022-11-04,Manufacturing,Premium,One year,Wallet,Standard,38,11,9569,105259,0,5.2,7,No,No
+CUST-5100,2022-08-18,Manufacturing,Premium,One year,Net Banking,Priority,13,10,5555,55550,4,,,No,No
+CUST-5101,2023-10-06,Logistics,Enterprise,Month-to-month,Wallet,Standard,83,18,49758,895644,0,9.7,10,No,No
+CUST-5102,2023-07-11,Retail,Standard,One year,Credit Card,Dedicated,2,14,1386,19404,0,6.7,,Yes,No
+CUST-5103,2023-10-23,Media,Standard,Two year,UPI AutoPay,Dedicated,1,29,1368,39672,6,2.5,5,No,No
+CUST-5104,2024-01-24,Retail,Standard,One year,UPI AutoPay,Priority,12,21,2111,44331,5,8.9,3,Yes,No
+CUST-5105,2022-08-25,Professional Services,Enterprise,Month-to-month,Net Banking,Priority,102,17,54496,926432,4,5.6,7,Yes,No
+CUST-5106,2023-08-10,Education,Basic,Month-to-month,Wallet,Dedicated,11,1,856,856,2,,6,No,Yes
+CUST-5107,2023-02-19,Manufacturing,Premium,Month-to-month,Net Banking,Priority,51,1,12425,12425,0,7.4,8,Yes,No
+CUST-5108,2022-06-28,Education,Enterprise,One year,Wallet,Priority,75,16,43590,697440,5,8.4,5,Yes,No
+CUST-5109,2022-01-06,Healthcare,Premium,Two year,Credit Card,Priority,25,41,7498,307418,2,6.9,6,No,No
+CUST-5110,2022-01-02,Logistics,Premium,Month-to-month,Credit Card,Standard,39,15,9695,145425,2,6.6,5,No,Yes
+CUST-5111,2024-02-02,Logistics,Standard,One year,UPI AutoPay,Standard,8,22,1813,39886,3,1.3,9,Yes,No
+CUST-5112,2022-04-12,Logistics,Basic,Two year,Bank Transfer,Standard,2,27,514,13878,1,4.1,6,Yes,No
+CUST-5113,2022-03-22,Healthcare,Standard,Two year,Wallet,Dedicated,3,17,1437,24429,6,5.6,6,No,No
+CUST-5114,2023-03-27,Manufacturing,Standard,Month-to-month,Bank Transfer,Standard,1,2,1351,2702,3,7.1,4,No,No
+CUST-5115,2024-02-01,Education,Basic,Month-to-month,UPI AutoPay,Dedicated,14,5,913,4565,3,4.6,8,Yes,No
+CUST-5116,2023-06-21,Healthcare,Standard,Two year,Net Banking,Dedicated,13,22,2372,52184,5,4.3,8,No,No
+CUST-5117,2024-05-26,Media,Standard,Month-to-month,Wallet,Dedicated,10,31,2047,63457,4,11.1,6,Yes,No
+CUST-5118,2022-02-14,Retail,Basic,Two year,Wallet,Standard,15,24,946,22704,3,3.5,3,Yes,No
+CUST-5119,2022-08-17,Education,Enterprise,Two year,Credit Card,Priority,94,16,52440,839040,4,4.8,7,No,No
+CUST-5120,2023-06-22,Healthcare,Standard,Two year,Credit Card,Standard,14,42,2463,103446,0,4.2,10,No,No
+CUST-5121,2022-04-15,Logistics,Standard,One year,Net Banking,Dedicated,11,13,2167,28171,6,4.8,3,No,No
+CUST-5122,2022-05-04,Logistics,Premium,Two year,Wallet,Priority,26,1,8058,8058,5,3.8,8,Yes,No
+CUST-5123,2022-06-17,Retail,Basic,Month-to-month,UPI AutoPay,Priority,12,20,881,17620,3,1.3,9,No,No
+CUST-5124,2022-02-27,Media,Premium,Two year,Credit Card,Dedicated,44,42,11592,486864,2,11.5,4,No,No
+CUST-5125,2023-01-04,Media,Enterprise,Two year,Net Banking,Priority,100,29,54471,1579659,3,10.1,6,Yes,No
+CUST-5126,2022-06-03,Education,Standard,Two year,Credit Card,Standard,15,22,2296,50512,6,9.1,,Yes,No
+CUST-5127,2023-11-24,Healthcare,Premium,Two year,Credit Card,Standard,28,35,7701,269535,5,10.2,9,No,No
+CUST-5128,2023-02-20,Retail,Enterprise,One year,Credit Card,Standard,63,6,36884,221304,0,4.6,7,No,No
+CUST-5129,2022-02-27,Healthcare,Enterprise,One year,UPI AutoPay,Standard,75,7,42278,295946,1,,5,No,No
+CUST-5130,2024-06-14,Retail,Standard,One year,Wallet,Standard,2,27,1316,35532,0,7.1,7,Yes,No
+CUST-5131,2022-11-24,Manufacturing,Standard,Two year,UPI AutoPay,Standard,19,14,2711,37954,4,9.4,7,Yes,No
+CUST-5132,2023-05-02,Manufacturing,Enterprise,One year,Net Banking,Standard,69,19,43356,823764,4,5.2,6,Yes,No
+CUST-5133,2024-04-19,Media,Enterprise,One year,Net Banking,Standard,77,7,45910,321370,3,,,No,No
+CUST-5134,2023-02-27,Media,Enterprise,Month-to-month,Credit Card,Priority,75,11,45646,502106,2,7,6,No,No
+CUST-5135,2023-03-14,Media,Enterprise,Month-to-month,Credit Card,Dedicated,87,1,52169,52169,2,7,4,No,No
+CUST-5136,2023-03-03,Logistics,Enterprise,One year,UPI AutoPay,Standard,102,27,58463,1578501,4,6.7,,No,No
+CUST-5137,2023-03-24,Healthcare,Basic,One year,Net Banking,Standard,3,17,590,10030,4,3.7,7,No,Yes
+CUST-5138,2023-07-29,Education,Basic,Month-to-month,Net Banking,Standard,17,13,945,12285,4,5.2,6,Yes,Yes
+CUST-5139,2023-07-07,Manufacturing,Enterprise,Month-to-month,Wallet,Priority,70,2,43013,86026,0,8.4,7,Yes,No
+CUST-5140,2023-03-29,Education,Standard,One year,Bank Transfer,Priority,1,19,1244,23636,4,6.9,,Yes,No
+CUST-5141,2022-05-10,Manufacturing,Premium,One year,Net Banking,Dedicated,36,8,8953,71624,4,8.9,3,Yes,Yes
+CUST-5142,2023-09-07,Media,Premium,One year,Bank Transfer,Priority,26,20,7268,145360,3,8.7,5,No,No
+CUST-5143,2023-11-12,Media,Enterprise,Two year,Credit Card,Dedicated,96,19,56178,1067382,0,4.1,6,No,No
+CUST-5144,2023-03-12,Logistics,Basic,One year,Wallet,Priority,17,11,1011,11121,1,0,5,No,No
+CUST-5145,2022-08-28,Healthcare,Premium,Two year,Credit Card,Priority,18,24,6375,153000,5,7.6,7,Yes,No
+CUST-5146,2022-10-20,Professional Services,Enterprise,Two year,Credit Card,Dedicated,83,33,46605,1537965,4,7.5,4,No,No
+CUST-5147,2024-03-31,Manufacturing,Premium,Month-to-month,Credit Card,Standard,18,28,5971,167188,3,7,10,No,No
+CUST-5148,2024-05-29,Retail,Premium,Two year,UPI AutoPay,Dedicated,33,42,8375,351750,4,5.3,9,No,No
+CUST-5149,2023-04-15,Healthcare,Standard,Two year,Bank Transfer,Standard,21,19,2904,55176,5,7.1,8,Yes,No
+CUST-5150,2023-05-11,Professional Services,Standard,One year,Net Banking,Priority,13,11,2196,24156,4,6.2,3,No,No
+CUST-5151,2022-11-01,Education,Standard,One year,Net Banking,Priority,1,29,1280,37120,0,5.6,5,No,No
+CUST-5152,2022-12-10,Professional Services,Premium,Month-to-month,Wallet,Standard,30,2,8113,16226,2,6.8,5,No,Yes
+CUST-5153,2022-12-26,Logistics,Standard,Two year,Bank Transfer,Standard,1,37,1392,51504,6,7,2,Yes,No
+CUST-5154,2022-06-21,Media,Basic,Month-to-month,Wallet,Dedicated,1,7,522,3654,2,2.2,8,Yes,Yes
+CUST-5155,2024-03-31,Retail,Premium,Month-to-month,Net Banking,Priority,13,17,5203,88451,3,4,9,No,Yes
+CUST-5156,2023-12-11,Logistics,Enterprise,One year,Net Banking,Dedicated,71,20,40372,807440,5,6.4,7,No,No
+CUST-5157,2022-09-10,Education,Enterprise,Month-to-month,Credit Card,Priority,103,1,57608,57608,5,7.7,8,Yes,Yes
+CUST-5158,2024-01-07,Media,Basic,One year,Net Banking,Standard,3,29,588,17052,3,7.1,7,Yes,No
+CUST-5159,2022-04-12,Education,Basic,One year,Credit Card,Dedicated,1,18,534,9612,2,7,7,No,No
+CUST-5160,2022-05-22,Retail,Premium,One year,Wallet,Dedicated,26,16,7770,124320,3,3,8,No,No
+CUST-5161,2022-09-28,Media,Enterprise,One year,Credit Card,Priority,86,21,47863,1005123,2,2.9,4,No,No
+CUST-5162,2023-08-19,Logistics,Enterprise,Month-to-month,Bank Transfer,Dedicated,64,1,41186,41186,2,6,4,Yes,Yes
+CUST-5163,2024-03-07,Professional Services,Basic,Month-to-month,Net Banking,Standard,25,1,1182,1182,4,2.6,6,Yes,No
+CUST-5164,2024-05-13,Logistics,Basic,Two year,Credit Card,Standard,1,35,499,17465,3,2.4,2,No,No
+CUST-5165,2022-03-27,Manufacturing,Basic,Two year,UPI AutoPay,Dedicated,10,34,771,26214,0,5.3,5,Yes,No
+CUST-5166,2022-10-21,Healthcare,Basic,One year,Bank Transfer,Standard,20,6,1042,6252,0,4.5,10,No,No
+CUST-5167,2024-05-18,Retail,Basic,One year,Wallet,Standard,15,2,909,1818,5,3.9,5,Yes,No
+CUST-5168,2023-12-15,Retail,Basic,One year,Net Banking,Standard,1,17,508,8636,1,0,,Yes,No
+CUST-5169,2024-03-22,Retail,Standard,One year,Credit Card,Priority,10,27,1993,53811,3,3.8,6,No,No
+CUST-5170,2022-01-07,Education,Basic,Month-to-month,Net Banking,Priority,16,24,984,23616,8,3.1,4,No,No
+CUST-5171,2022-01-04,Retail,Enterprise,Month-to-month,Net Banking,Standard,65,34,39218,1333412,1,11.3,6,No,No
+CUST-5172,2023-06-12,Retail,Enterprise,Two year,Bank Transfer,Standard,74,42,41141,1727922,1,7.8,9,Yes,No
+CUST-5173,2024-03-20,Media,Enterprise,One year,Credit Card,Priority,67,19,42223,802237,1,4.8,7,No,No
+CUST-5174,2022-02-03,Education,Premium,Two year,Bank Transfer,Standard,42,42,9985,419370,5,11,8,No,No
+CUST-5175,2023-09-25,Professional Services,Basic,One year,Credit Card,Standard,23,18,1114,20052,3,3.6,7,No,Yes
+CUST-5176,2022-02-27,Media,Standard,One year,Bank Transfer,Standard,7,1,1863,1863,4,7,,No,No
+CUST-5177,2023-05-25,Education,Enterprise,Two year,Wallet,Dedicated,101,33,56483,1863939,4,9.2,7,No,No
+CUST-5178,2024-05-03,Healthcare,Enterprise,Two year,Net Banking,Priority,88,12,52008,624096,7,10.7,10,Yes,No
+CUST-5179,2023-03-29,Media,Basic,One year,Net Banking,Dedicated,37,37,1505,55685,3,4,10,Yes,Yes
+CUST-5180,2023-10-14,Retail,Enterprise,Month-to-month,Bank Transfer,Priority,86,4,46938,187752,1,13.8,5,No,No
+CUST-5181,2022-12-31,Retail,Enterprise,Month-to-month,UPI AutoPay,Priority,96,1,51275,51275,0,11.6,2,No,Yes
+CUST-5182,2023-01-11,Professional Services,Premium,Month-to-month,Net Banking,Priority,25,16,7326,117216,1,8.4,3,No,Yes
+CUST-5183,2022-04-01,Manufacturing,Basic,One year,Wallet,Dedicated,8,21,737,15477,0,2.5,6,No,No
+CUST-5184,2022-09-06,Professional Services,Enterprise,One year,Wallet,Standard,85,4,51096,204384,2,6.3,6,Yes,No
+CUST-5185,2022-08-02,Professional Services,Enterprise,Month-to-month,Bank Transfer,Priority,103,6,54979,329874,2,7.2,8,No,Yes
+CUST-5186,2024-01-12,Retail,Standard,One year,Net Banking,Dedicated,1,21,1359,28539,5,13.7,6,No,Yes
+CUST-5187,2023-04-28,Professional Services,Premium,Two year,UPI AutoPay,Standard,49,25,12279,306975,5,3.7,,Yes,No
+CUST-5188,2024-03-27,Retail,Standard,Month-to-month,Bank Transfer,Standard,16,13,2494,32422,2,4.9,,No,No
+CUST-5189,2022-03-11,Media,Premium,Two year,UPI AutoPay,Priority,17,32,5598,179136,4,4.2,7,No,No
+CUST-5190,2024-03-20,Logistics,Standard,One year,Credit Card,Standard,35,9,4164,37476,6,4.4,8,No,No
+CUST-5191,2024-05-30,Manufacturing,Premium,One year,Net Banking,Standard,31,18,8399,151182,8,6,6,No,No
+CUST-5192,2023-10-17,Logistics,Standard,Two year,Credit Card,Standard,26,20,3439,68780,0,6,7,No,No
+CUST-5193,2022-02-19,Professional Services,Enterprise,One year,Credit Card,Standard,87,32,47344,1515008,1,4.8,8,No,No
+CUST-5194,2022-01-06,Manufacturing,Basic,Two year,Credit Card,Priority,3,41,548,22468,4,3.7,,No,No
+CUST-5195,2022-09-11,Retail,Basic,Month-to-month,Credit Card,Priority,24,15,1129,16935,5,5.2,5,No,No
+CUST-5196,2024-05-05,Professional Services,Enterprise,Two year,Net Banking,Priority,75,24,44912,1077888,6,6.2,4,No,No
+CUST-5197,2024-02-12,Media,Basic,Month-to-month,Bank Transfer,Standard,1,14,482,6748,1,2,5,Yes,No
+CUST-5198,2023-09-19,Manufacturing,Standard,Two year,Bank Transfer,Standard,6,36,1687,60732,1,5.9,10,Yes,No
+CUST-5199,2024-05-10,Logistics,Standard,One year,Bank Transfer,Dedicated,11,29,1991,57739,3,5.7,8,No,No
+CUST-5200,2024-01-13,Retail,Standard,Month-to-month,UPI AutoPay,Dedicated,1,10,1387,13870,2,4.5,4,Yes,Yes
+CUST-5201,2022-01-21,Media,Enterprise,One year,Credit Card,Standard,85,22,52166,1147652,1,4.9,5,No,No
+CUST-5202,2023-03-12,Logistics,Enterprise,Month-to-month,Wallet,Standard,81,10,46523,465230,3,8.4,7,No,No
+CUST-5203,2022-03-06,Manufacturing,Enterprise,Month-to-month,UPI AutoPay,Standard,75,16,46418,742688,1,4.3,9,No,No
+CUST-5204,2022-05-14,Logistics,Basic,One year,Bank Transfer,Priority,1,15,507,7605,8,1,5,No,Yes
+CUST-5205,2024-06-15,Professional Services,Enterprise,Two year,UPI AutoPay,Standard,100,31,58471,1812601,3,3.3,9,Yes,No
+CUST-5206,2023-04-18,Media,Enterprise,Two year,Wallet,Priority,80,40,47568,1902720,0,6.1,8,No,No
+CUST-5207,2022-06-15,Manufacturing,Basic,One year,UPI AutoPay,Standard,24,9,1244,11196,2,2.4,4,No,No
+CUST-5208,2023-09-02,Logistics,Premium,One year,Net Banking,Dedicated,38,15,9699,145485,2,5.1,7,Yes,No
+CUST-5209,2023-11-05,Manufacturing,Standard,One year,Net Banking,Standard,6,1,1812,1812,5,9.7,8,Yes,No
+CUST-5210,2022-05-26,Retail,Basic,Two year,UPI AutoPay,Priority,8,25,693,17325,3,1.1,8,No,No
+CUST-5211,2022-09-15,Retail,Enterprise,Two year,UPI AutoPay,Priority,99,40,53324,2132960,0,6.7,7,No,No
+CUST-5212,2024-01-23,Professional Services,Premium,Two year,Credit Card,Dedicated,20,27,6604,178308,1,4.6,10,No,No
+CUST-5213,2023-04-30,Retail,Enterprise,One year,UPI AutoPay,Standard,74,22,41979,923538,1,4.4,7,No,No
+CUST-5214,2022-08-13,Retail,Enterprise,Two year,Bank Transfer,Priority,96,35,51804,1813140,4,6,7,No,No
+CUST-5215,2023-08-12,Professional Services,Enterprise,Month-to-month,Bank Transfer,Priority,76,2,46094,92188,5,6.7,4,No,No
+CUST-5216,2022-02-22,Media,Standard,Two year,Net Banking,Standard,1,19,1248,23712,2,7.5,10,No,Yes
+CUST-5217,2022-07-04,Healthcare,Standard,Two year,Bank Transfer,Priority,16,28,2551,71428,1,4.7,8,Yes,No
+CUST-5218,2023-02-12,Retail,Basic,Month-to-month,Bank Transfer,Standard,17,7,1009,7063,0,1.6,4,Yes,Yes
+CUST-5219,2024-02-13,Retail,Premium,Two year,Credit Card,Standard,9,30,4362,130860,3,4.9,7,No,No
+CUST-5220,2022-05-06,Professional Services,Enterprise,Month-to-month,Net Banking,Standard,69,2,39216,78432,4,7.3,8,No,No
+CUST-5221,2024-04-22,Retail,Standard,One year,Credit Card,Standard,1,42,1398,58716,0,8.6,9,No,No
+CUST-5222,2023-10-04,Professional Services,Basic,One year,Credit Card,Priority,16,8,1002,8016,6,0,4,No,Yes
+CUST-5223,2022-08-18,Retail,Premium,Two year,Wallet,Standard,32,40,8781,351240,3,6.3,8,Yes,No
+CUST-5224,2023-07-04,Logistics,Premium,Month-to-month,Wallet,Priority,31,5,8066,40330,3,9.3,6,No,Yes
+CUST-5225,2023-09-07,Manufacturing,Basic,Two year,Wallet,Priority,1,22,500,11000,4,0.8,7,No,Yes
+CUST-5226,2022-02-21,Manufacturing,Standard,Month-to-month,Net Banking,Priority,1,3,1263,3789,2,7,,Yes,No
+CUST-5227,2022-07-23,Healthcare,Basic,One year,Net Banking,Priority,1,29,487,14123,4,3.6,5,No,No
+CUST-5228,2023-10-16,Retail,Basic,Month-to-month,Wallet,Standard,1,4,503,2012,0,6,10,Yes,No
+CUST-5229,2022-07-07,Retail,Enterprise,Month-to-month,Credit Card,Dedicated,75,18,45502,819036,7,5.3,7,No,No
+CUST-5230,2022-01-11,Education,Enterprise,Two year,Credit Card,Dedicated,96,42,55930,2349060,2,12.5,6,No,No
+CUST-5231,2022-01-09,Professional Services,Enterprise,Month-to-month,Wallet,Standard,111,24,65102,1562448,3,10.8,,No,No
+CUST-5232,2022-03-28,Logistics,Premium,One year,Bank Transfer,Standard,14,18,5349,96282,1,7.3,9,No,Yes
+CUST-5233,2022-06-30,Healthcare,Premium,One year,Net Banking,Standard,15,26,5367,139542,4,5.4,8,No,No
+CUST-5234,2024-03-01,Healthcare,Standard,One year,Credit Card,Priority,18,22,2745,60390,4,2.7,5,Yes,No
+CUST-5235,2022-06-02,Professional Services,Premium,Two year,Credit Card,Priority,24,40,7259,290360,2,5.9,9,Yes,No
+CUST-5236,2023-03-25,Manufacturing,Basic,One year,Wallet,Dedicated,23,5,1220,6100,2,5.1,4,Yes,Yes
+CUST-5237,2022-04-07,Professional Services,Basic,One year,Credit Card,Priority,1,17,523,8891,0,0.6,,Yes,No
+CUST-5238,2023-05-19,Professional Services,Basic,Month-to-month,Net Banking,Standard,13,1,891,891,0,4,10,No,Yes
+CUST-5239,2023-03-26,Manufacturing,Standard,Month-to-month,Net Banking,Standard,13,17,2328,39576,2,8.6,8,No,No
+CUST-5240,2022-01-01,Retail,Enterprise,One year,Bank Transfer,Dedicated,79,19,44310,841890,0,8.2,9,No,No
+CUST-5241,2023-02-21,Healthcare,Basic,Two year,UPI AutoPay,Dedicated,9,25,742,18550,3,3.5,10,Yes,No
+CUST-5242,2022-05-25,Healthcare,Enterprise,Two year,Wallet,Priority,77,20,46743,934860,2,6,5,No,No
+CUST-5243,2022-07-13,Media,Enterprise,One year,Wallet,Priority,72,14,43288,606032,5,0.2,6,No,No
+CUST-5244,2022-02-07,Education,Standard,Two year,Wallet,Standard,10,33,2144,70752,4,6,9,Yes,Yes
+CUST-5245,2023-08-02,Professional Services,Enterprise,One year,Wallet,Standard,100,22,58918,1296196,1,5.5,8,No,No
+CUST-5246,2023-08-11,Manufacturing,Basic,Two year,Credit Card,Priority,19,27,1045,28215,0,0.5,6,Yes,No
+CUST-5247,2023-07-26,Retail,Premium,Two year,Wallet,Priority,41,28,9767,273476,4,1.2,7,No,Yes
+CUST-5248,2023-07-31,Education,Basic,Two year,Wallet,Priority,12,27,805,21735,0,0,10,No,Yes
+CUST-5249,2022-01-22,Logistics,Basic,Month-to-month,UPI AutoPay,Standard,1,14,511,7154,0,2.3,,No,No
+CUST-5250,2024-05-25,Logistics,Basic,Two year,Wallet,Dedicated,6,32,672,21504,5,0.2,10,No,Yes
+CUST-5251,2024-02-19,Healthcare,Basic,Two year,UPI AutoPay,Standard,14,38,855,32490,0,4.1,9,No,No
+CUST-5252,2022-01-05,Retail,Premium,One year,Bank Transfer,Standard,32,13,8619,112047,9,9.6,3,No,No
+CUST-5253,2023-08-22,Logistics,Enterprise,Two year,Wallet,Standard,99,22,57772,1270984,5,7.1,7,No,No
+CUST-5254,2024-02-04,Professional Services,Basic,One year,Credit Card,Standard,8,5,732,3660,1,0,6,No,No
+CUST-5255,2023-08-11,Education,Enterprise,Month-to-month,Wallet,Standard,81,1,47009,47009,0,8,,No,No
+CUST-5256,2023-11-25,Professional Services,Basic,Two year,Net Banking,Dedicated,16,8,927,7416,0,4.3,8,No,No
+CUST-5257,2024-06-06,Healthcare,Enterprise,Month-to-month,Bank Transfer,Priority,86,15,52168,782520,5,6.8,3,Yes,No
+CUST-5258,2023-03-29,Professional Services,Enterprise,One year,Bank Transfer,Standard,94,20,52682,1053640,1,7.8,6,No,No
+CUST-5259,2023-08-22,Manufacturing,Enterprise,Month-to-month,UPI AutoPay,Standard,98,3,54211,162633,4,5.2,,No,Yes
+CUST-5260,2022-08-07,Media,Premium,Two year,Net Banking,Standard,33,27,8437,227799,1,5.3,6,Yes,No
+CUST-5261,2022-08-15,Education,Premium,Two year,Wallet,Dedicated,35,40,9627,385080,2,5.6,8,No,No
+CUST-5262,2023-10-09,Retail,Enterprise,One year,Bank Transfer,Standard,79,20,44190,883800,7,3.9,7,No,No
+CUST-5263,2022-03-22,Manufacturing,Premium,Two year,UPI AutoPay,Standard,27,14,7593,106302,3,5.2,3,Yes,No
+CUST-5264,2024-04-22,Education,Premium,Two year,Bank Transfer,Priority,22,38,6842,259996,2,8.2,7,Yes,No
+CUST-5265,2023-01-17,Logistics,Standard,Two year,Credit Card,Standard,20,31,2812,87172,6,5.2,3,No,No
+CUST-5266,2023-02-14,Healthcare,Enterprise,Two year,Net Banking,Standard,82,15,49037,735555,5,6.2,5,Yes,No
+CUST-5267,2023-10-31,Retail,Standard,Month-to-month,Credit Card,Dedicated,1,2,1335,2670,3,4.1,10,No,No
+CUST-5268,2022-11-11,Retail,Enterprise,Two year,Credit Card,Dedicated,68,25,42187,1054675,3,2.3,3,No,No
+CUST-5269,2022-09-03,Retail,Enterprise,One year,UPI AutoPay,Standard,97,27,54986,1484622,1,10.1,9,No,No
+CUST-5270,2022-04-21,Logistics,Enterprise,Two year,Wallet,Standard,87,10,50736,507360,3,5.5,,No,No
+CUST-5271,2022-03-09,Healthcare,Enterprise,Two year,UPI AutoPay,Standard,78,23,44310,1019130,4,7.5,3,Yes,No
+CUST-5272,2023-05-14,Education,Standard,Month-to-month,Wallet,Priority,1,12,1305,15660,3,7.8,7,Yes,No
+CUST-5273,2023-02-25,Professional Services,Premium,Month-to-month,UPI AutoPay,Dedicated,30,23,8271,190233,5,0.9,10,Yes,No
+CUST-5274,2022-06-22,Retail,Enterprise,Two year,UPI AutoPay,Standard,61,32,38447,1230304,1,5.3,4,Yes,No
+CUST-5275,2022-04-05,Logistics,Standard,One year,Wallet,Dedicated,1,23,1319,30337,0,8.7,7,No,Yes
+CUST-5276,2022-04-15,Professional Services,Basic,Two year,Net Banking,Dedicated,17,34,1024,34816,4,3.8,4,No,No
+CUST-5277,2024-04-26,Logistics,Standard,Month-to-month,Wallet,Priority,8,11,1824,20064,1,9.4,4,No,No
+CUST-5278,2024-01-31,Education,Premium,Two year,Bank Transfer,Standard,45,29,11180,324220,2,6.4,6,Yes,No
+CUST-5279,2023-02-07,Retail,Premium,Two year,Credit Card,Dedicated,19,26,6152,159952,2,4.3,3,No,No
+CUST-5280,2024-02-17,Professional Services,Enterprise,Month-to-month,Wallet,Standard,80,1,49021,49021,2,6.8,6,No,No
+CUST-5281,2023-07-05,Education,Standard,Two year,Credit Card,Dedicated,1,33,1293,42669,3,9,7,Yes,No
+CUST-5282,2022-07-01,Retail,Enterprise,Two year,UPI AutoPay,Standard,86,22,51952,1142944,2,0,5,No,No
+CUST-5283,2024-06-09,Manufacturing,Basic,Month-to-month,Net Banking,Dedicated,45,1,1841,1841,1,8.2,9,Yes,No
+CUST-5284,2023-11-01,Media,Standard,Two year,Bank Transfer,Priority,12,21,2081,43701,2,6.4,10,Yes,No
+CUST-5285,2023-07-16,Manufacturing,Premium,Month-to-month,Wallet,Dedicated,22,28,7174,200872,0,,10,No,No
+CUST-5286,2023-05-05,Media,Basic,Two year,Credit Card,Dedicated,17,35,935,32725,3,6.4,7,Yes,No
+CUST-5287,2022-01-10,Retail,Enterprise,Month-to-month,Bank Transfer,Dedicated,103,11,59611,655721,4,5.3,3,No,No
+CUST-5288,2023-06-13,Healthcare,Enterprise,Two year,Bank Transfer,Standard,78,20,43933,878660,1,2.6,7,No,No
+CUST-5289,2024-05-06,Retail,Standard,Two year,UPI AutoPay,Priority,3,1,1517,1517,0,6.3,5,Yes,No
+CUST-5290,2023-09-29,Logistics,Standard,Two year,Credit Card,Priority,3,29,1438,41702,4,6.3,8,No,No
+CUST-5291,2022-07-15,Media,Standard,One year,Wallet,Dedicated,1,18,1247,22446,0,6.3,4,Yes,No
+CUST-5292,2024-05-17,Retail,Premium,One year,Wallet,Dedicated,29,19,8402,159638,3,9.5,7,Yes,No
+CUST-5293,2022-12-13,Media,Premium,Two year,UPI AutoPay,Standard,21,21,6378,133938,0,6.6,6,No,No
+CUST-5294,2024-06-01,Education,Premium,Month-to-month,UPI AutoPay,Priority,13,12,5018,60216,4,8.5,5,No,No
+CUST-5295,2022-06-12,Media,Premium,Month-to-month,Credit Card,Standard,30,14,8436,118104,0,5,6,Yes,Yes
+CUST-5296,2022-11-08,Healthcare,Enterprise,Month-to-month,Credit Card,Priority,87,5,47975,239875,0,7,,Yes,Yes
+CUST-5297,2024-03-09,Manufacturing,Enterprise,One year,Wallet,Priority,74,19,45113,857147,2,4.3,4,No,No
+CUST-5298,2022-02-23,Healthcare,Basic,One year,UPI AutoPay,Dedicated,15,17,951,16167,4,1.6,8,No,No
+CUST-5299,2022-06-11,Media,Premium,Two year,Net Banking,Dedicated,17,20,5697,113940,6,8.8,5,No,No
+,,,,,,,,,,,,,,,
+CUST-5300,2023-03-11,Professional Services,Standard,Month-to-month,Bank Transfer,Priority,1,1,1282,1282,3,,,No,Yes
+CUST-5301,2024-03-15,Education,Premium,Two year,UPI AutoPay,Priority,32,19,8335,158365,0,,10,Yes,No
+CUST-5302,2022-01-12,Healthcare,Premium,Month-to-month,Bank Transfer,Standard,9,1,4478,4478,5,5.9,2,No,No
+CUST-5303,2022-06-23,Education,Standard,Two year,Net Banking,Dedicated,5,29,1535,44515,3,6.6,6,No,No
+CUST-5304,2023-05-23,Retail,Standard,One year,UPI AutoPay,Dedicated,8,1,1884,1884,5,6.7,2,Yes,Yes
+CUST-5305,2024-02-25,Media,Basic,Month-to-month,Net Banking,Priority,6,8,628,5024,0,3.3,3,No,No
+CUST-5306,2023-10-02,Retail,Premium,Two year,Bank Transfer,Standard,32,24,8286,198864,4,10.2,6,Yes,No
+CUST-5307,2022-05-18,Education,Standard,One year,Net Banking,Standard,4,23,1556,35788,3,5.9,7,No,No
+CUST-5308,2024-02-10,Healthcare,Premium,One year,Net Banking,Priority,27,19,7922,150518,3,10.1,7,Yes,No
+CUST-5309,2022-11-11,Education,Basic,One year,Credit Card,Priority,1,23,503,11569,0,0.7,7,Yes,No
+CUST-5310,2023-03-01,Education,Basic,One year,Credit Card,Dedicated,18,4,981,3924,5,1.2,6,No,No
+CUST-5311,2023-03-03,Retail,Premium,Month-to-month,Net Banking,Priority,28,1,7731,7731,5,3.5,7,Yes,Yes
+CUST-5312,2023-02-22,Media,Standard,Month-to-month,Net Banking,Dedicated,20,12,2844,34128,5,10.2,4,No,Yes
+CUST-5313,2022-09-25,Media,Standard,Two year,Credit Card,Standard,1,26,1351,35126,0,,7,No,No
+CUST-5314,2024-06-18,Manufacturing,Premium,One year,Credit Card,Standard,36,22,9499,208978,0,4.7,6,No,No
+CUST-5315,2024-06-18,Logistics,Standard,Two year,Net Banking,Standard,1,33,1356,44748,5,5.1,5,Yes,No
+CUST-5316,2024-06-14,Education,Enterprise,Two year,UPI AutoPay,Standard,104,11,57902,636922,0,6.3,5,No,No
+CUST-5317,2022-02-12,Retail,Premium,One year,Bank Transfer,Standard,29,3,8488,25464,2,5.2,5,No,No
+CUST-5318,2022-04-10,Healthcare,Basic,Two year,Credit Card,Standard,4,24,628,15072,2,5.2,4,Yes,No
+CUST-5319,2022-07-23,Manufacturing,Basic,Month-to-month,Credit Card,Priority,41,8,1657,13256,3,0.1,5,No,Yes
+CUST-5320,2023-11-12,Media,Enterprise,Month-to-month,Net Banking,Standard,84,2,50824,101648,0,8.4,7,Yes,No
+CUST-5321,2023-03-05,Logistics,Enterprise,Month-to-month,Credit Card,Dedicated,86,1,48177,48177,0,6.9,7,Yes,No
+CUST-5322,2022-05-26,Healthcare,Standard,Two year,Bank Transfer,Standard,19,24,2712,65088,5,5.9,9,No,No
+CUST-5323,2023-05-06,Logistics,Premium,Two year,Net Banking,Priority,42,22,10956,241032,2,3,,No,No
+CUST-5324,2023-06-12,Education,Premium,Month-to-month,Credit Card,Dedicated,29,25,8558,213950,3,4.6,,No,No
+CUST-5325,2022-06-26,Logistics,Standard,Month-to-month,Credit Card,Dedicated,15,14,2480,34720,2,10.4,6,No,Yes
+CUST-5326,2022-01-14,Education,Standard,Two year,Bank Transfer,Standard,14,20,2401,48020,5,7.4,4,Yes,No
+CUST-5327,2024-03-10,Manufacturing,Standard,Month-to-month,Credit Card,Standard,1,1,1367,1367,1,5.5,,No,No
+CUST-5328,2022-12-24,Retail,Premium,Two year,Net Banking,Priority,12,25,5164,129100,4,3.5,7,No,No
+CUST-5329,2022-01-27,Professional Services,Standard,One year,Wallet,Standard,19,42,2577,108234,0,1.2,6,No,No
+CUST-5330,2023-11-02,Education,Enterprise,Two year,Net Banking,Standard,76,29,46055,1335595,3,3.9,5,Yes,No
+CUST-5331,2022-08-21,Education,Standard,Month-to-month,UPI AutoPay,Standard,19,4,2597,10388,2,7,8,Yes,Yes
+CUST-5332,2024-06-15,Logistics,Basic,Month-to-month,Net Banking,Dedicated,1,14,528,7392,0,,7,No,No
+CUST-5333,2024-02-06,Healthcare,Premium,Two year,Credit Card,Standard,16,21,5838,122598,3,4,8,Yes,No
+CUST-5334,2024-02-05,Logistics,Basic,Two year,Wallet,Standard,1,30,515,15450,4,,,Yes,Yes
+CUST-5335,2023-06-04,Healthcare,Basic,One year,Wallet,Priority,8,26,744,19344,2,3.3,6,Yes,No
+CUST-5336,2022-01-18,Professional Services,Basic,One year,Credit Card,Dedicated,13,16,863,13808,1,6.6,5,No,No
+CUST-5337,2022-05-07,Media,Premium,Month-to-month,Credit Card,Priority,29,2,8436,16872,2,4.4,4,No,Yes
+CUST-5338,2024-04-09,Logistics,Enterprise,Two year,Credit Card,Dedicated,95,35,56497,1977395,1,7.9,9,Yes,No
+CUST-5339,2023-06-23,Healthcare,Enterprise,Month-to-month,UPI AutoPay,Dedicated,86,13,46599,605787,2,7.2,7,Yes,No
+CUST-5340,2023-10-02,Retail,Standard,Two year,Credit Card,Standard,15,42,2531,106302,0,5.5,,No,No
+CUST-5341,2024-06-06,Education,Basic,Month-to-month,Wallet,Dedicated,9,1,744,744,0,5.9,9,No,Yes
+CUST-5342,2022-02-27,Manufacturing,Enterprise,Month-to-month,Net Banking,Standard,94,7,55059,385413,0,2.6,10,Yes,No
+CUST-5343,2022-01-16,Professional Services,Enterprise,Month-to-month,Wallet,Standard,99,12,58011,696132,2,5.2,9,Yes,No
+CUST-5344,2022-05-19,Retail,Basic,Month-to-month,Wallet,Dedicated,21,27,1160,31320,1,3.2,7,No,No
+CUST-5345,2022-03-17,Professional Services,Enterprise,Two year,Net Banking,Dedicated,104,30,57753,1732590,6,8.8,5,No,No
+CUST-5346,2022-02-20,Manufacturing,Basic,Month-to-month,Bank Transfer,Priority,6,22,664,14608,5,3.4,5,No,No
+CUST-5347,2023-02-25,Manufacturing,Basic,Month-to-month,Net Banking,Standard,10,12,740,8880,6,1.6,,No,Yes
+CUST-5348,2022-11-12,Logistics,Basic,Month-to-month,Net Banking,Priority,19,24,1070,25680,1,5.9,10,No,No
+CUST-5349,2022-02-09,Education,Enterprise,Month-to-month,Wallet,Priority,97,18,51409,925362,4,5.4,7,No,No
+CUST-5350,2023-07-06,Media,Standard,One year,Wallet,Priority,2,19,1432,27208,2,7.1,7,No,No
+CUST-5351,2023-10-18,Logistics,Premium,Two year,Credit Card,Standard,12,26,5301,137826,3,6.6,7,No,No
+CUST-5352,2024-02-04,Media,Standard,Two year,Credit Card,Standard,3,15,1527,22905,3,6.1,4,No,No
+CUST-5353,2023-08-11,Healthcare,Enterprise,Two year,Credit Card,Dedicated,97,24,54133,1299192,0,2,10,Yes,No
+CUST-5354,2023-09-02,Media,Basic,Month-to-month,Wallet,Priority,1,16,516,8256,6,3.4,10,Yes,No
+CUST-5355,2023-07-22,Education,Basic,Two year,UPI AutoPay,Standard,9,8,726,5808,3,1.2,6,No,No
+CUST-5356,2023-08-24,Logistics,Enterprise,Two year,Net Banking,Standard,67,13,39469,513097,0,4,4,Yes,No
+CUST-5357,2023-02-11,Education,Basic,Two year,Bank Transfer,Standard,7,35,732,25620,0,1,9,Yes,Yes
+CUST-5358,2024-03-22,Professional Services,Premium,Month-to-month,UPI AutoPay,Dedicated,22,1,7117,7117,7,7.6,2,Yes,Yes
+CUST-5359,2022-11-21,Retail,Premium,Two year,Wallet,Priority,32,40,8562,342480,3,0.4,9,Yes,No
+CUST-5360,2023-09-15,Retail,Premium,Month-to-month,UPI AutoPay,Standard,25,8,7807,62456,3,2,5,Yes,No
+CUST-5361,2022-03-04,Manufacturing,Premium,Two year,Net Banking,Priority,32,26,8823,229398,4,6,8,Yes,No
+CUST-5362,2023-01-11,Healthcare,Enterprise,Two year,Wallet,Priority,59,17,37801,642617,0,3.4,,No,No
+CUST-5363,2023-01-02,Logistics,Enterprise,One year,UPI AutoPay,Priority,79,14,45950,643300,3,1.5,7,Yes,No
+CUST-5364,2022-12-07,Education,Standard,One year,Bank Transfer,Priority,5,16,1663,26608,4,5.9,4,Yes,No
+CUST-5365,2023-03-25,Professional Services,Basic,Two year,Wallet,Priority,15,31,918,28458,3,1.8,6,No,Yes
+CUST-5366,2022-05-30,Education,Standard,One year,Credit Card,Dedicated,1,32,1381,44192,0,6.7,7,Yes,No
+CUST-5367,2024-03-10,Media,Premium,Month-to-month,Credit Card,Dedicated,15,19,5943,112917,0,8,,No,No
+CUST-5368,2023-12-30,Logistics,Enterprise,One year,Wallet,Priority,90,16,53249,851984,1,5.4,9,Yes,No
+CUST-5369,2023-04-04,Professional Services,Premium,Month-to-month,Net Banking,Standard,11,29,4777,138533,2,7.6,7,Yes,No
+CUST-5370,2024-03-19,Professional Services,Basic,Two year,Bank Transfer,Dedicated,11,22,808,17776,3,5.3,6,Yes,No
+CUST-5371,2022-07-14,Logistics,Premium,Two year,Net Banking,Dedicated,14,21,5350,112350,5,6.2,5,No,No
+CUST-5372,2023-11-07,Education,Basic,Month-to-month,Net Banking,Priority,37,2,1621,3242,4,1.7,4,No,Yes
+CUST-5373,2022-06-07,Healthcare,Standard,Month-to-month,Bank Transfer,Dedicated,1,15,1387,20805,4,7.9,8,Yes,No
+CUST-5374,2023-09-16,Professional Services,Basic,Two year,Wallet,Priority,7,12,669,8028,1,2.3,6,Yes,No
+CUST-5375,2022-08-24,Logistics,Standard,Month-to-month,Net Banking,Priority,1,1,1310,1310,0,7.5,7,No,Yes
+CUST-5376,2023-12-26,Manufacturing,Standard,One year,Net Banking,Standard,1,28,1317,36876,2,3.6,7,No,No
+CUST-5377,2022-07-03,Healthcare,Standard,Month-to-month,Net Banking,Dedicated,21,13,2978,38714,3,9.2,8,No,No
+CUST-5378,2022-10-26,Logistics,Premium,Month-to-month,Net Banking,Dedicated,43,18,11060,199080,4,6.1,6,Yes,Yes
+CUST-5379,2023-02-24,Manufacturing,Standard,One year,Wallet,Standard,12,25,2108,52700,0,3.9,7,No,No
+CUST-5380,2022-04-05,Healthcare,Enterprise,One year,Net Banking,Standard,87,13,47057,611741,2,10.4,6,No,No
+CUST-5381,2022-08-19,Professional Services,Basic,Month-to-month,Net Banking,Standard,5,13,636,8268,2,3.8,7,Yes,Yes
+CUST-5382,2024-04-15,Education,Enterprise,One year,Bank Transfer,Standard,96,3,51695,155085,0,10.9,7,No,No
+CUST-5383,2023-12-20,Education,Enterprise,One year,UPI AutoPay,Dedicated,81,16,46488,743808,3,8,7,No,No
+CUST-5384,2023-04-20,Logistics,Premium,Month-to-month,Net Banking,Dedicated,26,4,7201,28804,4,7.4,7,Yes,No
+CUST-5385,2022-01-29,Media,Enterprise,Two year,Bank Transfer,Standard,94,27,54853,1481031,3,6.6,9,Yes,No
+CUST-5386,2022-05-16,Logistics,Premium,One year,Bank Transfer,Priority,6,20,4113,82260,0,8.8,5,No,Yes
+CUST-5387,2024-06-16,Healthcare,Enterprise,Two year,Net Banking,Standard,89,28,50453,1412684,2,8.5,8,No,No
+CUST-5388,2024-01-14,Education,Basic,One year,Credit Card,Standard,6,29,671,19459,2,1.2,4,No,No
+CUST-5389,2024-04-17,Logistics,Enterprise,One year,Net Banking,Dedicated,90,21,54159,1137339,2,2.7,,No,No
+CUST-5390,2022-07-03,Professional Services,Enterprise,One year,Bank Transfer,Priority,100,15,56884,853260,2,3.8,8,No,No
+CUST-5391,2022-08-30,Logistics,Basic,Two year,Bank Transfer,Dedicated,1,26,489,12714,3,,5,No,No
+CUST-5392,2024-06-17,Logistics,Standard,One year,Net Banking,Priority,1,13,1320,17160,3,8.9,7,No,No
+CUST-5393,2022-09-30,Professional Services,Premium,One year,Bank Transfer,Dedicated,8,11,4186,46046,3,7,,No,No
+CUST-5394,2022-10-05,Healthcare,Basic,Month-to-month,Credit Card,Priority,14,17,946,16082,1,0,6,Yes,No
+CUST-5395,2024-03-06,Manufacturing,Basic,Month-to-month,Credit Card,Priority,16,9,1002,9018,4,1.5,5,Yes,No
+CUST-5396,2024-05-10,Professional Services,Premium,One year,Credit Card,Standard,16,11,5428,59708,0,6.9,5,Yes,Yes
+CUST-5397,2023-05-29,Retail,Premium,One year,Net Banking,Dedicated,23,5,7201,36005,4,10.3,6,No,Yes
+CUST-5398,2023-05-13,Manufacturing,Basic,One year,Credit Card,Priority,2,21,553,11613,1,4.5,6,No,No
+CUST-5399,2023-01-27,Media,Basic,Two year,UPI AutoPay,Priority,4,30,607,18210,5,7.9,5,No,No
+CUST-5400,2023-09-28,Logistics,Premium,Month-to-month,Net Banking,Dedicated,8,24,4249,101976,2,4.9,5,No,No
+CUST-5401,2023-09-01,Manufacturing,Premium,One year,Bank Transfer,Standard,26,24,7437,178488,8,4.2,4,Yes,Yes
+CUST-5402,2023-05-22,Professional Services,Enterprise,One year,Credit Card,Dedicated,91,29,50529,1465341,3,7.1,5,No,No
+CUST-5403,2022-11-08,Healthcare,Basic,Month-to-month,Credit Card,Standard,12,6,860,5160,3,1.8,5,Yes,No
+CUST-5404,2024-05-18,Healthcare,Premium,One year,Credit Card,Dedicated,29,33,7877,259941,0,4.4,,No,No
+CUST-5405,2024-06-14,Media,Premium,One year,Net Banking,Standard,32,27,8287,223749,0,5.1,9,No,No
+CUST-5406,2023-05-29,Media,Basic,One year,Credit Card,Dedicated,31,19,1468,27892,0,5.4,7,No,No
+CUST-5407,2024-01-25,Education,Enterprise,One year,Net Banking,Priority,81,17,47080,800360,0,7,7,No,No
+CUST-5408,2022-02-27,Retail,Enterprise,Two year,Wallet,Dedicated,86,11,46635,512985,5,7.5,1,Yes,No
+CUST-5409,2024-03-01,Education,Enterprise,Two year,Credit Card,Priority,93,19,54998,1044962,1,4.9,8,Yes,No
+CUST-5410,2022-02-14,Professional Services,Standard,Month-to-month,Wallet,Priority,12,9,2204,19836,2,8.3,7,Yes,Yes
+CUST-5411,2024-03-04,Manufacturing,Enterprise,One year,Bank Transfer,Priority,80,20,45748,914960,1,7.4,10,Yes,No
+CUST-5412,2023-11-10,Retail,Basic,One year,Bank Transfer,Standard,15,14,959,13426,5,2.7,5,Yes,No
+CUST-5413,2023-11-26,Retail,Basic,Two year,UPI AutoPay,Priority,6,28,633,17724,6,1.8,8,Yes,No
+CUST-5414,2024-02-14,Logistics,Standard,Month-to-month,Bank Transfer,Standard,9,15,2032,30480,3,6.9,6,Yes,Yes
+CUST-5415,2022-02-21,Logistics,Basic,Two year,Credit Card,Standard,6,16,639,10224,1,1.8,5,No,No
+CUST-5416,2022-01-10,Education,Premium,One year,Net Banking,Priority,8,7,4527,31689,5,9.5,5,Yes,No
+CUST-5417,2023-01-13,Media,Enterprise,Two year,Bank Transfer,Standard,83,30,46188,1385640,4,5.2,6,No,No
+CUST-5418,2022-10-29,Healthcare,Enterprise,Two year,Wallet,Priority,89,15,50985,764775,0,8,10,No,No
+CUST-5419,2022-03-06,Retail,Basic,One year,Credit Card,Dedicated,1,14,533,7462,0,3.6,7,No,No
+CUST-5420,2023-05-20,Healthcare,Standard,One year,Bank Transfer,Dedicated,18,12,2567,30804,1,7.2,6,Yes,No
+CUST-5421,2022-05-01,Education,Enterprise,Two year,Net Banking,Standard,96,40,56210,2248400,3,7,6,Yes,No
+CUST-5422,2022-06-27,Education,Standard,Two year,UPI AutoPay,Priority,5,40,1596,63840,3,5.9,4,No,No
+CUST-5423,2022-08-25,Retail,Standard,One year,Credit Card,Standard,2,17,1410,23970,3,7.2,6,Yes,No
+CUST-5424,2023-12-14,Professional Services,Enterprise,One year,Wallet,Priority,76,3,43108,129324,5,9.2,6,Yes,Yes
+CUST-5425,2022-10-11,Media,Basic,Two year,Wallet,Priority,1,31,514,15934,4,2.4,,No,No
+CUST-5426,2023-10-06,Logistics,Standard,Month-to-month,Bank Transfer,Priority,1,1,1387,1387,0,1.7,,Yes,Yes
+CUST-5427,2022-08-03,Healthcare,Enterprise,Two year,Credit Card,Dedicated,74,42,42996,1805832,1,4.8,7,Yes,No
+CUST-5428,2022-10-04,Manufacturing,Standard,Two year,Bank Transfer,Standard,6,37,1691,62567,5,4.9,3,Yes,No
+CUST-5429,2023-06-13,Media,Premium,Two year,Credit Card,Priority,36,37,9113,337181,2,7.9,3,No,No
+CUST-5430,2024-01-24,Education,Basic,Month-to-month,Wallet,Priority,5,12,667,8004,2,1.3,7,No,Yes
+CUST-5431,2024-04-22,Retail,Premium,Two year,Bank Transfer,Standard,30,32,7928,253696,1,0,6,No,No
+CUST-5432,2023-04-06,Retail,Enterprise,One year,Bank Transfer,Standard,86,17,51410,873970,4,6,7,No,No
+CUST-5433,2024-04-29,Logistics,Basic,One year,UPI AutoPay,Priority,14,18,936,16848,5,1.1,4,Yes,Yes
+CUST-5434,2024-02-10,Education,Standard,One year,Bank Transfer,Priority,2,19,1363,25897,5,7.3,10,Yes,No
+CUST-5435,2023-08-09,Logistics,Basic,One year,Net Banking,Priority,1,20,506,10120,0,3.1,8,No,No
+CUST-5436,2023-07-11,Education,Enterprise,Month-to-month,UPI AutoPay,Standard,86,12,48188,578256,0,3.3,7,No,No
+CUST-5437,2024-04-01,Media,Basic,Two year,Bank Transfer,Standard,2,11,513,5643,4,0.6,9,Yes,No
+CUST-5438,2022-02-08,Education,Enterprise,One year,UPI AutoPay,Priority,78,11,43556,479116,4,6.9,8,Yes,No
+CUST-5439,2022-09-18,Healthcare,Enterprise,One year,Net Banking,Standard,90,10,53724,537240,0,6.3,10,No,No
+CUST-5440,2023-09-27,Professional Services,Standard,Month-to-month,Wallet,Standard,1,1,1306,1306,4,8.6,7,Yes,Yes
+CUST-5441,2023-07-23,Education,Basic,Two year,Net Banking,Priority,11,11,771,8481,3,3,10,No,No
+CUST-5442,2022-01-24,Healthcare,Standard,Two year,Bank Transfer,Standard,1,30,1327,39810,1,,7,Yes,No
+CUST-5443,2023-05-03,Healthcare,Premium,Two year,Bank Transfer,Dedicated,9,20,4522,90440,2,2.5,,No,No
+CUST-5444,2023-06-15,Media,Basic,Month-to-month,Credit Card,Priority,5,7,596,4172,1,4.4,10,No,No
+CUST-5445,2022-08-31,Healthcare,Enterprise,Month-to-month,UPI AutoPay,Priority,83,1,49141,49141,2,1.7,,No,Yes
+CUST-5446,2023-07-25,Media,Premium,One year,Bank Transfer,Priority,50,13,11288,146744,0,6.2,9,No,No
+CUST-5447,2023-06-07,Education,Standard,One year,UPI AutoPay,Standard,6,10,1691,16910,2,6.3,5,No,No
+CUST-5448,2024-05-30,Professional Services,Basic,Month-to-month,Credit Card,Standard,1,17,529,8993,3,3.2,6,No,No
+CUST-5449,2022-06-17,Retail,Enterprise,One year,Net Banking,Priority,101,41,57941,2375581,0,5.5,7,Yes,No
+CUST-5450,2024-01-08,Logistics,Basic,Two year,UPI AutoPay,Standard,6,29,621,18009,0,0,8,Yes,No
+CUST-5451,2023-03-08,Healthcare,Enterprise,One year,Wallet,Dedicated,110,9,60441,543969,4,7.7,,No,No
+CUST-5452,2023-04-27,Retail,Standard,Month-to-month,Net Banking,Priority,4,3,1492,4476,3,2.3,7,Yes,No
+CUST-5453,2024-04-17,Logistics,Enterprise,Two year,UPI AutoPay,Dedicated,81,18,49440,889920,0,5.6,7,No,No
+CUST-5454,2023-05-10,Logistics,Standard,One year,Bank Transfer,Standard,8,18,1836,33048,4,8.2,7,Yes,Yes
+CUST-5455,2023-10-08,Retail,Standard,Month-to-month,Credit Card,Standard,1,8,1313,10504,4,6.3,9,No,No
+CUST-5456,2022-12-24,Healthcare,Basic,Two year,Bank Transfer,Priority,1,23,538,12374,5,0,7,No,Yes
+CUST-5457,2022-03-09,Professional Services,Standard,One year,Wallet,Standard,15,18,2487,44766,5,2.2,6,No,No
+CUST-5458,2023-09-01,Logistics,Enterprise,One year,Net Banking,Dedicated,72,21,40772,856212,5,4.2,6,Yes,No
+CUST-5459,2022-09-11,Media,Premium,One year,Wallet,Dedicated,25,18,7847,141246,4,8.2,6,Yes,No
+CUST-5460,2022-07-09,Manufacturing,Standard,Two year,Credit Card,Priority,1,12,1348,16176,4,4.4,8,No,No
+CUST-5461,2023-02-04,Media,Enterprise,Two year,UPI AutoPay,Standard,76,37,46146,1707402,3,4.4,7,No,No
+CUST-5462,2023-10-27,Logistics,Enterprise,One year,Net Banking,Priority,94,8,55238,441904,1,5.4,8,No,No
+CUST-5463,2023-01-26,Logistics,Basic,Month-to-month,Bank Transfer,Priority,18,10,973,9730,4,3.5,6,No,No
+CUST-5464,2022-02-28,Professional Services,Enterprise,Two year,UPI AutoPay,Priority,110,18,59433,1069794,2,6.8,7,No,No
+CUST-5465,2023-06-06,Education,Enterprise,Two year,Net Banking,Priority,114,42,66443,2790606,6,5.8,7,Yes,No
+CUST-5466,2022-03-18,Media,Standard,Month-to-month,UPI AutoPay,Priority,20,24,2917,70008,0,11.7,7,Yes,No
+CUST-5467,2024-01-16,Retail,Enterprise,Two year,UPI AutoPay,Priority,81,24,49997,1199928,1,5.4,6,No,No
+CUST-5468,2022-11-30,Manufacturing,Premium,Month-to-month,Net Banking,Standard,46,9,11349,102141,5,8.5,5,No,No
+CUST-5469,2023-09-27,Manufacturing,Enterprise,Two year,Bank Transfer,Priority,100,40,54259,2170360,0,3.3,6,Yes,No
+CUST-5470,2023-03-12,Media,Premium,One year,Net Banking,Dedicated,4,7,3516,24612,1,9,9,No,No
+CUST-5471,2022-06-27,Media,Standard,One year,UPI AutoPay,Priority,10,27,2079,56133,1,5.7,8,No,Yes
+CUST-5472,2022-05-15,Manufacturing,Standard,One year,Credit Card,Dedicated,2,23,1422,32706,1,7.3,8,No,Yes
+CUST-5473,2023-04-26,Professional Services,Premium,One year,Credit Card,Dedicated,21,19,6525,123975,3,6.6,9,No,No
+CUST-5474,2023-01-09,Healthcare,Premium,Two year,UPI AutoPay,Dedicated,50,30,11354,340620,5,2.5,0,Yes,No
+CUST-5475,2024-01-21,Retail,Standard,One year,Credit Card,Priority,1,8,1371,10968,0,5.8,7,Yes,No
+CUST-5476,2023-10-28,Education,Enterprise,Two year,Wallet,Priority,86,37,46817,1732229,0,5.9,5,Yes,No
+CUST-5477,2022-06-07,Logistics,Enterprise,Two year,UPI AutoPay,Priority,83,25,47474,1186850,3,8.1,7,Yes,No
+CUST-5478,2023-04-03,Professional Services,Basic,One year,Credit Card,Priority,15,26,975,25350,5,0,6,Yes,No
+CUST-5479,2022-09-07,Media,Basic,One year,Wallet,Priority,1,21,532,11172,0,2.7,6,No,No
+CUST-5480,2023-08-09,Retail,Enterprise,One year,Wallet,Priority,78,13,45395,590135,1,7.3,4,No,No
+CUST-5481,2022-11-07,Professional Services,Enterprise,Month-to-month,Net Banking,Standard,95,3,54531,163593,3,7.6,4,Yes,Yes
+CUST-5482,2023-06-22,Retail,Premium,Two year,Bank Transfer,Dedicated,14,15,5678,85170,1,8.2,7,No,No
+CUST-5483,2023-02-10,Professional Services,Premium,One year,Wallet,Dedicated,12,1,5305,5305,1,8.6,7,Yes,No
+CUST-5484,2023-01-04,Logistics,Premium,Month-to-month,Credit Card,Priority,29,17,7714,131138,0,7.1,10,No,No
+CUST-5485,2022-02-11,Healthcare,Premium,Month-to-month,Credit Card,Priority,24,1,7008,7008,1,6.1,8,No,No
+CUST-5486,2023-05-05,Healthcare,Basic,Two year,Credit Card,Priority,25,30,1240,37200,3,2,7,Yes,No
+CUST-5487,2022-10-11,Professional Services,Premium,Month-to-month,Wallet,Dedicated,44,20,10344,206880,0,10.1,6,No,Yes
+CUST-5488,2022-04-23,Education,Standard,One year,Bank Transfer,Priority,12,9,2129,19161,5,5.2,2,Yes,Yes
+CUST-5489,2024-04-06,Logistics,Enterprise,Two year,Bank Transfer,Standard,102,21,55595,1167495,1,8.4,6,No,No
+CUST-5490,2024-01-11,Professional Services,Enterprise,One year,Bank Transfer,Priority,76,12,42368,508416,1,7.6,6,No,No
+CUST-5491,2023-05-25,Manufacturing,Standard,One year,Bank Transfer,Dedicated,1,26,1255,32630,4,5,8,No,No
+CUST-5492,2024-03-26,Media,Basic,Month-to-month,UPI AutoPay,Dedicated,1,15,498,7470,1,0.9,6,Yes,No
+CUST-5493,2023-08-22,Logistics,Basic,One year,UPI AutoPay,Standard,18,9,1003,9027,3,7.2,7,No,No
+CUST-5494,2023-11-13,Logistics,Premium,Two year,Net Banking,Dedicated,1,41,2899,118859,4,,8,No,No
+CUST-5495,2023-10-20,Retail,Premium,Two year,UPI AutoPay,Standard,38,29,9469,274601,2,9.4,8,Yes,No
+CUST-5496,2022-07-03,Manufacturing,Premium,Month-to-month,Credit Card,Priority,36,7,9246,64722,0,8.1,9,Yes,No
+CUST-5497,2023-02-27,Manufacturing,Basic,Two year,Net Banking,Priority,8,13,706,9178,9,3.7,0,Yes,No
+CUST-5498,2024-06-17,Professional Services,Basic,Month-to-month,UPI AutoPay,Priority,3,21,557,11697,6,1.5,10,Yes,No
+CUST-5499,2023-08-03,Media,Premium,One year,Bank Transfer,Priority,22,24,6915,165960,0,4.6,8,No,No
+CUST-5500,2022-09-03,Manufacturing,Basic,Month-to-month,UPI AutoPay,Dedicated,10,14,750,10500,4,3.7,7,No,No
+CUST-5501,2024-04-21,Logistics,Basic,Month-to-month,Credit Card,Standard,3,14,580,8120,3,,,Yes,No
+CUST-5502,2022-08-24,Media,Premium,Two year,Credit Card,Dedicated,34,23,9598,220754,1,3,9,Yes,No
+CUST-5503,2022-12-06,Education,Enterprise,One year,Credit Card,Priority,86,33,51901,1712733,1,6.7,,No,No
+CUST-5504,2024-02-21,Education,Standard,One year,Bank Transfer,Standard,13,17,2392,40664,6,7.8,7,No,Yes
+CUST-5505,2022-07-24,Retail,Basic,One year,Credit Card,Priority,1,23,529,12167,3,1.7,7,No,No
+CUST-5506,2023-01-02,Professional Services,Basic,Month-to-month,Wallet,Priority,1,1,527,527,3,0.5,8,No,Yes
+CUST-5507,2022-04-01,Professional Services,Enterprise,Month-to-month,Credit Card,Priority,81,8,47484,379872,0,6,6,No,No
+CUST-5508,2023-01-29,Retail,Standard,One year,Net Banking,Priority,3,23,1398,32154,4,7.7,6,Yes,No
+CUST-5509,2023-06-20,Logistics,Enterprise,Two year,Net Banking,Dedicated,83,24,48479,1163496,4,5.5,10,No,No
+CUST-5510,2023-02-09,Healthcare,Basic,One year,Net Banking,Standard,1,17,480,8160,5,2.7,8,No,No
+CUST-5511,2022-12-11,Professional Services,Basic,Month-to-month,Bank Transfer,Dedicated,1,9,488,4392,5,2,8,No,Yes
+CUST-5512,2023-04-05,Education,Enterprise,Two year,Net Banking,Standard,80,19,46664,886616,0,3.8,8,Yes,No
+CUST-5513,2023-09-04,Professional Services,Standard,One year,UPI AutoPay,Priority,15,11,2418,26598,2,3.9,9,No,No
+CUST-5514,2024-06-11,Healthcare,Premium,Two year,Credit Card,Dedicated,6,31,3761,116591,1,5.7,5,Yes,No
+CUST-5515,2023-05-18,Logistics,Enterprise,Month-to-month,Credit Card,Standard,86,14,48910,684740,0,4.3,7,Yes,No
+CUST-5516,2024-06-11,Logistics,Enterprise,One year,Wallet,Dedicated,79,13,44028,572364,4,,4,No,Yes
+CUST-5517,2024-05-24,Media,Enterprise,Two year,Net Banking,Standard,95,26,55707,1448382,0,7.3,,No,No
+CUST-5518,2023-02-25,Professional Services,Basic,Two year,UPI AutoPay,Priority,8,25,726,18150,3,1.4,5,No,No
+CUST-5519,2022-07-10,Retail,Enterprise,Two year,Net Banking,Dedicated,94,17,51811,880787,1,8.9,8,Yes,No
+CUST-5520,2022-01-26,Education,Basic,One year,Wallet,Standard,18,16,1003,16048,0,6.1,,No,No
+CUST-5521,2023-12-29,Education,Standard,Two year,Bank Transfer,Standard,12,18,2126,38268,7,7.2,3,No,No
+CUST-5522,2023-12-03,Logistics,Premium,One year,Bank Transfer,Dedicated,40,34,9869,335546,6,8.6,7,Yes,No
+CUST-5523,2023-08-25,Healthcare,Premium,Two year,Wallet,Standard,34,16,9587,153392,4,6.2,8,Yes,No
+CUST-5524,2022-04-16,Professional Services,Basic,One year,Credit Card,Standard,1,14,491,6874,1,1.5,,No,No
+CUST-5525,2024-04-20,Healthcare,Premium,Two year,Bank Transfer,Standard,26,41,7619,312379,2,5.6,6,Yes,No
+CUST-5526,2022-01-09,Logistics,Premium,One year,Bank Transfer,Priority,24,14,7183,100562,5,6.8,3,No,Yes
+CUST-5527,2022-01-17,Retail,Premium,Month-to-month,Bank Transfer,Dedicated,23,10,7420,74200,3,4.7,9,No,No
+CUST-5528,2023-12-11,Professional Services,Enterprise,Two year,Wallet,Dedicated,76,32,47066,1506112,2,5.8,8,Yes,No
+CUST-5529,2023-07-20,Manufacturing,Premium,Two year,Wallet,Standard,1,24,3165,75960,2,7.6,8,No,No
+CUST-5530,2023-03-04,Professional Services,Basic,One year,Bank Transfer,Dedicated,4,19,583,11077,0,2.8,10,No,No
+CUST-5531,2023-02-09,Healthcare,Enterprise,Month-to-month,Net Banking,Standard,85,13,50343,654459,3,12,4,No,Yes
+CUST-5532,2023-11-02,Healthcare,Enterprise,One year,Bank Transfer,Dedicated,106,5,62980,314900,5,6.6,6,No,No
+CUST-5533,2023-10-07,Professional Services,Premium,Two year,UPI AutoPay,Standard,40,18,9936,178848,2,5.8,,Yes,No
+CUST-5534,2022-09-19,Media,Enterprise,One year,UPI AutoPay,Dedicated,98,25,53390,1334750,4,,6,Yes,No
+CUST-5535,2022-12-27,Logistics,Standard,Two year,Net Banking,Priority,15,32,2426,77632,8,6.3,3,No,Yes
+CUST-5536,2022-08-05,Education,Premium,Two year,UPI AutoPay,Dedicated,14,13,5699,74087,4,7.7,7,Yes,No
+CUST-5537,2022-10-29,Retail,Enterprise,Two year,UPI AutoPay,Priority,99,30,56658,1699740,4,2.6,5,No,No
+CUST-5538,2024-01-13,Media,Enterprise,One year,Net Banking,Standard,100,1,59680,59680,2,6.7,,No,Yes
+CUST-5539,2023-12-03,Manufacturing,Basic,One year,UPI AutoPay,Standard,8,32,701,22432,3,0,7,Yes,No
+CUST-5540,2024-05-20,Professional Services,Standard,Month-to-month,Net Banking,Standard,1,30,1242,37260,3,4.5,10,No,Yes
+CUST-5541,2022-06-12,Healthcare,Basic,Month-to-month,Net Banking,Standard,12,15,840,12600,0,5.2,5,No,Yes
+CUST-5542,2023-08-09,Logistics,Enterprise,Two year,Wallet,Dedicated,79,37,45868,1697116,0,8.8,9,No,No
+CUST-5543,2023-11-11,Manufacturing,Premium,Two year,Credit Card,Priority,38,18,9657,173826,3,8.6,7,No,No
+CUST-5544,2022-08-12,Professional Services,Enterprise,Month-to-month,UPI AutoPay,Dedicated,90,5,53626,268130,5,9.7,6,No,No
+CUST-5545,2023-11-01,Healthcare,Standard,One year,Wallet,Standard,1,4,1376,5504,3,6.3,7,Yes,No
+CUST-5546,2023-11-29,Logistics,Basic,Month-to-month,Net Banking,Priority,5,8,643,5144,3,1.6,7,Yes,Yes
+CUST-5547,2023-10-20,Retail,Standard,One year,Wallet,Priority,14,9,2465,22185,3,5.4,,Yes,Yes
+CUST-5548,2024-06-16,Logistics,Standard,One year,Credit Card,Priority,1,20,1241,24820,2,5.4,,No,No
+CUST-5549,2024-02-07,Education,Standard,Month-to-month,UPI AutoPay,Priority,25,17,3097,52649,7,3.2,8,No,Yes
+CUST-5550,2023-09-03,Education,Enterprise,One year,Bank Transfer,Standard,83,13,48630,632190,2,,5,Yes,No
+CUST-5551,2022-04-23,Professional Services,Standard,Month-to-month,Bank Transfer,Priority,17,1,2709,2709,4,7.6,,No,Yes
+CUST-5552,2023-12-07,Manufacturing,Enterprise,Month-to-month,Wallet,Standard,105,3,55811,167433,1,4.7,7,No,No
+CUST-5553,2022-09-05,Logistics,Standard,Two year,Net Banking,Priority,1,11,1294,14234,1,11.6,6,No,No
+CUST-5554,2022-06-21,Education,Standard,Month-to-month,UPI AutoPay,Priority,10,1,2062,2062,0,8.8,9,No,No
+CUST-5555,2024-05-26,Education,Enterprise,Month-to-month,Credit Card,Priority,103,1,58011,58011,3,7.7,7,No,No
+CUST-5556,2022-02-10,Manufacturing,Premium,One year,Credit Card,Standard,11,33,4698,155034,0,9.1,4,No,No
+CUST-5557,2023-03-26,Healthcare,Premium,Month-to-month,UPI AutoPay,Dedicated,5,12,3899,46788,3,8,8,No,Yes
+CUST-5558,2022-12-27,Logistics,Enterprise,Month-to-month,Credit Card,Standard,90,10,49933,499330,1,3.1,7,No,No
+CUST-5559,2023-12-11,Retail,Enterprise,Two year,Credit Card,Priority,116,19,64790,1231010,5,7.9,7,No,No
+CUST-5560,2023-07-22,Logistics,Premium,Month-to-month,Bank Transfer,Priority,18,1,6429,6429,5,4.3,3,Yes,No
+CUST-5561,2024-01-24,Logistics,Premium,Two year,Bank Transfer,Standard,26,12,7730,92760,4,4.8,8,Yes,No
+CUST-5562,2023-01-02,Healthcare,Enterprise,Month-to-month,UPI AutoPay,Priority,86,37,49341,1825617,7,6.4,3,No,Yes
+CUST-5563,2024-02-05,Retail,Basic,One year,Net Banking,Standard,1,15,516,7740,0,2,9,No,No
+CUST-5564,2022-08-16,Professional Services,Premium,Two year,UPI AutoPay,Standard,48,31,11468,355508,2,,8,Yes,No
+CUST-5565,2022-11-22,Retail,Basic,One year,UPI AutoPay,Dedicated,9,8,755,6040,1,2.4,10,Yes,No
+CUST-5566,2023-12-01,Media,Basic,One year,Credit Card,Priority,8,23,691,15893,2,4.2,,Yes,No
+CUST-5567,2022-04-24,Manufacturing,Basic,One year,Credit Card,Dedicated,1,22,503,11066,4,5.5,6,No,No
+CUST-5568,2022-03-27,Retail,Standard,Two year,Wallet,Dedicated,15,25,2313,57825,0,5.2,10,Yes,No
+CUST-5569,2024-03-14,Media,Enterprise,Month-to-month,Wallet,Standard,91,9,53440,480960,1,5.3,10,Yes,No
+CUST-5570,2022-04-16,Logistics,Premium,Two year,Wallet,Standard,20,25,6112,152800,5,4.5,4,No,No
+CUST-5571,2022-03-10,Logistics,Standard,One year,Wallet,Priority,4,12,1576,18912,0,13.5,4,Yes,No
+CUST-5572,2023-10-17,Manufacturing,Premium,One year,Bank Transfer,Standard,35,5,8692,43460,4,6.5,,No,No
+CUST-5573,2023-09-16,Logistics,Standard,Two year,Net Banking,Dedicated,1,14,1398,19572,3,4.8,,No,No
+CUST-5574,2022-03-16,Media,Premium,One year,Bank Transfer,Priority,30,27,8530,230310,0,,9,No,No
+CUST-5575,2023-10-05,Logistics,Basic,One year,Credit Card,Dedicated,19,17,1084,18428,8,0,,No,Yes
+CUST-5576,2022-01-10,Media,Standard,Month-to-month,UPI AutoPay,Standard,11,6,2072,12432,0,6.1,8,No,No
+CUST-5577,2022-03-24,Retail,Basic,Two year,UPI AutoPay,Dedicated,4,28,560,15680,4,5.8,7,Yes,No
+CUST-5578,2022-04-21,Media,Basic,Month-to-month,UPI AutoPay,Priority,25,12,1272,15264,6,0,5,No,No
+CUST-5579,2022-07-19,Retail,Basic,One year,Bank Transfer,Dedicated,17,13,1046,13598,3,1.6,7,No,No
+CUST-5580,2024-05-17,Retail,Basic,Two year,Credit Card,Priority,8,24,731,17544,1,0.2,8,No,No
+CUST-5581,2023-11-07,Logistics,Basic,Two year,Net Banking,Dedicated,1,7,494,3458,4,6.9,,Yes,No
+CUST-5582,2022-04-14,Healthcare,Standard,Two year,Credit Card,Priority,1,25,1311,32775,6,2.6,5,No,No
+CUST-5583,2022-02-12,Retail,Basic,Two year,UPI AutoPay,Priority,1,20,506,10120,6,3.8,6,No,No
+CUST-5584,2022-11-30,Education,Premium,Month-to-month,UPI AutoPay,Dedicated,31,16,8041,128656,6,5.7,2,Yes,Yes
+CUST-5585,2023-02-25,Media,Premium,Two year,Net Banking,Dedicated,16,20,5535,110700,6,5.6,3,No,No
+CUST-5586,2022-01-26,Education,Basic,Two year,UPI AutoPay,Standard,8,30,752,22560,3,2.5,,Yes,No
+CUST-5587,2024-03-21,Healthcare,Standard,Month-to-month,Net Banking,Priority,23,9,3189,28701,3,1.7,,No,No
+CUST-5588,2022-12-19,Media,Basic,Two year,Credit Card,Dedicated,1,14,535,7490,3,5.3,8,No,No
+CUST-5589,2022-10-15,Media,Basic,One year,Bank Transfer,Dedicated,1,16,478,7648,0,3.9,5,No,Yes
+CUST-5590,2024-04-13,Education,Basic,One year,UPI AutoPay,Dedicated,1,26,511,13286,1,4.8,,No,Yes
+CUST-5591,2022-01-15,Manufacturing,Standard,Month-to-month,Credit Card,Priority,7,10,1721,17210,5,9.5,7,Yes,Yes
+CUST-5592,2023-07-27,Manufacturing,Standard,One year,UPI AutoPay,Priority,13,16,2256,36096,3,1.5,7,Yes,Yes
+CUST-5593,2024-03-11,Manufacturing,Standard,Two year,Net Banking,Priority,1,19,1260,23940,0,7.2,8,Yes,No
+CUST-5594,2022-06-15,Logistics,Enterprise,Month-to-month,Wallet,Standard,85,1,50718,50718,5,8.1,5,Yes,Yes
+CUST-5595,2023-06-19,Professional Services,Enterprise,One year,Credit Card,Dedicated,80,24,45335,1088040,0,4.7,0,No,No
+CUST-5596,2022-05-03,Professional Services,Premium,Month-to-month,Net Banking,Dedicated,30,7,7956,55692,0,9.6,5,No,No
+CUST-5597,2022-04-18,Retail,Standard,Two year,Bank Transfer,Standard,1,21,1323,27783,6,2,6,No,No
+CUST-5598,2023-09-27,Retail,Enterprise,Two year,Wallet,Standard,75,32,42489,1359648,0,11.8,8,No,No
+CUST-5599,2022-11-11,Professional Services,Standard,One year,Bank Transfer,Priority,19,5,2697,13485,0,12.2,5,Yes,No
+CUST-5600,2023-10-20,Manufacturing,Standard,Two year,UPI AutoPay,Dedicated,1,22,1330,29260,8,4,5,No,No
+CUST-5601,2023-05-11,Professional Services,Standard,Two year,Net Banking,Dedicated,1,27,1301,35127,0,6,6,No,No
+CUST-5602,2022-02-24,Logistics,Enterprise,Two year,Net Banking,Priority,83,25,48665,1216625,1,7.7,7,Yes,No
+CUST-5603,2024-01-13,Manufacturing,Premium,One year,Wallet,Standard,29,14,7806,109284,5,5.3,,No,No
+CUST-5604,2023-02-04,Professional Services,Standard,Two year,UPI AutoPay,Standard,22,23,3045,70035,0,4.7,7,Yes,No
+CUST-5605,2023-01-19,Healthcare,Enterprise,Month-to-month,Wallet,Priority,81,6,44407,266442,1,5.2,7,No,No
+CUST-5606,2022-02-12,Healthcare,Basic,One year,Net Banking,Dedicated,1,10,491,4910,5,6.4,4,No,Yes
+CUST-5607,2022-08-26,Retail,Standard,Month-to-month,UPI AutoPay,Priority,1,15,1362,20430,0,1.7,,Yes,Yes
+CUST-5608,2024-04-11,Retail,Basic,One year,UPI AutoPay,Priority,1,40,514,20560,3,4.1,5,No,No
+CUST-5609,2022-09-17,Logistics,Premium,Two year,UPI AutoPay,Priority,36,33,9514,313962,1,7.5,4,Yes,No
+CUST-5610,2022-03-04,Healthcare,Standard,One year,Wallet,Dedicated,12,25,2292,57300,0,6.9,6,No,No
+CUST-5611,2023-10-25,Education,Basic,Two year,Credit Card,Priority,1,33,478,15774,2,6.6,9,Yes,No
+CUST-5612,2023-08-30,Retail,Standard,Month-to-month,Wallet,Dedicated,1,1,1236,1236,4,5.8,8,Yes,No
+CUST-5613,2022-07-01,Retail,Premium,Two year,Bank Transfer,Dedicated,21,25,6805,170125,1,7.5,10,No,No
+CUST-5614,2023-05-04,Healthcare,Enterprise,Two year,Credit Card,Standard,78,24,44745,1073880,5,5,7,No,No
+CUST-5615,2023-02-19,Professional Services,Premium,Two year,Net Banking,Priority,21,26,6877,178802,0,6,,No,No
+CUST-5616,2022-09-03,Education,Basic,One year,Bank Transfer,Priority,1,19,489,9291,3,0.9,6,No,Yes
+CUST-5617,2023-10-25,Media,Basic,Two year,Credit Card,Priority,22,20,1190,23800,4,4.3,8,Yes,No
+CUST-5618,2024-06-14,Manufacturing,Premium,Two year,UPI AutoPay,Priority,5,26,3807,98982,2,,9,No,No
+CUST-5619,2023-10-09,Retail,Standard,One year,Net Banking,Dedicated,11,25,2004,50100,1,7.4,,Yes,No
+CUST-5620,2022-09-12,Manufacturing,Premium,One year,UPI AutoPay,Priority,22,11,6499,71489,3,6.8,,No,No
+CUST-5621,2022-09-05,Healthcare,Enterprise,One year,Wallet,Priority,63,24,37032,888768,0,10.2,9,No,No
+CUST-5622,2023-10-21,Professional Services,Standard,Two year,Bank Transfer,Priority,1,22,1357,29854,4,9.1,7,Yes,No
+CUST-5623,2023-11-22,Education,Enterprise,Month-to-month,Net Banking,Dedicated,84,12,50764,609168,4,9.7,8,Yes,No
+CUST-5624,2023-02-06,Education,Premium,One year,UPI AutoPay,Priority,15,16,5913,94608,5,7,2,No,Yes
+CUST-5625,2022-02-26,Logistics,Standard,Month-to-month,Wallet,Priority,8,1,1893,1893,1,,10,Yes,Yes
+CUST-5626,2023-12-19,Professional Services,Premium,Two year,Net Banking,Dedicated,23,16,7065,113040,2,7.7,5,No,Yes
+CUST-5627,2022-02-15,Logistics,Standard,Two year,UPI AutoPay,Standard,5,7,1627,11389,6,11.4,10,No,No
+CUST-5628,2022-04-10,Retail,Premium,One year,UPI AutoPay,Priority,21,11,6399,70389,4,4.6,9,No,Yes
+CUST-5629,2022-01-20,Logistics,Premium,Two year,Credit Card,Standard,21,8,6548,52384,5,7.7,4,Yes,No
+CUST-5630,2022-09-09,Healthcare,Premium,Two year,UPI AutoPay,Priority,4,35,3812,133420,0,5.9,,No,No
+CUST-5631,2024-01-06,Logistics,Enterprise,Month-to-month,Net Banking,Dedicated,73,2,41818,83636,1,3.5,10,No,No
+CUST-5632,2022-04-18,Logistics,Basic,One year,Bank Transfer,Priority,18,6,1025,6150,5,3.8,5,No,Yes
+CUST-5633,2024-06-13,Retail,Basic,One year,Wallet,Priority,26,32,1231,39392,3,6.3,9,Yes,No
+CUST-5634,2022-11-11,Retail,Premium,One year,Bank Transfer,Standard,10,14,4912,68768,4,9.1,7,Yes,No
+CUST-5635,2023-04-13,Education,Enterprise,One year,Bank Transfer,Dedicated,92,1,55229,55229,0,7.2,5,No,No
+CUST-5636,2023-01-03,Retail,Enterprise,Month-to-month,Net Banking,Priority,73,23,43858,1008734,5,8.5,,No,No
+CUST-5637,2023-05-16,Education,Enterprise,Two year,Wallet,Dedicated,80,23,43916,1010068,2,7.7,,Yes,No
+CUST-5638,2022-03-19,Retail,Enterprise,Two year,Wallet,Priority,91,14,52812,739368,4,7.9,5,Yes,No
+,,,,,,,,,,,,,,,
+CUST-5639,2023-02-01,Healthcare,Standard,Two year,UPI AutoPay,Priority,4,18,1641,29538,3,5.5,9,No,No
+CUST-5640,2023-05-04,Education,Basic,One year,Credit Card,Priority,7,19,715,13585,2,2.7,5,Yes,No
+CUST-5641,2022-03-15,Logistics,Basic,One year,Bank Transfer,Priority,18,15,1046,15690,2,3.7,4,Yes,No
+CUST-5642,2023-01-04,Logistics,Standard,One year,Wallet,Priority,1,10,1246,12460,2,1.4,8,No,No
+CUST-5643,2022-12-31,Healthcare,Standard,Month-to-month,Credit Card,Standard,11,22,2179,47938,3,6.6,6,No,No
+CUST-5644,2024-02-06,Professional Services,Enterprise,One year,Bank Transfer,Priority,92,18,52622,947196,3,4.8,7,Yes,No
+CUST-5645,2024-05-18,Manufacturing,Standard,Month-to-month,Credit Card,Priority,9,1,1915,1915,5,7,7,No,No
+CUST-5646,2024-05-12,Healthcare,Standard,Month-to-month,Net Banking,Standard,6,3,1701,5103,6,4.6,2,No,No
+CUST-5647,2023-12-15,Education,Premium,One year,Wallet,Dedicated,7,12,4297,51564,1,5.4,5,No,No
+CUST-5648,2024-04-06,Manufacturing,Basic,Month-to-month,UPI AutoPay,Standard,7,3,697,2091,0,6.1,,No,Yes
+CUST-5649,2024-05-05,Logistics,Standard,One year,Bank Transfer,Standard,1,8,1313,10504,2,4.9,8,No,No
+CUST-5650,2022-07-19,Media,Standard,Month-to-month,Net Banking,Standard,2,8,1363,10904,3,7,9,No,Yes
+CUST-5651,2022-07-07,Healthcare,Premium,Two year,Net Banking,Priority,2,13,3326,43238,0,3,9,Yes,No
+CUST-5652,2023-02-02,Healthcare,Premium,One year,Bank Transfer,Dedicated,3,9,3365,30285,3,6,6,No,No
+CUST-5653,2023-08-03,Education,Standard,Month-to-month,Wallet,Standard,15,5,2478,12390,4,8.6,7,Yes,No
+CUST-5654,2022-11-25,Logistics,Basic,Month-to-month,Wallet,Priority,10,12,735,8820,5,3,7,Yes,No
+CUST-5655,2023-07-13,Logistics,Standard,Two year,UPI AutoPay,Standard,1,24,1286,30864,7,8.3,7,Yes,No
+CUST-5656,2023-09-13,Professional Services,Basic,One year,UPI AutoPay,Dedicated,18,16,1049,16784,4,0.2,6,No,No
+CUST-5657,2022-09-13,Healthcare,Enterprise,One year,UPI AutoPay,Dedicated,92,11,52781,580591,4,9.2,,No,No
+CUST-5658,2023-08-31,Healthcare,Basic,Two year,UPI AutoPay,Priority,1,35,531,18585,5,5.4,6,No,No
+CUST-5659,2024-06-01,Education,Standard,Two year,UPI AutoPay,Standard,1,19,1269,24111,2,6,9,Yes,No
+CUST-5660,2023-07-06,Manufacturing,Premium,Two year,Bank Transfer,Priority,24,33,6977,230241,1,4,7,No,No
+CUST-5661,2022-02-04,Education,Basic,Month-to-month,Bank Transfer,Standard,28,24,1357,32568,0,6.2,7,No,No
+CUST-5662,2023-10-19,Logistics,Basic,Two year,UPI AutoPay,Standard,4,24,604,14496,5,0.4,7,Yes,No
+CUST-5663,2023-09-28,Healthcare,Basic,Month-to-month,Wallet,Priority,15,11,987,10857,0,,8,No,No
+CUST-5664,2024-03-25,Retail,Enterprise,Two year,Wallet,Dedicated,76,30,47170,1415100,7,4,3,Yes,Yes
+CUST-5665,2024-06-10,Manufacturing,Enterprise,Two year,Bank Transfer,Standard,82,25,48254,1206350,5,5.1,8,Yes,No
+CUST-5666,2023-12-25,Healthcare,Standard,One year,Bank Transfer,Dedicated,16,15,2406,36090,5,2.7,7,No,No
+CUST-5667,2024-01-17,Education,Enterprise,Two year,Bank Transfer,Priority,89,40,51921,2076840,7,6.4,5,No,No
+CUST-5668,2023-12-04,Manufacturing,Enterprise,Month-to-month,Bank Transfer,Priority,85,1,48051,48051,1,2.9,10,No,No
+CUST-5669,2023-01-25,Media,Premium,One year,Net Banking,Dedicated,11,17,5116,86972,2,9.6,6,No,Yes
+CUST-5670,2023-11-24,Healthcare,Premium,Two year,UPI AutoPay,Dedicated,18,22,5786,127292,2,3.8,7,No,Yes
+CUST-5671,2023-08-26,Professional Services,Basic,Month-to-month,Wallet,Dedicated,25,3,1165,3495,1,0,6,No,No
+CUST-5672,2023-07-19,Manufacturing,Standard,One year,Credit Card,Priority,46,9,5163,46467,1,4.4,5,No,No
+CUST-5673,2023-04-02,Education,Standard,Month-to-month,Credit Card,Dedicated,5,1,1535,1535,3,7.8,10,Yes,No
+CUST-5674,2023-11-06,Logistics,Enterprise,One year,Credit Card,Priority,87,22,47633,1047926,3,8.6,7,No,No
+CUST-5675,2022-04-02,Media,Basic,Month-to-month,Net Banking,Priority,8,13,699,9087,5,,7,Yes,No
+CUST-5676,2023-07-28,Manufacturing,Standard,Two year,Credit Card,Standard,28,31,3533,109523,2,5.8,5,No,Yes
+CUST-5677,2022-05-05,Manufacturing,Premium,Two year,UPI AutoPay,Priority,13,42,5415,227430,5,9.8,7,No,No
+CUST-5678,2023-03-20,Manufacturing,Enterprise,Month-to-month,Bank Transfer,Dedicated,88,24,48818,1171632,0,5,6,Yes,No
+CUST-5679,2023-03-04,Logistics,Premium,Two year,Credit Card,Standard,20,29,6265,181685,3,6,7,No,No
+CUST-5680,2023-03-31,Professional Services,Premium,One year,Net Banking,Standard,1,6,3115,18690,4,9.9,10,Yes,No
+CUST-5681,2024-02-19,Media,Enterprise,One year,Net Banking,Standard,99,5,56593,282965,8,7.5,8,No,No
+CUST-5682,2023-01-12,Logistics,Basic,One year,Net Banking,Standard,28,14,1376,19264,6,2.6,6,No,Yes
+CUST-5683,2022-06-30,Education,Basic,One year,UPI AutoPay,Dedicated,5,31,619,19189,4,0,5,No,No
+CUST-5684,2022-11-07,Retail,Basic,Month-to-month,Bank Transfer,Priority,23,11,1123,12353,0,5.2,9,No,No
+CUST-5685,2023-01-27,Logistics,Enterprise,Two year,UPI AutoPay,Priority,93,35,54929,1922515,4,10,,Yes,No
+CUST-5686,2022-04-18,Logistics,Enterprise,Month-to-month,Wallet,Standard,102,7,54367,380569,6,6.9,8,Yes,No
+CUST-5687,2023-10-20,Media,Premium,Two year,Credit Card,Priority,49,42,12427,521934,2,7.5,6,No,No
+CUST-5688,2023-01-07,Professional Services,Basic,Two year,UPI AutoPay,Standard,1,39,482,18798,3,0.4,,Yes,Yes
+CUST-5689,2024-06-18,Media,Standard,Month-to-month,Bank Transfer,Dedicated,3,1,1509,1509,3,4.8,8,Yes,Yes
+CUST-5690,2024-02-23,Professional Services,Standard,Two year,Bank Transfer,Dedicated,6,21,1801,37821,2,6.5,9,Yes,No
+CUST-5691,2023-06-13,Media,Standard,Month-to-month,Net Banking,Priority,17,1,2453,2453,4,6.1,9,Yes,No
+CUST-5692,2023-10-24,Education,Basic,Two year,Bank Transfer,Priority,1,29,509,14761,6,3.3,8,No,No
+CUST-5693,2023-11-09,Professional Services,Basic,One year,Bank Transfer,Standard,7,9,679,6111,1,4.8,,No,No
+CUST-5694,2023-01-16,Healthcare,Standard,Month-to-month,Net Banking,Dedicated,14,7,2354,16478,0,9.3,7,No,No
+CUST-5695,2023-08-20,Retail,Standard,One year,Credit Card,Dedicated,12,32,2117,67744,1,4.9,9,Yes,No
+CUST-5696,2023-08-05,Logistics,Standard,One year,UPI AutoPay,Standard,14,2,2247,4494,5,5.6,5,No,No
+CUST-5697,2024-03-22,Media,Enterprise,Month-to-month,Bank Transfer,Dedicated,98,14,55852,781928,1,5,7,No,No
+CUST-5698,2022-10-23,Media,Standard,Two year,UPI AutoPay,Dedicated,24,25,3314,82850,0,9.2,,Yes,No
+CUST-5699,2024-02-12,Healthcare,Standard,Month-to-month,UPI AutoPay,Priority,12,12,2247,26964,6,6.6,3,Yes,No
+CUST-5700,2022-09-17,Healthcare,Standard,Two year,Bank Transfer,Priority,18,30,2665,79950,6,7.7,7,No,No
+CUST-5701,2023-03-29,Media,Enterprise,One year,Net Banking,Dedicated,93,12,55328,663936,3,6.1,7,Yes,No
+CUST-5702,2023-06-24,Media,Enterprise,One year,Wallet,Standard,79,21,48491,1018311,2,2.3,5,No,Yes
+CUST-5703,2022-01-30,Healthcare,Enterprise,Month-to-month,Wallet,Dedicated,97,1,52967,52967,4,5.6,6,No,No
+CUST-5704,2023-02-22,Professional Services,Standard,Two year,Wallet,Standard,2,21,1334,28014,5,8.4,9,No,No
+CUST-5705,2023-08-20,Professional Services,Premium,Month-to-month,Net Banking,Dedicated,37,16,9625,154000,5,12.2,7,Yes,Yes
+CUST-5706,2023-08-05,Manufacturing,Standard,One year,UPI AutoPay,Standard,25,13,3361,43693,2,6.5,8,No,Yes
+CUST-5707,2023-06-11,Retail,Enterprise,Month-to-month,Wallet,Dedicated,79,2,43530,87060,1,7.5,6,No,No
+CUST-5708,2024-05-26,Healthcare,Standard,One year,Bank Transfer,Standard,3,32,1445,46240,3,7.2,3,No,Yes
+CUST-5709,2022-07-12,Education,Premium,Month-to-month,UPI AutoPay,Standard,15,5,5676,28380,4,8.8,8,No,No
+CUST-5710,2022-05-13,Retail,Standard,Two year,Credit Card,Priority,21,31,2741,84971,3,6.5,7,Yes,No
+CUST-5711,2023-08-10,Manufacturing,Premium,Two year,UPI AutoPay,Priority,9,6,4588,27528,5,7.6,5,Yes,No
+CUST-5712,2023-06-05,Manufacturing,Basic,Two year,Wallet,Dedicated,5,35,624,21840,4,4,,No,No
+CUST-5713,2023-03-27,Logistics,Enterprise,One year,Credit Card,Standard,97,27,51993,1403811,0,6,9,Yes,No
+CUST-5714,2022-02-03,Retail,Premium,Month-to-month,Net Banking,Dedicated,21,17,6365,108205,0,7.9,8,Yes,Yes
+CUST-5715,2022-03-22,Education,Premium,Two year,Wallet,Priority,26,23,7171,164933,8,6.1,7,Yes,No
+CUST-5716,2022-07-03,Logistics,Premium,One year,Net Banking,Priority,35,28,9267,259476,0,8.4,7,No,No
+CUST-5717,2023-02-17,Education,Standard,Two year,Credit Card,Standard,2,26,1375,35750,3,7.4,6,Yes,No
+CUST-5718,2023-04-07,Logistics,Premium,One year,Credit Card,Standard,42,1,10331,10331,3,6,5,No,No
+CUST-5719,2023-04-25,Education,Standard,Two year,Bank Transfer,Standard,1,21,1341,28161,6,7.8,5,Yes,Yes
+CUST-5720,2023-05-01,Healthcare,Premium,Month-to-month,Credit Card,Standard,2,2,3285,6570,2,11.3,,No,No
+CUST-5721,2022-02-08,Manufacturing,Standard,Two year,Wallet,Dedicated,15,18,2411,43398,1,,7,No,No
+CUST-5722,2022-10-21,Logistics,Premium,One year,Credit Card,Dedicated,29,7,8473,59311,1,4.7,5,No,No
+CUST-5723,2022-02-21,Healthcare,Standard,One year,UPI AutoPay,Priority,1,12,1365,16380,2,6.1,3,No,No
+CUST-5724,2022-05-04,Professional Services,Basic,One year,Wallet,Dedicated,8,19,725,13775,2,3.2,,Yes,No
+CUST-5725,2023-10-07,Retail,Standard,One year,Wallet,Standard,10,22,2092,46024,4,4.6,7,No,No
+CUST-5726,2023-11-14,Logistics,Enterprise,Two year,Credit Card,Priority,94,42,55270,2321340,0,6.4,8,No,No
+CUST-5727,2022-02-01,Logistics,Standard,One year,Bank Transfer,Standard,1,32,1300,41600,1,4.8,,Yes,No
+CUST-5728,2023-10-19,Retail,Basic,One year,Net Banking,Priority,1,23,476,10948,8,2.9,3,Yes,Yes
+CUST-5729,2023-07-14,Education,Premium,Two year,Net Banking,Priority,26,27,7899,213273,5,3.8,3,Yes,No
+CUST-5730,2024-02-25,Manufacturing,Standard,One year,Credit Card,Standard,28,22,3343,73546,1,2.8,5,Yes,No
+CUST-5731,2022-12-23,Professional Services,Standard,Two year,UPI AutoPay,Dedicated,5,20,1624,32480,8,6.4,7,Yes,Yes
+CUST-5732,2024-06-04,Professional Services,Basic,Month-to-month,UPI AutoPay,Standard,28,1,1317,1317,3,0.5,5,Yes,No
+CUST-5733,2023-07-15,Retail,Premium,Two year,Credit Card,Priority,25,24,7490,179760,0,6.8,8,Yes,No
+CUST-5734,2022-07-08,Manufacturing,Standard,One year,Wallet,Standard,4,18,1576,28368,4,,,Yes,No
+CUST-5735,2023-04-15,Healthcare,Standard,One year,Wallet,Priority,2,20,1343,26860,3,6.4,4,No,Yes
+CUST-5736,2024-06-19,Media,Enterprise,Month-to-month,Bank Transfer,Priority,85,27,50369,1359963,1,7.8,6,No,No
+CUST-5737,2022-04-18,Healthcare,Basic,Two year,Net Banking,Priority,25,28,1226,34328,1,10.7,7,No,No
+CUST-5738,2023-11-26,Education,Premium,Two year,Bank Transfer,Dedicated,1,13,2952,38376,1,9.3,8,Yes,No
+CUST-5739,2022-11-16,Education,Basic,Two year,Net Banking,Standard,1,35,532,18620,0,6.6,7,No,No
+CUST-5740,2024-03-24,Retail,Standard,Month-to-month,Wallet,Priority,18,15,2770,41550,2,6.3,10,No,Yes
+CUST-5741,2023-02-03,Professional Services,Premium,Two year,UPI AutoPay,Standard,39,24,10606,254544,0,5.5,8,No,No
+CUST-5742,2023-01-14,Professional Services,Enterprise,One year,UPI AutoPay,Standard,83,27,48314,1304478,1,1.9,7,No,No
+CUST-5743,2023-12-31,Logistics,Standard,Two year,Bank Transfer,Dedicated,7,24,1891,45384,2,8.6,9,Yes,No
+CUST-5744,2023-06-25,Retail,Enterprise,Month-to-month,Bank Transfer,Priority,87,9,50090,450810,6,1.6,,No,No
+CUST-5745,2022-11-19,Logistics,Standard,Month-to-month,UPI AutoPay,Dedicated,1,13,1281,16653,0,5.9,6,Yes,No
+CUST-5746,2023-09-06,Logistics,Enterprise,Month-to-month,Credit Card,Dedicated,89,1,47739,47739,3,6.9,8,No,No
+CUST-5747,2023-02-08,Education,Enterprise,One year,UPI AutoPay,Standard,65,3,38271,114813,0,6.7,6,Yes,No
+CUST-5748,2023-09-04,Professional Services,Basic,Month-to-month,Credit Card,Priority,4,15,610,9150,0,5.2,7,No,Yes
+CUST-5749,2023-02-23,Healthcare,Standard,Two year,UPI AutoPay,Standard,6,19,1702,32338,1,7,4,No,No
+CUST-5750,2023-05-21,Manufacturing,Premium,Month-to-month,Bank Transfer,Priority,19,12,6072,72864,1,4.7,8,No,No
+CUST-5751,2023-01-04,Media,Premium,One year,Wallet,Dedicated,19,14,6382,89348,0,5.3,6,Yes,No
+CUST-5752,2022-02-21,Retail,Basic,One year,UPI AutoPay,Priority,17,15,1042,15630,5,1.2,7,Yes,Yes
+CUST-5753,2022-04-27,Education,Enterprise,Month-to-month,Wallet,Priority,74,13,41674,541762,6,8.4,5,Yes,Yes
+CUST-5754,2022-06-05,Logistics,Standard,Month-to-month,Credit Card,Dedicated,1,9,1237,11133,6,9.9,5,Yes,Yes
+CUST-5755,2022-08-26,Media,Enterprise,One year,Net Banking,Priority,83,18,45726,823068,0,3,8,Yes,No
+CUST-5756,2024-02-20,Manufacturing,Premium,One year,Net Banking,Dedicated,27,30,7951,238530,2,5.7,7,Yes,No
+CUST-5757,2022-01-11,Media,Basic,Month-to-month,UPI AutoPay,Priority,7,12,680,8160,4,0.2,7,No,Yes
+CUST-5758,2024-02-23,Education,Enterprise,Two year,UPI AutoPay,Standard,95,10,55655,556550,3,4.4,7,No,No
+CUST-5759,2022-04-14,Manufacturing,Enterprise,One year,Bank Transfer,Dedicated,69,15,39992,599880,3,4.7,,No,No
+CUST-5760,2024-02-15,Manufacturing,Premium,Month-to-month,Wallet,Dedicated,25,11,7821,86031,1,,5,No,No
+CUST-5761,2024-05-28,Retail,Basic,Month-to-month,Credit Card,Dedicated,1,1,537,537,0,3.5,10,No,No
+CUST-5762,2022-06-08,Media,Premium,One year,Net Banking,Dedicated,32,26,8765,227890,6,9.3,4,Yes,Yes
+CUST-5763,2022-04-24,Media,Premium,One year,Net Banking,Standard,19,23,5964,137172,2,7.1,4,Yes,Yes
+CUST-5764,2022-06-09,Education,Basic,One year,UPI AutoPay,Standard,10,7,775,5425,4,2.2,8,No,No
+CUST-5765,2023-05-02,Retail,Standard,Two year,UPI AutoPay,Priority,15,35,2375,83125,2,10.3,5,No,No
+CUST-5766,2024-06-01,Media,Standard,Two year,Wallet,Standard,15,24,2491,59784,2,7.1,7,No,No
+CUST-5767,2023-05-18,Retail,Enterprise,Month-to-month,Net Banking,Priority,79,1,44003,44003,2,6.9,7,Yes,No
+CUST-5768,2023-05-03,Logistics,Basic,Two year,Credit Card,Dedicated,15,21,906,19026,3,2.4,9,No,No
+CUST-5769,2022-02-03,Education,Enterprise,One year,Bank Transfer,Standard,76,33,45831,1512423,0,11.6,9,Yes,No
+CUST-5770,2024-02-06,Healthcare,Standard,Two year,Net Banking,Standard,1,32,1289,41248,4,5.8,3,Yes,Yes
+CUST-5771,2023-06-27,Logistics,Premium,One year,Wallet,Standard,15,23,5274,121302,2,9.5,5,Yes,No
+CUST-5772,2024-05-07,Media,Enterprise,One year,Net Banking,Priority,98,34,54139,1840726,0,5.1,7,Yes,No
+CUST-5773,2022-04-09,Retail,Enterprise,One year,Wallet,Standard,84,15,49413,741195,1,6.1,8,No,No
+CUST-5774,2022-11-18,Retail,Standard,Month-to-month,Credit Card,Dedicated,8,16,1790,28640,5,4.6,7,Yes,Yes
+CUST-5775,2024-03-22,Logistics,Standard,Two year,Net Banking,Dedicated,10,34,1974,67116,0,6.3,6,No,No
+CUST-5776,2022-05-18,Logistics,Enterprise,Two year,Credit Card,Priority,83,33,49463,1632279,2,8.1,,No,No
+CUST-5777,2024-03-20,Retail,Enterprise,One year,UPI AutoPay,Standard,85,1,46717,46717,1,11.3,6,Yes,No
+CUST-5778,2023-01-12,Education,Basic,One year,Bank Transfer,Dedicated,1,14,510,7140,3,5.5,7,No,No
+CUST-5779,2023-08-29,Logistics,Premium,Two year,UPI AutoPay,Standard,30,31,8532,264492,5,,8,No,No
+CUST-5780,2022-11-19,Media,Standard,One year,UPI AutoPay,Dedicated,21,11,2897,31867,1,7.8,5,No,Yes
+CUST-5781,2022-09-22,Media,Enterprise,One year,Credit Card,Dedicated,65,9,37092,333828,3,12.8,6,Yes,No
+CUST-5782,2024-06-06,Media,Standard,One year,Net Banking,Standard,42,13,4308,56004,1,6.4,7,No,No
+CUST-5783,2022-08-14,Education,Premium,One year,Wallet,Standard,40,17,9937,168929,0,7,5,No,No
+CUST-5784,2023-07-28,Manufacturing,Enterprise,Month-to-month,Net Banking,Dedicated,81,25,49812,1245300,5,8,,Yes,No
+CUST-5785,2023-04-16,Retail,Standard,One year,Credit Card,Standard,1,10,1395,13950,3,7.4,9,No,No
+CUST-5786,2023-07-02,Healthcare,Standard,One year,Bank Transfer,Standard,23,22,2901,63822,4,8,9,Yes,No
+CUST-5787,2023-10-15,Retail,Basic,One year,Credit Card,Standard,15,19,898,17062,5,1.3,9,Yes,No
+CUST-5788,2023-04-08,Healthcare,Enterprise,One year,Bank Transfer,Standard,89,11,50619,556809,2,6.7,8,No,No
+CUST-5789,2024-02-18,Logistics,Basic,One year,Bank Transfer,Standard,24,10,1132,11320,8,6.1,4,No,No
+CUST-5790,2022-10-13,Healthcare,Premium,Month-to-month,UPI AutoPay,Priority,31,14,8907,124698,0,9.9,10,Yes,No
+CUST-5791,2023-03-30,Retail,Premium,Month-to-month,Bank Transfer,Standard,16,1,5746,5746,6,5,5,Yes,Yes
+CUST-5792,2023-10-26,Healthcare,Enterprise,One year,Net Banking,Standard,86,14,48533,679462,2,4.9,7,No,No
+CUST-5793,2024-02-10,Media,Basic,Two year,UPI AutoPay,Dedicated,4,32,591,18912,3,5.3,8,Yes,No
+CUST-5794,2022-03-01,Logistics,Enterprise,One year,UPI AutoPay,Priority,101,3,54771,164313,3,5.4,,Yes,No
+CUST-5795,2022-08-19,Education,Enterprise,Two year,Net Banking,Priority,88,34,52564,1787176,2,3.4,6,Yes,No
+CUST-5796,2023-05-09,Healthcare,Premium,One year,Wallet,Standard,44,16,10454,167264,3,3.9,7,Yes,No
+CUST-5797,2023-02-20,Logistics,Enterprise,Two year,UPI AutoPay,Standard,89,16,48294,772704,6,1.6,5,Yes,No
+CUST-5798,2024-04-24,Manufacturing,Enterprise,Month-to-month,UPI AutoPay,Dedicated,67,14,38324,536536,0,9.1,8,No,No
+CUST-5799,2023-02-06,Logistics,Premium,One year,Credit Card,Standard,42,19,9892,187948,3,9.5,6,No,No
+CUST-5800,2022-04-23,Retail,Basic,One year,Bank Transfer,Priority,8,20,715,14300,3,3.2,3,No,No
+CUST-5801,2024-04-08,Media,Enterprise,Two year,Wallet,Priority,83,29,48550,1407950,0,8.3,10,No,No
+CUST-5802,2023-04-08,Education,Enterprise,One year,Wallet,Standard,71,23,40265,926095,0,4.5,7,No,No
+CUST-5803,2023-03-20,Manufacturing,Enterprise,Two year,Credit Card,Standard,84,38,48955,1860290,0,10.7,7,No,No
+CUST-5804,2023-10-20,Professional Services,Standard,Two year,UPI AutoPay,Dedicated,12,35,2143,75005,3,7,7,No,No
+CUST-5805,2023-07-21,Manufacturing,Premium,Month-to-month,Net Banking,Priority,14,5,5587,27935,7,3.3,5,Yes,Yes
+CUST-5806,2024-05-01,Logistics,Standard,One year,UPI AutoPay,Dedicated,20,16,2785,44560,5,9.4,7,No,No
+CUST-5807,2023-03-27,Retail,Premium,One year,Bank Transfer,Priority,42,9,10999,98991,7,9,6,Yes,No
+CUST-5808,2023-12-11,Media,Premium,Month-to-month,UPI AutoPay,Dedicated,29,29,7670,222430,0,7.1,8,Yes,No
+CUST-5809,2022-05-25,Healthcare,Enterprise,Two year,Wallet,Standard,89,24,52810,1267440,0,2.5,10,Yes,No
+CUST-5810,2023-10-09,Manufacturing,Premium,Month-to-month,Bank Transfer,Dedicated,29,2,8663,17326,7,6.8,6,No,Yes
+CUST-5811,2022-06-21,Media,Basic,Two year,Wallet,Standard,13,39,913,35607,6,4.8,6,Yes,No
+CUST-5812,2023-04-17,Retail,Enterprise,One year,Wallet,Standard,86,18,50656,911808,7,4.1,8,No,No
+CUST-5813,2023-01-05,Manufacturing,Basic,Month-to-month,UPI AutoPay,Dedicated,9,1,752,752,0,0.2,7,No,No
+CUST-5814,2023-03-26,Logistics,Enterprise,Two year,Net Banking,Dedicated,70,22,42073,925606,2,2.2,8,Yes,No
+CUST-5815,2023-02-28,Logistics,Standard,Two year,Credit Card,Priority,1,8,1275,10200,0,7.3,6,No,No
+CUST-5816,2022-07-25,Professional Services,Premium,Month-to-month,Wallet,Standard,1,10,3108,31080,2,5.8,6,No,No
+CUST-5817,2023-02-08,Education,Standard,Month-to-month,Wallet,Standard,9,1,2042,2042,0,3.9,7,Yes,Yes
+CUST-5818,2023-06-16,Education,Enterprise,One year,Bank Transfer,Dedicated,76,5,43501,217505,0,6.2,10,Yes,No
+CUST-5819,2022-07-12,Healthcare,Basic,Two year,UPI AutoPay,Dedicated,1,22,484,10648,1,4.6,5,No,No
+CUST-5820,2022-07-31,Professional Services,Basic,Two year,Net Banking,Priority,14,21,922,19362,5,5,6,No,No
+CUST-5821,2023-01-10,Professional Services,Standard,Month-to-month,Wallet,Standard,11,7,2032,14224,5,3.9,,No,No
+CUST-5822,2022-12-06,Retail,Premium,Two year,Bank Transfer,Standard,15,15,5696,85440,1,8.4,,No,No
+CUST-5823,2022-08-30,Healthcare,Basic,Month-to-month,Wallet,Priority,18,10,1021,10210,4,2.2,,No,Yes
+CUST-5824,2023-12-07,Logistics,Premium,Month-to-month,UPI AutoPay,Priority,30,6,8179,49074,2,3.9,4,No,No
+CUST-5825,2023-02-11,Logistics,Standard,Month-to-month,Net Banking,Standard,8,7,1964,13748,0,6.8,8,Yes,No
+CUST-5826,2024-05-20,Manufacturing,Basic,Month-to-month,Wallet,Priority,5,7,619,4333,1,5.7,6,No,Yes
+CUST-5827,2022-07-21,Healthcare,Basic,Two year,UPI AutoPay,Priority,42,29,1644,47676,0,6.4,6,No,No
+CUST-5828,2022-02-04,Retail,Basic,Two year,Credit Card,Standard,1,14,522,7308,3,4.1,6,Yes,No
+CUST-5829,2023-09-13,Retail,Basic,Month-to-month,Credit Card,Standard,1,17,526,8942,3,7,3,No,No
+CUST-5830,2023-06-25,Professional Services,Standard,Month-to-month,Credit Card,Standard,12,1,2164,2164,2,9.7,7,No,Yes
+CUST-5831,2023-11-25,Healthcare,Standard,Two year,UPI AutoPay,Dedicated,1,17,1269,21573,2,8.2,6,No,No
+CUST-5832,2022-01-31,Logistics,Enterprise,One year,Net Banking,Dedicated,74,22,45622,1003684,4,3.3,8,No,No
+CUST-5833,2023-11-21,Education,Premium,Two year,UPI AutoPay,Standard,23,37,7488,277056,0,6.4,4,No,No
+CUST-5834,2022-03-11,Education,Premium,Two year,Credit Card,Dedicated,25,34,7136,242624,2,5.2,8,Yes,No
+CUST-5835,2024-02-02,Professional Services,Enterprise,Two year,UPI AutoPay,Dedicated,76,25,45135,1128375,1,4.1,8,Yes,No
+CUST-5836,2023-09-13,Logistics,Basic,One year,Net Banking,Priority,17,11,1003,11033,0,4.4,6,No,Yes
+CUST-5837,2023-04-05,Logistics,Basic,One year,Credit Card,Priority,1,10,478,4780,2,0,4,No,No
+CUST-5838,2024-02-25,Education,Standard,Two year,Bank Transfer,Priority,1,31,1243,38533,0,8.3,,Yes,No
+CUST-5839,2022-02-19,Retail,Standard,Month-to-month,Wallet,Priority,1,9,1279,11511,0,7.4,7,Yes,Yes
+CUST-5840,2023-05-14,Manufacturing,Standard,Two year,Net Banking,Dedicated,12,38,2170,82460,2,2.3,7,No,No
+CUST-5841,2023-11-27,Retail,Enterprise,Two year,UPI AutoPay,Priority,81,22,44662,982564,5,8.7,7,No,No
+CUST-5842,2022-02-28,Professional Services,Basic,Two year,UPI AutoPay,Dedicated,2,27,535,14445,4,1.1,7,No,No
+CUST-5843,2023-10-30,Retail,Standard,Two year,UPI AutoPay,Priority,5,26,1570,40820,2,6.3,4,No,No
+CUST-5844,2022-07-02,Logistics,Premium,Two year,UPI AutoPay,Standard,30,12,8674,104088,2,10.3,6,No,No
+CUST-5845,2023-12-30,Healthcare,Premium,Month-to-month,Bank Transfer,Dedicated,34,17,9436,160412,1,9,6,Yes,No
+CUST-5846,2022-12-06,Logistics,Standard,Two year,Bank Transfer,Priority,1,28,1317,36876,4,11.5,6,Yes,No
+CUST-5847,2024-06-06,Professional Services,Standard,Month-to-month,Wallet,Standard,9,6,1932,11592,4,5.9,7,No,Yes
+CUST-5848,2022-03-06,Manufacturing,Standard,Two year,Net Banking,Dedicated,1,32,1303,41696,0,11.8,8,No,No
+CUST-5849,2023-04-17,Retail,Standard,Two year,Credit Card,Priority,21,12,2841,34092,2,9,6,Yes,No
+CUST-5850,2022-05-28,Manufacturing,Standard,Month-to-month,UPI AutoPay,Priority,1,12,1344,16128,2,4,4,No,No
+CUST-5851,2022-09-21,Logistics,Basic,Two year,Wallet,Priority,1,20,526,10520,7,0,5,Yes,No
+CUST-5852,2023-10-01,Professional Services,Enterprise,One year,Bank Transfer,Standard,61,12,38623,463476,5,6,6,No,No
+CUST-5853,2022-05-07,Media,Enterprise,One year,Wallet,Dedicated,88,6,47975,287850,2,1.6,8,No,Yes
+CUST-5854,2023-06-23,Manufacturing,Premium,One year,Net Banking,Standard,22,16,6471,103536,1,3.1,7,Yes,No
+CUST-5855,2022-05-25,Retail,Standard,Two year,Bank Transfer,Priority,26,25,3315,82875,5,3.6,3,No,No
+CUST-5856,2024-01-17,Media,Enterprise,One year,UPI AutoPay,Priority,89,18,51038,918684,3,10.7,7,Yes,No
+CUST-5857,2022-09-17,Professional Services,Basic,Month-to-month,Net Banking,Standard,8,23,747,17181,4,9.2,5,No,No
+CUST-5858,2024-04-20,Media,Standard,One year,Credit Card,Priority,14,19,2401,45619,1,6,5,No,No
+CUST-5859,2023-07-28,Retail,Premium,One year,Net Banking,Priority,26,32,7196,230272,3,7.1,3,No,Yes
+CUST-5860,2022-03-02,Manufacturing,Standard,One year,Credit Card,Dedicated,4,27,1462,39474,3,6.3,8,Yes,No
+CUST-5861,2024-05-08,Logistics,Enterprise,Two year,Bank Transfer,Standard,110,35,58677,2053695,6,11.5,7,No,No
+CUST-5862,2022-06-28,Logistics,Basic,Two year,Wallet,Priority,18,16,1043,16688,5,1.3,4,No,Yes
+CUST-5863,2023-08-22,Retail,Standard,Two year,Wallet,Standard,16,25,2508,62700,0,5.8,8,Yes,No
+CUST-5864,2022-05-09,Professional Services,Premium,One year,Credit Card,Priority,21,8,6960,55680,3,4.3,9,No,Yes
+CUST-5865,2023-04-12,Healthcare,Basic,Two year,Credit Card,Priority,1,18,509,9162,5,11.6,3,No,Yes
+CUST-5866,2024-03-10,Logistics,Standard,Two year,Net Banking,Priority,1,27,1342,36234,6,4.9,5,Yes,No
+CUST-5867,2024-03-28,Healthcare,Standard,One year,Wallet,Standard,12,8,2069,16552,0,7.3,6,No,No
+CUST-5868,2024-01-29,Healthcare,Enterprise,Two year,Credit Card,Standard,63,14,40091,561274,6,4.7,6,Yes,No
+CUST-5869,2023-09-27,Healthcare,Basic,Two year,Net Banking,Standard,1,23,526,12098,2,4.5,7,No,No
+CUST-5870,2023-11-03,Healthcare,Enterprise,Month-to-month,UPI AutoPay,Priority,92,19,53279,1012301,2,2.7,8,No,No
+CUST-5871,2022-03-04,Media,Standard,Two year,Net Banking,Dedicated,20,19,2651,50369,1,2.6,8,No,No
+CUST-5872,2023-01-14,Manufacturing,Premium,Two year,Credit Card,Dedicated,1,34,2998,101932,5,4.2,6,Yes,No
+CUST-5873,2023-11-07,Manufacturing,Standard,Two year,Net Banking,Standard,1,25,1245,31125,0,9.4,8,Yes,No
+CUST-5874,2023-02-15,Logistics,Standard,Month-to-month,UPI AutoPay,Standard,11,1,2076,2076,4,2.4,8,No,No
+CUST-5875,2023-05-03,Media,Standard,Month-to-month,Bank Transfer,Priority,1,28,1376,38528,3,,4,No,No
+CUST-5876,2024-05-26,Media,Standard,Two year,Credit Card,Priority,16,21,2552,53592,3,8.4,6,Yes,No
+CUST-5877,2022-11-14,Education,Basic,Month-to-month,Net Banking,Priority,12,26,846,21996,1,,10,No,No
+CUST-5878,2023-05-18,Logistics,Enterprise,Two year,Net Banking,Priority,98,26,55041,1431066,5,,7,No,No
+CUST-5879,2024-02-05,Education,Basic,Two year,Bank Transfer,Standard,12,34,874,29716,2,3.6,5,Yes,No
+CUST-5880,2023-03-30,Education,Enterprise,Month-to-month,Bank Transfer,Standard,108,13,58625,762125,2,6.4,9,No,No
+CUST-5881,2023-07-29,Manufacturing,Basic,One year,Net Banking,Dedicated,11,37,851,31487,3,3.4,6,No,No
+CUST-5882,2022-04-07,Retail,Premium,Month-to-month,Net Banking,Dedicated,6,1,4032,4032,4,3.9,4,No,Yes
+CUST-5883,2023-06-15,Logistics,Basic,Two year,Bank Transfer,Priority,31,38,1345,51110,4,3.6,7,No,No
+CUST-5884,2022-11-21,Media,Premium,Month-to-month,UPI AutoPay,Standard,41,15,9846,147690,8,3.7,5,No,Yes
+CUST-5885,2022-10-20,Manufacturing,Enterprise,One year,Bank Transfer,Dedicated,99,21,53374,1120854,7,8,7,No,No
+CUST-5886,2022-02-11,Manufacturing,Premium,Two year,Net Banking,Dedicated,35,20,9297,185940,6,5.9,10,Yes,No
+CUST-5887,2023-04-08,Professional Services,Enterprise,One year,Bank Transfer,Priority,74,30,44112,1323360,3,5.5,6,No,No
+CUST-5888,2023-03-31,Manufacturing,Basic,Month-to-month,Net Banking,Standard,3,19,541,10279,1,8.5,,No,No
+CUST-5889,2023-09-21,Manufacturing,Basic,One year,UPI AutoPay,Standard,13,1,863,863,4,3.7,9,No,No
+CUST-5890,2023-11-24,Media,Basic,One year,UPI AutoPay,Dedicated,14,26,854,22204,2,4.5,7,No,No
+CUST-5891,2022-09-17,Media,Standard,Two year,UPI AutoPay,Dedicated,13,32,2274,72768,3,3.8,6,Yes,No
+CUST-5892,2023-05-24,Education,Enterprise,Two year,Net Banking,Dedicated,82,21,48959,1028139,5,3.5,9,No,No
+CUST-5893,2022-09-24,Logistics,Basic,Month-to-month,Credit Card,Priority,1,1,518,518,2,2,6,Yes,No
+CUST-5894,2023-10-05,Logistics,Standard,One year,Wallet,Standard,1,8,1249,9992,4,6.2,6,No,No
+CUST-5895,2022-05-26,Education,Enterprise,One year,Wallet,Dedicated,84,16,45799,732784,4,4.9,7,No,No
+CUST-5896,2022-06-04,Healthcare,Premium,Month-to-month,Credit Card,Priority,16,1,5601,5601,4,9.6,3,Yes,No
+CUST-5897,2023-06-17,Logistics,Basic,Two year,UPI AutoPay,Standard,10,27,744,20088,0,2.4,5,No,No
+CUST-5898,2022-02-20,Education,Standard,One year,UPI AutoPay,Dedicated,15,5,2494,12470,1,6.4,4,No,Yes
+CUST-5899,2023-05-24,Logistics,Premium,Two year,Wallet,Standard,12,22,4822,106084,2,3.8,8,Yes,No
+CUST-5701,2023-03-29,Media,Enterprise,One year,Net Banking,Dedicated,93,12,55328,663936,3,6.1,7,Yes,No
+CUST-5044,2023-11-14,Media,Premium,One year,Wallet,Dedicated,19,25,6667,166675,8,5.8,7,No,No
+CUST-5629,2022-01-20,Logistics,Premium,Two year,Credit Card,Standard,21,8,6548,52384,5,7.7,4,Yes,No
+CUST-5265,2023-01-17,Logistics,Standard,Two year,Credit Card,Standard,20,31,2812,87172,6,5.2,3,No,No
+CUST-5767,2023-05-18,Retail,Enterprise,Month-to-month,Net Banking,Priority,79,1,44003,44003,2,6.9,7,Yes,No
+CUST-5731,2022-12-23,Professional Services,Standard,Two year,UPI AutoPay,Dedicated,5,20,1624,32480,8,6.4,7,Yes,Yes
+CUST-5074,2023-09-27,Healthcare,Enterprise,Month-to-month,Credit Card,Standard,78,1,45116,45116,3,2.5,7,Yes,No
+CUST-5141,2022-05-10,Manufacturing,Premium,One year,Net Banking,Dedicated,36,8,8953,71624,4,8.9,3,Yes,Yes
+CUST-5121,2022-04-15,Logistics,Standard,One year,Net Banking,Dedicated,11,13,2167,28171,6,4.8,3,No,No

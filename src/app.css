@@ -1,0 +1,234 @@
+@import 'tailwindcss';
+@import '@fontsource-variable/inter';
+
+/*
+  DataStory design system.
+  - Calm neutral base (cool grey paper in light, deep navy-ink in dark)
+  - ONE strong accent: indigo. Used for primary actions, active state and focus rings.
+  - A separate 10-colour chart palette that is tuned for BOTH modes (see --chart-*).
+  Every surface/text token is a CSS variable swapped by the `.dark` class, so Tailwind
+  utilities like `bg-surface` / `text-muted` work identically in both themes.
+*/
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+@theme {
+	--font-sans: 'Inter Variable', ui-sans-serif, system-ui, -apple-system, 'Segoe UI', sans-serif;
+	--font-mono: ui-monospace, 'SF Mono', 'JetBrains Mono', 'Fira Code', monospace;
+
+	--color-canvas: var(--ds-canvas);
+	--color-surface: var(--ds-surface);
+	--color-raised: var(--ds-raised);
+	--color-line: var(--ds-line);
+	--color-line-strong: var(--ds-line-strong);
+	--color-ink: var(--ds-ink);
+	--color-body: var(--ds-body);
+	--color-muted: var(--ds-muted);
+	--color-faint: var(--ds-faint);
+
+	--color-accent: var(--ds-accent);
+	--color-accent-hover: var(--ds-accent-hover);
+	--color-accent-soft: var(--ds-accent-soft);
+	--color-accent-ink: var(--ds-accent-ink);
+
+	--color-positive: var(--ds-positive);
+	--color-positive-soft: var(--ds-positive-soft);
+	--color-caution: var(--ds-caution);
+	--color-caution-soft: var(--ds-caution-soft);
+	--color-critical: var(--ds-critical);
+	--color-critical-soft: var(--ds-critical-soft);
+
+	--radius-card: 0.875rem;
+
+	--shadow-card: 0 1px 2px rgb(15 23 42 / 0.04), 0 1px 3px rgb(15 23 42 / 0.06);
+	--shadow-lift: 0 4px 6px -1px rgb(15 23 42 / 0.07), 0 12px 24px -8px rgb(15 23 42 / 0.12);
+}
+
+:root {
+	color-scheme: light;
+	--ds-canvas: #f6f7f9;
+	--ds-surface: #ffffff;
+	--ds-raised: #fbfcfd;
+	--ds-line: #e4e7ec;
+	--ds-line-strong: #cdd3dc;
+	--ds-ink: #0f172a;
+	--ds-body: #334155;
+	--ds-muted: #64748b;
+	--ds-faint: #94a3b8;
+
+	--ds-accent: #4f46e5;
+	--ds-accent-hover: #4338ca;
+	--ds-accent-soft: #eef2ff;
+	--ds-accent-ink: #ffffff;
+
+	--ds-positive: #047857;
+	--ds-positive-soft: #ecfdf5;
+	--ds-caution: #b45309;
+	--ds-caution-soft: #fffbeb;
+	--ds-critical: #be123c;
+	--ds-critical-soft: #fff1f2;
+
+	/* Chart palette - light mode. Deeper, saturated hues on white. */
+	--chart-1: #4f46e5;
+	--chart-2: #0d9488;
+	--chart-3: #db2777;
+	--chart-4: #d97706;
+	--chart-5: #2563eb;
+	--chart-6: #65a30d;
+	--chart-7: #9333ea;
+	--chart-8: #dc2626;
+	--chart-9: #0891b2;
+	--chart-10: #7c5c3e;
+
+	--chart-grid: #e8ebf0;
+	--chart-axis: #64748b;
+	--chart-label: #334155;
+	--chart-tooltip-bg: #ffffff;
+	--chart-tooltip-line: #cdd3dc;
+}
+
+.dark {
+	color-scheme: dark;
+	--ds-canvas: #0b1020;
+	--ds-surface: #151b2d;
+	--ds-raised: #1b2236;
+	--ds-line: #27304a;
+	--ds-line-strong: #39435f;
+	--ds-ink: #f1f5f9;
+	--ds-body: #cbd5e1;
+	--ds-muted: #94a3b8;
+	--ds-faint: #64748b;
+
+	--ds-accent: #818cf8;
+	--ds-accent-hover: #a5b4fc;
+	--ds-accent-soft: #1e2348;
+	--ds-accent-ink: #0b1020;
+
+	--ds-positive: #34d399;
+	--ds-positive-soft: #0d2a24;
+	--ds-caution: #fbbf24;
+	--ds-caution-soft: #2e2309;
+	--ds-critical: #fb7185;
+	--ds-critical-soft: #2d1019;
+
+	/* Chart palette - dark mode. Lifted lightness so every series clears AA on #151b2d. */
+	--chart-1: #818cf8;
+	--chart-2: #2dd4bf;
+	--chart-3: #f472b6;
+	--chart-4: #fbbf24;
+	--chart-5: #60a5fa;
+	--chart-6: #a3e635;
+	--chart-7: #c084fc;
+	--chart-8: #fb7185;
+	--chart-9: #22d3ee;
+	--chart-10: #d6b08c;
+
+	--chart-grid: #27304a;
+	--chart-axis: #94a3b8;
+	--chart-label: #cbd5e1;
+	--chart-tooltip-bg: #1b2236;
+	--chart-tooltip-line: #39435f;
+}
+
+html,
+body {
+	background-color: var(--ds-canvas);
+	color: var(--ds-body);
+	font-family: var(--font-sans);
+	-webkit-font-smoothing: antialiased;
+}
+
+/* Theme change is animated once, globally, instead of per component. */
+html.theme-animating,
+html.theme-animating * {
+	transition:
+		background-color 200ms ease,
+		border-color 200ms ease,
+		color 200ms ease !important;
+}
+
+*:focus-visible {
+	outline: 2px solid var(--ds-accent);
+	outline-offset: 2px;
+	border-radius: 4px;
+}
+
+::selection {
+	background: var(--ds-accent);
+	color: var(--ds-accent-ink);
+}
+
+/* Scrollbars that do not fight the neutral base. */
+* {
+	scrollbar-width: thin;
+	scrollbar-color: var(--ds-line-strong) transparent;
+}
+*::-webkit-scrollbar {
+	width: 10px;
+	height: 10px;
+}
+*::-webkit-scrollbar-thumb {
+	background: var(--ds-line-strong);
+	border-radius: 999px;
+	border: 3px solid transparent;
+	background-clip: content-box;
+}
+
+@utility card {
+	background-color: var(--ds-surface);
+	border: 1px solid var(--ds-line);
+	border-radius: var(--radius-card);
+	box-shadow: var(--shadow-card);
+}
+
+@keyframes ds-shimmer {
+	100% {
+		transform: translateX(100%);
+	}
+}
+
+/* Skeleton loader used while a file is being parsed / analysed. */
+@utility skeleton {
+	position: relative;
+	overflow: hidden;
+	background-color: var(--ds-line);
+	border-radius: 6px;
+}
+.skeleton::after {
+	content: '';
+	position: absolute;
+	inset: 0;
+	transform: translateX(-100%);
+	background: linear-gradient(90deg, transparent, var(--ds-raised), transparent);
+	animation: ds-shimmer 1.4s infinite;
+}
+
+@keyframes ds-rise {
+	from {
+		opacity: 0;
+		transform: translateY(6px);
+	}
+	to {
+		opacity: 1;
+		transform: none;
+	}
+}
+@utility rise {
+	animation: ds-rise 260ms cubic-bezier(0.22, 1, 0.36, 1) both;
+}
+
+@media (prefers-reduced-motion: reduce) {
+	*,
+	*::before,
+	*::after {
+		animation-duration: 0.01ms !important;
+		animation-iteration-count: 1 !important;
+		transition-duration: 0.01ms !important;
+	}
+}
+
+@media print {
+	.no-print {
+		display: none !important;
+	}
+}
