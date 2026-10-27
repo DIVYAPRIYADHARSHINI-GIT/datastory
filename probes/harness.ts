@@ -159,6 +159,25 @@ export async function waitForCharts(page: Page, min = 1): Promise<void> {
 	await page.waitForTimeout(600);
 }
 
+/**
+ * Choose a file the way a user does.
+ *
+ * The file input is deliberately `display:none` behind a styled drop zone, so
+ * `setInputFiles` on it is a Playwright-only affordance that bypasses the UI entirely.
+ * Clicking the drop zone and answering the resulting file chooser exercises the real path.
+ */
+export async function pickFile(
+	page: Page,
+	file: { name: string; mimeType: string; buffer: Buffer }
+): Promise<void> {
+	await page.waitForSelector('input[type=file]', { state: 'attached', timeout: 60_000 });
+	const [chooser] = await Promise.all([
+		page.waitForEvent('filechooser', { timeout: 30_000 }),
+		page.getByRole('button', { name: /Drop a CSV or Excel file/i }).click()
+	]);
+	await chooser.setFiles(file);
+}
+
 /** Load a built-in sample and land on the data preview screen. */
 export async function loadSample(page: Page, origin: string, id: string): Promise<void> {
 	await page.goto(`${origin}/upload/?sample=${id}`, { waitUntil: 'load' });

@@ -12,6 +12,7 @@ import {
 	ensureDashboard,
 	loadSample,
 	openProbe,
+	pickFile,
 	textOf,
 	waitForCharts,
 	type Probe
@@ -576,7 +577,7 @@ describe('error handling', () => {
 	it('explains an unsupported file instead of failing silently', async () => {
 		const { page, origin } = probe;
 		await page.goto(`${origin}/upload/`, { waitUntil: 'load' });
-		await page.locator('input[type=file]').setInputFiles({
+		await pickFile(page, {
 			name: 'photo.pdf',
 			mimeType: 'application/pdf',
 			buffer: Buffer.from('%PDF-1.4 not a spreadsheet')
@@ -589,7 +590,7 @@ describe('error handling', () => {
 
 	it('explains an empty file', async () => {
 		const { page } = probe;
-		await page.locator('input[type=file]').setInputFiles({
+		await pickFile(page, {
 			name: 'empty.csv',
 			mimeType: 'text/csv',
 			buffer: Buffer.from('')
@@ -600,7 +601,7 @@ describe('error handling', () => {
 
 	it('explains a header-only CSV', async () => {
 		const { page } = probe;
-		await page.locator('input[type=file]').setInputFiles({
+		await pickFile(page, {
 			name: 'headers.csv',
 			mimeType: 'text/csv',
 			buffer: Buffer.from('Region,Revenue\n')
@@ -616,7 +617,7 @@ describe('error handling', () => {
 			const month = `2024-${String((i % 12) + 1).padStart(2, '0')}-15`;
 			rows.push(`${month},Store ${(i % 4) + 1},${1000 + i * 25},${10 + (i % 17)}`);
 		}
-		await page.locator('input[type=file]').setInputFiles({
+		await pickFile(page, {
 			name: 'store-sales.csv',
 			mimeType: 'text/csv',
 			buffer: Buffer.from(rows.join('\n'))
